@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>135B92DBE9FAF772</id>
+    <version>
+      <size>0x000000000000010F</size>
+      <parent_id>89A4B3DD1BD59A74</parent_id>
+      <address>433160</address>
+      <proto>char *__thiscall sub(LvlArchive *this, char *pFileName)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">245155A2</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">69272EA13C63AD4E</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000001B">2F19A191D898E2D9</xref>
+        <xref offset="0x000000000000001B" size="0x0000000000000016">AAC76B5DCCE31F76</xref>
+        <xref offset="0x0000000000000031" size="0x0000000000000006">1562F88DF36150AF</xref>
+        <xref offset="0x0000000000000037" size="0x000000000000000F">0347848B655CD75C</xref>
+        <xref offset="0x0000000000000046" size="0x0000000000000003">ED6579318D46560C</xref>
+        <xref offset="0x0000000000000049" size="0x0000000000000014">BF529C181D6DC096</xref>
+        <xref offset="0x000000000000005D" size="0x000000000000000A">8F0BF3F0C22F3BD2</xref>
+        <xref offset="0x0000000000000067" size="0x0000000000000009">149F70C3D9BB735A</xref>
+        <xref offset="0x0000000000000070" size="0x0000000000000009">4B0B18A27A72CA85</xref>
+        <xref offset="0x0000000000000079" size="0x0000000000000013">C5D469459A6CE0EB</xref>
+        <xref offset="0x000000000000008C" size="0x000000000000006C">EDF05195ECB739AD</xref>
+        <xref offset="0x00000000000000F8" size="0x000000000000000E">A3F622C4D41544ED</xref>
+        <xref offset="0x0000000000000106" size="0x0000000000000009">58A5C6681B21AE39</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

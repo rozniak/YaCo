@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E86EF4026B15E486</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <parent_id>FC4B060DF043DFCC</parent_id>
+      <address>4FA510</address>
+      <userdefinedname flags="0x00000054">File_write_4FA510</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">97DEAC92</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">unsigned int</comments>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">void *</comments>
+        <comments offset="000000000000000E" type="nonrepeatable_comment">int</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000008" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">3DBE7FDBCDBBDD9D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

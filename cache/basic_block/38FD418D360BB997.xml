@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>38FD418D360BB997</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>9014E7F9461E532A</parent_id>
+      <address>4FA470</address>
+      <userdefinedname flags="0x00000054">File_open_4FA470</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C349C48C</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">int</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">char *</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">C12F0B08A6E49BC2</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

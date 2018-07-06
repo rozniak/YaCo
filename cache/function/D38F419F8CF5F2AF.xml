@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>D38F419F8CF5F2AF</id>
+    <version>
+      <size>0x0000000000000067</size>
+      <parent_id>89A4B3DD1BD59A74</parent_id>
+      <address>4330A0</address>
+      <proto>int __stdcall sub(int, void *)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">AAB4EF53</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">C5D4CB69CE3B0BF4</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000A">5EF19B66F397D3D1</xref>
+        <xref offset="0x000000000000000A" size="0x0000000000000008">2D75F7C4E6C5DE8B</xref>
+        <xref offset="0x0000000000000012" size="0x0000000000000043">932C790EF6E4796E</xref>
+        <xref offset="0x0000000000000055" size="0x0000000000000002">D5F77D93B886563B</xref>
+        <xref offset="0x0000000000000057" size="0x0000000000000008">2AADDDA2DA962B94</xref>
+        <xref offset="0x000000000000005F" size="0x0000000000000008">A450EE7BAADCAEA6</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A3326303D69DA6B1</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>F04EBC9159C55C2E</parent_id>
+      <address>432E00</address>
+      <userdefinedname flags="0x00000054">LvlArchive_Static_432E00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">A1381E34</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">C3645185B863CEF1</xref>
+        <xref offset="0x0000000000000040">882E4FA2E74E875C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

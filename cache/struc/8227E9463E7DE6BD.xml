@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>8227E9463E7DE6BD</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <address>A0</address>
+      <userdefinedname>PSX_RECT</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">1B1217F74571165A</xref>
+        <xref offset="0x0000000000000002">BE570BCD6C2A3819</xref>
+        <xref offset="0x0000000000000004">0F3E9731CC24BCA7</xref>
+        <xref offset="0x0000000000000006">D46D424AE3BD4BE4</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

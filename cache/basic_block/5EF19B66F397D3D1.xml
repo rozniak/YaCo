@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5EF19B66F397D3D1</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>D38F419F8CF5F2AF</parent_id>
+      <address>4330A0</address>
+      <userdefinedname flags="0x00000054">LvlArchive::sub_4330A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">12984DD4</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">2D75F7C4E6C5DE8B</xref>
+        <xref offset="0x000000000000005F">A450EE7BAADCAEA6</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
