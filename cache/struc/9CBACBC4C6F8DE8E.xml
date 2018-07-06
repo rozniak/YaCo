@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>9CBACBC4C6F8DE8E</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <address>F9</address>
+      <userdefinedname>PrimHeader</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">90E13029BFD8B5A1</xref>
+        <xref offset="0x0000000000000004">7719A17D632694B4</xref>
+        <xref offset="0x0000000000000005">2B08B5B41108AD00</xref>
+        <xref offset="0x0000000000000006">C381379BA39FDC6A</xref>
+        <xref offset="0x0000000000000008">07C7BC7C7A80674A</xref>
+        <xref offset="0x0000000000000009">E19F564F9BEC3CAB</xref>
+        <xref offset="0x000000000000000A">35FB7EBE3DD59D07</xref>
+        <xref offset="0x000000000000000B">BB2F522DDCF50340</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

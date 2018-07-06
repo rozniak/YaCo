@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>E4B7ECC349199EF5</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <address>FC</address>
+      <userdefinedname>Poly_F3</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">53EB3545C25949B8</xref>
+        <xref offset="0x000000000000000C">FF23E79DF6792C47</xref>
+        <xref offset="0x000000000000000E">475F7448A8D88C66</xref>
+        <xref offset="0x0000000000000010">123234766DDABB76</xref>
+        <xref offset="0x0000000000000012">EAA26FD1E5BDCBAD</xref>
+        <xref offset="0x0000000000000014">E12B0836D2B0FB86</xref>
+        <xref offset="0x0000000000000016">E4093C2784067233</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
