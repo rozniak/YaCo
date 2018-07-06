@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>246D943918F9ADCA</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>31975041921BF0B6</parent_id>
+      <address>415390</address>
+      <userdefinedname flags="0x00000054">ClearProperties_415390</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D50B833C</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">041A0C51689B45EF</xref>
+        <xref offset="0x000000000000000A">795721C70367426F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
