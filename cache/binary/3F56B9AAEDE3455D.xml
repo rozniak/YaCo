@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <binary>
+    <id>3F56B9AAEDE3455D</id>
+    <version>
+      <size>0x000000000083E7F0</size>
+      <address>400000</address>
+      <userdefinedname>Exoddus_NoStubs.exe</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000001000">089B8CACED546F32</xref>
+        <xref offset="0x0000000000144000">CE00521C6CC8DF20</xref>
+        <xref offset="0x0000000000150000">4B375E5B2429B50E</xref>
+        <xref offset="0x000000000083F448">904BC599EAD3A7CF</xref>
+      </xrefs>
+      <attribute key="format">Portable executable for 80386 (PE)</attribute>
+    </version>
+  </binary>
+</sigfile>

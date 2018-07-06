@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <segment>
+    <id>089B8CACED546F32</id>
+    <version>
+      <size>0x0000000000143000</size>
+      <parent_id>3F56B9AAEDE3455D</parent_id>
+      <address>401000</address>
+      <userdefinedname>.text</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E49E5BF85F8FEFE1</xref>
+        <xref offset="0x0000000000010000">B7AD2001E52C57D7</xref>
+        <xref offset="0x0000000000020000">867AEA9E07CB833F</xref>
+        <xref offset="0x0000000000030000">89A4B3DD1BD59A74</xref>
+        <xref offset="0x0000000000040000">06D8235EC68AC44D</xref>
+        <xref offset="0x0000000000050000">6AC3B5E1C82E804B</xref>
+        <xref offset="0x0000000000060000">AE26A4DABAB7262C</xref>
+        <xref offset="0x0000000000070000">07F329875772FE58</xref>
+        <xref offset="0x0000000000080000">8FE12C0A937F6B59</xref>
+        <xref offset="0x0000000000090000">E6B3CE382A0B99D8</xref>
+        <xref offset="0x00000000000A0000">58A1898A5BF9FAD9</xref>
+        <xref offset="0x00000000000B0000">073FC27073D20B2C</xref>
+        <xref offset="0x00000000000C0000">BE343338ECCF6682</xref>
+        <xref offset="0x00000000000D0000">064082DEBD40CCC3</xref>
+        <xref offset="0x00000000000E0000">3195A365591CA35B</xref>
+        <xref offset="0x00000000000F0000">3FEDF1CE89A2A92F</xref>
+        <xref offset="0x0000000000100000">D9E108DCC1786ADD</xref>
+        <xref offset="0x0000000000110000">29D695D5FA4A0470</xref>
+        <xref offset="0x0000000000120000">449E08233B24A126</xref>
+        <xref offset="0x0000000000130000">39142FDC6A6DC406</xref>
+        <xref offset="0x0000000000140000">1AAD0A39F708422A</xref>
+      </xrefs>
+      <attribute key="org_base">0</attribute>
+      <attribute key="comb">2</attribute>
+      <attribute key="align">3</attribute>
+      <attribute key="start_ea">4198400</attribute>
+      <attribute key="perm">5</attribute>
+      <attribute key="bitness">1</attribute>
+      <attribute key="flags">16</attribute>
+      <attribute key="end_ea">5521408</attribute>
+      <attribute key="sel">1</attribute>
+      <attribute key="type">2</attribute>
+      <attribute key="es">0</attribute>
+      <attribute key="cs">0</attribute>
+      <attribute key="ss">0</attribute>
+      <attribute key="ds">3</attribute>
+    </version>
+  </segment>
+</sigfile>
