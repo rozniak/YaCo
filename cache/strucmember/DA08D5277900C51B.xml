@@ -3,11 +3,11 @@
   <strucmember>
     <id>DA08D5277900C51B</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000002</size>
       <parent_id>2BE373D2139C695E</parent_id>
       <address>16</address>
       <userdefinedname>field_16_dataOffset</userdefinedname>
-      <flags>0x20000400</flags>
+      <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
     </version>
