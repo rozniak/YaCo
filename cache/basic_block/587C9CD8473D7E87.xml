@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>587C9CD8473D7E87</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>2FAA355F6A87DCEF</parent_id>
+      <address>492610</address>
+      <userdefinedname flags="0x00000054">Input::ReadKey_492610</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1F339BA6</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">F17FBF4ABDBA52D5</xref>
+        <xref offset="0x0000000000000009">6D8A8457A0CAE1D8</xref>
+        <xref offset="0x000000000000000E">FAA7235DF29BA7C8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

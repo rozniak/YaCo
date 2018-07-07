@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B6111578494C0671</id>
+    <version>
+      <size>0x0000000000000078</size>
+      <parent_id>F0D8B7338D53C228</parent_id>
+      <address>4C90D0</address>
+      <userdefinedname flags="0x00000054">Quicksave_4C90D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">3E1E77EF</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">a6</comments>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000012" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000026" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000028" type="nonrepeatable_comment">a5</comments>
+        <comments offset="000000000000002D" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000032" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000034" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000041" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000043" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000048" type="nonrepeatable_comment">a4</comments>
+        <comments offset="000000000000004D" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000004F" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000063" type="nonrepeatable_comment">pathId</comments>
+        <comments offset="0000000000000064" type="nonrepeatable_comment">lvlId</comments>
+        <comments offset="000000000000006A" type="nonrepeatable_comment">a1</comments>
+        <valueview offset="0000000000000005" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000020" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000003B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000056" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000005C" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000006A" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">4A88CFB993B02678</xref>
+        <xref offset="0x0000000000000005">AEDB852A1CE46E7A</xref>
+        <xref offset="0x000000000000001B">43FBD7D77BDB0423</xref>
+        <xref offset="0x0000000000000020">AEDB852A1CE46E7A</xref>
+        <xref offset="0x0000000000000036">43FBD7D77BDB0423</xref>
+        <xref offset="0x000000000000003B">AEDB852A1CE46E7A</xref>
+        <xref offset="0x0000000000000051">43FBD7D77BDB0423</xref>
+        <xref offset="0x0000000000000056">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000005C">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000065">2799E5C002ECAA9C</xref>
+        <xref offset="0x000000000000006A">BE4BB921B266A1D5</xref>
+        <xref offset="0x000000000000006F">CF3D2C5BEA730613</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
