@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>033B8DAB1AF2C092</id>
+    <version>
+      <size>0x000000000000002C</size>
+      <address>F4</address>
+      <userdefinedname>Poly_FT4</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">242F469FD1EEF52B</xref>
+        <xref offset="0x000000000000000C">6BC9761FAAB9B9D7</xref>
+        <xref offset="0x000000000000000E">5CB847AD96DF9040</xref>
+        <xref offset="0x0000000000000010">2D5494DFABA34DBE</xref>
+        <xref offset="0x0000000000000011">6CE61678A70099C5</xref>
+        <xref offset="0x0000000000000012">9B132B147B31E47D</xref>
+        <xref offset="0x0000000000000014">786BBA001C54B3EA</xref>
+        <xref offset="0x0000000000000016">C59DE0BBC1E547C1</xref>
+        <xref offset="0x0000000000000018">BED1FF359A7AB5B8</xref>
+        <xref offset="0x0000000000000019">D0319122BF9F3B43</xref>
+        <xref offset="0x000000000000001A">ACE45BE164BC5476</xref>
+        <xref offset="0x000000000000001C">3D90FF0B08762C10</xref>
+        <xref offset="0x000000000000001E">0D6ADE83EA0DB47F</xref>
+        <xref offset="0x0000000000000020">1D29899F483FBB6F</xref>
+        <xref offset="0x0000000000000021">DC0A0F8A688D26BB</xref>
+        <xref offset="0x0000000000000022">5A2CFFD90D49251F</xref>
+        <xref offset="0x0000000000000024">1F565647BC58775A</xref>
+        <xref offset="0x0000000000000026">C8F3C7FCDC940E96</xref>
+        <xref offset="0x0000000000000028">5DF1EDA4F9A39609</xref>
+        <xref offset="0x0000000000000029">0F1EAF27B0DDD12C</xref>
+        <xref offset="0x000000000000002A">24158657C3F1BC43</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
