@@ -7,7 +7,7 @@
       <parent_id>2BE373D2139C695E</parent_id>
       <address>24</address>
       <userdefinedname>field_24_dbuf</userdefinedname>
-      <proto>_DWORD *</proto>
+      <proto>_BYTE **</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

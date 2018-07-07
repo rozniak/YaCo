@@ -7,6 +7,7 @@
       <parent_id>207C8C17BC3A114D</parent_id>
       <address>2</address>
       <userdefinedname>field_2_num_frames</userdefinedname>
+      <proto>unsigned __int16</proto>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

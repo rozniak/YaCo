@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>8117C2A847832DAD</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>E49E5BF85F8FEFE1</parent_id>
+      <address>40AC70</address>
+      <proto>__int16 __thiscall sub(AnimationEx *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">93B33BE6</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">73846E5B09DF4D9E</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000E">4D9AC00D67A6EF0F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

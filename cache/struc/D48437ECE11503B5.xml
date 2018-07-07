@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>D48437ECE11503B5</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <address>103</address>
+      <userdefinedname>FrameHeader</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">A7DC276BFD239FB2</xref>
+        <xref offset="0x0000000000000004">C406BF4C11AFD289</xref>
+        <xref offset="0x0000000000000005">63277CD76200604C</xref>
+        <xref offset="0x0000000000000006">6EABED56B88940D1</xref>
+        <xref offset="0x0000000000000007">E0EDA916B56E7231</xref>
+        <xref offset="0x0000000000000008">50A9C867CA7239E2</xref>
+        <xref offset="0x000000000000000A">F7D39C7AA08044A0</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

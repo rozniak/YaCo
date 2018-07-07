@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <strucmember>
-    <id>469062CE52AED7A9</id>
+  <stackframe_member>
+    <id>4980B3D4EFFA4127</id>
     <version>
       <size>0x0000000000000002</size>
-      <parent_id>3BB0543D1FDD7849</parent_id>
-      <address>4</address>
-      <userdefinedname>field_4_magic</userdefinedname>
+      <parent_id>B6D3A446E6021274</parent_id>
+      <address>14</address>
+      <userdefinedname>height</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
     </version>
-  </strucmember>
+  </stackframe_member>
 </sigfile>
