@@ -11,6 +11,7 @@
         <signature algo="crc32" method="invariants">553C4ADB</signature>
       </signatures>
       <offsets>
+        <comments offset="0000000000000010" type="nonrepeatable_comment">frame</comments>
         <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
         <valueview offset="0000000000000016" operand="00000000">stack</valueview>
       </offsets>

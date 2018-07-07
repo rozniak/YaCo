@@ -10,6 +10,9 @@
       <signatures>
         <signature algo="crc32" method="invariants">8C8E48B3</signature>
       </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">frame</comments>
+      </offsets>
       <xrefs>
         <xref offset="0x0000000000000016">450509DD2ECA0CC7</xref>
         <xref offset="0x00000000000003E6">8433A584A4CCA198</xref>

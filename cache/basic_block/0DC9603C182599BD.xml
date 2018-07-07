@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0DC9603C182599BD</id>
+    <version>
+      <size>0x000000000000006C</size>
+      <parent_id>9334F948B212A129</parent_id>
+      <address>4971C0</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">F2697446</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000002" type="nonrepeatable_comment">frame</comments>
+        <comments offset="000000000000002F" type="nonrepeatable_comment">a7</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">a6</comments>
+        <comments offset="000000000000003D" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000044" type="nonrepeatable_comment">maxH</comments>
+        <comments offset="0000000000000045" type="nonrepeatable_comment">maxW</comments>
+        <comments offset="000000000000004C" type="nonrepeatable_comment">frameTableOffset</comments>
+        <comments offset="0000000000000053" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000003" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000009" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001A" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002B" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000037" operand="00000001">stack</valueview>
+        <valueview offset="000000000000003E" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000005B">67053CD22792DAD2</xref>
+        <xref offset="0x000000000000006C">245BB3DBD0CD90DB</xref>
+        <xref offset="0x000000000000007D">EBE8AAE5CA3B9AE1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>5AEF89D7CAB64378</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>CCBCCA41F7BE39B7</parent_id>
+      <address>13C</address>
+      <userdefinedname>word13C</userdefinedname>
+      <proto>_WORD</proto>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

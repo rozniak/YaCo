@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DD42E01B35096B3E</id>
+    <version>
+      <size>0x0000000000000031</size>
+      <parent_id>65CF870A0039D426</parent_id>
+      <address>424FD0</address>
+      <userdefinedname flags="0x000000D4">BaseAliveGameObject::vsub_424FD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">2140ABF7</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">frame</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">frame</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000013" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001C" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002B" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">5D7F139A3F9F7F2F</xref>
+        <xref offset="0x0000000000000031">0EFB9A3EED8B88C2</xref>
+        <xref offset="0x000000000000003C">6246ED6ECFAB6B3D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

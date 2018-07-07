@@ -3,7 +3,7 @@
   <struc>
     <id>207C8C17BC3A114D</id>
     <version>
-      <size>0x0000000000000005</size>
+      <size>0x000000000000000C</size>
       <address>FE</address>
       <userdefinedname>AnimationHeader</userdefinedname>
       <signatures/>
@@ -11,6 +11,8 @@
         <xref offset="0x0000000000000000">6879D21491227A13</xref>
         <xref offset="0x0000000000000002">6AEBF431487BB0AD</xref>
         <xref offset="0x0000000000000004">E2486896E2D04997</xref>
+        <xref offset="0x0000000000000006">25C9F230BCAB762B</xref>
+        <xref offset="0x0000000000000008">EA31F62D4A471213</xref>
       </xrefs>
     </version>
   </struc>

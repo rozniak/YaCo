@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>CCBCCA41F7BE39B7</id>
+    <version>
+      <size>0x0000000000000268</size>
+      <address>FB</address>
+      <userdefinedname>PauseMenu</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">7FC6BD22618EF526</xref>
+        <xref offset="0x00000000000000E4">31DEAED2C23243A8</xref>
+        <xref offset="0x000000000000012C">051E41CE172E6579</xref>
+        <xref offset="0x000000000000012E">D33F8217F0FD9ECF</xref>
+        <xref offset="0x0000000000000130">D02E30BF6DCE9529</xref>
+        <xref offset="0x0000000000000132">AC7E7EE4D2FD7FC1</xref>
+        <xref offset="0x0000000000000134">B3677C547410A7EE</xref>
+        <xref offset="0x0000000000000136">09238AB65A4F3E16</xref>
+        <xref offset="0x0000000000000138">BD62F1538E66CE94</xref>
+        <xref offset="0x000000000000013A">E15B8552CBAD5DBF</xref>
+        <xref offset="0x000000000000013C">5AEF89D7CAB64378</xref>
+        <xref offset="0x000000000000013E">FFB92B987B1EAA78</xref>
+        <xref offset="0x0000000000000140">525545273ABE24A2</xref>
+        <xref offset="0x0000000000000142">D1A6723439E47C35</xref>
+        <xref offset="0x0000000000000144">6C095FD6A5E924CF</xref>
+        <xref offset="0x0000000000000148">21FB10315C1E6AAE</xref>
+        <xref offset="0x000000000000014C">71BAD4588126B403</xref>
+        <xref offset="0x0000000000000152">D7B7124B85C57639</xref>
+        <xref offset="0x0000000000000153">6041203192DDA33A</xref>
+        <xref offset="0x0000000000000154">30AE66DF120198B1</xref>
+        <xref offset="0x0000000000000158">1377A1E5D36EBF57</xref>
+        <xref offset="0x00000000000001F0">7E3E1A453D0DB9CF</xref>
+        <xref offset="0x00000000000001F4">18D15065D764ED5B</xref>
+        <xref offset="0x0000000000000264">AA9AE70D21CB2F7D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

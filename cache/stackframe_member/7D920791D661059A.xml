@@ -7,6 +7,7 @@
       <parent_id>5485DA44FA8B3269</parent_id>
       <address>18</address>
       <userdefinedname>var_8</userdefinedname>
+      <proto>signed int</proto>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

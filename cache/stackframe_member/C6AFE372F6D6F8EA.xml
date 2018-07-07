@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>C6AFE372F6D6F8EA</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>D689970EBEC13F8B</parent_id>
+      <address>8</address>
+      <userdefinedname>frame</userdefinedname>
+      <proto>signed __int16</proto>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

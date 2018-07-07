@@ -6,7 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>5485DA44FA8B3269</parent_id>
       <address>10</address>
-      <userdefinedname>var_10</userdefinedname>
+      <userdefinedname>op1</userdefinedname>
+      <proto>signed int</proto>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>1377A1E5D36EBF57</id>
+    <version>
+      <size>0x0000000000000098</size>
+      <parent_id>CCBCCA41F7BE39B7</parent_id>
+      <address>158</address>
+      <userdefinedname>field_158_animation</userdefinedname>
+      <proto>AnimationEx</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">2BE373D2139C695E</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

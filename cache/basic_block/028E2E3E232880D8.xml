@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>028E2E3E232880D8</id>
+    <version>
+      <size>0x0000000000000025</size>
+      <parent_id>B88616B3C3C57DFC</parent_id>
+      <address>4D06A0</address>
+      <userdefinedname flags="0x00000054">MainMenuController::sub_4D06A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">51AA2AE7</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">frame</comments>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">a1</comments>
+        <comments offset="0000000000000018" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000009">5D7F139A3F9F7F2F</xref>
+        <xref offset="0x000000000000001C">21CD5197D3CC5C41</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

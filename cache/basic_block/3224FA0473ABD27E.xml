@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3224FA0473ABD27E</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <parent_id>33AEA2819AE48C6F</parent_id>
+      <address>408320</address>
+      <userdefinedname flags="0x000000D4">BaseAliveGameObject::vsub_408320</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">AED991DA</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">switch 4 cases </comments>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">frame</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001C">9C62EFD2EAF75ED4</xref>
+        <xref offset="0x000000000000014E">0C38FD227BF729B0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

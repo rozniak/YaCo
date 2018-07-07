@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5D7F139A3F9F7F2F</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <parent_id>DE1EA1B29F0BA718</parent_id>
+      <address>40B730</address>
+      <userdefinedname flags="0x00000054">Get_FrameHeader_40B730</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">25F200AA</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000008">59232618EAE95021</xref>
+        <xref offset="0x000000000000000E">72885D1C878B0968</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

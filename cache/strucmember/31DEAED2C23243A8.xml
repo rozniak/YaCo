@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>31DEAED2C23243A8</id>
+    <version>
+      <size>0x0000000000000048</size>
+      <parent_id>CCBCCA41F7BE39B7</parent_id>
+      <address>E4</address>
+      <userdefinedname>gapE4</userdefinedname>
+      <proto>_BYTE[72]</proto>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

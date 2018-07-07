@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7A7C1FBF33E6D309</id>
+    <version>
+      <size>0x000000000000004D</size>
+      <parent_id>6B28788F7CE69FA0</parent_id>
+      <address>4CC690</address>
+      <userdefinedname flags="0x000000D4">ZapLine::ctor_4CC690</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">BD17ACFE</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">frame</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000021" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002A" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002F" operand="00000000">stack</valueview>
+        <valueview offset="000000000000003A" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">BF504CE12FCF33CA</xref>
+        <xref offset="0x0000000000000025">CE733ABCC5AFA390</xref>
+        <xref offset="0x000000000000003A">9C61F926594AB4E2</xref>
+        <xref offset="0x000000000000004D">4A0173EDE1B3EB63</xref>
+        <xref offset="0x0000000000000072">F62EB43121424E38</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

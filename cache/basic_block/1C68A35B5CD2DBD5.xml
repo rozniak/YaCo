@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1C68A35B5CD2DBD5</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>A9EF6A2CE320392A</parent_id>
+      <address>419990</address>
+      <userdefinedname flags="0x000000D4">NakedSlig::vsub_419990</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C548FA2F</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">frame</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000013">3DD82A316E387F37</xref>
+        <xref offset="0x0000000000000366">F492EDDF3D8086A0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

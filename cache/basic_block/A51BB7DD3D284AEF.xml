@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A51BB7DD3D284AEF</id>
+    <version>
+      <size>0x000000000000002B</size>
+      <parent_id>397CDA69F94E78C6</parent_id>
+      <address>40A030</address>
+      <userdefinedname flags="0x00000054">AnimationEx::sub_40A030</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D2B67966</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000010" type="nonrepeatable_comment">frame</comments>
+        <valueview offset="0000000000000003" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000009" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000002B">8FBE0F751163580D</xref>
+        <xref offset="0x0000000000000038">BF6ECA87B980EE03</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe>
+    <id>D0FC47EC752F7CFC</id>
+    <version>
+      <size>0x0000000000000044</size>
+      <parent_id>0F61ACD622D656A4</parent_id>
+      <address>435130</address>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000010">48E94402F065D654</xref>
+        <xref offset="0x0000000000000014">7BA29EB87A421F0F</xref>
+        <xref offset="0x0000000000000018">87BA304582424ED8</xref>
+        <xref offset="0x000000000000001C">5173220AD8867F79</xref>
+        <xref offset="0x0000000000000020">E5BB696897728FDF</xref>
+        <xref offset="0x0000000000000024">BA8F26759AFEED41</xref>
+        <xref offset="0x000000000000002C">F1E0D31DB21FEE0A</xref>
+        <xref offset="0x0000000000000030">7B8FFDEC95E2F8E6</xref>
+        <xref offset="0x0000000000000034">916BF749DE6C8F92</xref>
+        <xref offset="0x0000000000000036">2216A0191433278A</xref>
+        <xref offset="0x0000000000000038">297368A1AED92406</xref>
+        <xref offset="0x000000000000003A">DB6F2A0BDFC4ECD4</xref>
+        <xref offset="0x0000000000000040">AC5337E0F003B51F</xref>
+      </xrefs>
+      <attribute key="stack_lvars">0x0000003C</attribute>
+      <attribute key="stack_regvars">0x00000000</attribute>
+      <attribute key="stack_args">0x00000004</attribute>
+    </version>
+  </stackframe>
+</sigfile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>15F7A4230A6BC1AF</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>8D429C7039D74962</parent_id>
+      <address>40B7A0</address>
+      <userdefinedname flags="0x000000D4">Animation::sub_40B7A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1DC4BA5E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">frame</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000D">0DC6FF9506B85F8F</xref>
+        <xref offset="0x0000000000000054">98F5931D9DEA13C0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>F485C57ADA7A2617</id>
+    <version>
+      <size>0x0000000000000B44</size>
+      <parent_id>06D8235EC68AC44D</parent_id>
+      <address>44D4F0</address>
+      <proto>signed int __cdecl sub(Quicksave_Obj_Abe *a1)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">5C0E8D87</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">F02C3F11B8BB3DAC</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000028">1B3A1F92B7AFBE26</xref>
+        <xref offset="0x0000000000000028" size="0x0000000000000019">E877B49B7E514323</xref>
+        <xref offset="0x0000000000000041" size="0x0000000000000014">5C0AF9CFA5B520E1</xref>
+        <xref offset="0x0000000000000055" size="0x0000000000000002">64CD879ECFB3C9B0</xref>
+        <xref offset="0x0000000000000057" size="0x000000000000000D">66F7F092268AE273</xref>
+        <xref offset="0x0000000000000064" size="0x000000000000000A">8BA1B951B9E7FDA1</xref>
+        <xref offset="0x000000000000006E" size="0x0000000000000005">98385996BA569CEA</xref>
+        <xref offset="0x0000000000000073" size="0x000000000000011B">6303E3CCFD6D60CA</xref>
+        <xref offset="0x000000000000018E" size="0x000000000000005F">522AA33D4BB46FCA</xref>
+        <xref offset="0x00000000000001ED" size="0x0000000000000006">268A8124F54C7B7C</xref>
+        <xref offset="0x00000000000001F3" size="0x00000000000000C9">04A508B3EB7B7CED</xref>
+        <xref offset="0x00000000000002BC" size="0x0000000000000009">E7A18D5239CCECA5</xref>
+        <xref offset="0x00000000000002C5" size="0x0000000000000155">97ACD09ED84AC112</xref>
+        <xref offset="0x000000000000041A" size="0x0000000000000009">283FB6D2CC9DCDD2</xref>
+        <xref offset="0x0000000000000423" size="0x0000000000000008">E8BA2BE2C8097FAB</xref>
+        <xref offset="0x000000000000042B" size="0x0000000000000015">CB05281545CAD537</xref>
+        <xref offset="0x0000000000000440" size="0x000000000000000F">C7B6509B8815BC8A</xref>
+        <xref offset="0x000000000000044F" size="0x0000000000000018">236BCE1EA6F1109D</xref>
+        <xref offset="0x0000000000000467" size="0x000000000000000F">05C396DA098639A7</xref>
+        <xref offset="0x0000000000000476" size="0x000000000000000D">CE4A78FAFD0F0E98</xref>
+        <xref offset="0x0000000000000483" size="0x0000000000000008">A7544267C9CDE157</xref>
+        <xref offset="0x000000000000048B" size="0x0000000000000005">6D00DB6B502DD57B</xref>
+        <xref offset="0x0000000000000490" size="0x0000000000000006">9A9A8105EFE63186</xref>
+        <xref offset="0x0000000000000496" size="0x000000000000059E">DED314EEF585AB84</xref>
+        <xref offset="0x0000000000000A34" size="0x0000000000000018">70DFAF115992AD95</xref>
+        <xref offset="0x0000000000000A4C" size="0x000000000000000F">6CC018F30F21BB4F</xref>
+        <xref offset="0x0000000000000A5B" size="0x000000000000000E">98E7957FB80BDD95</xref>
+        <xref offset="0x0000000000000A69" size="0x0000000000000021">27670D3D9BF72E53</xref>
+        <xref offset="0x0000000000000A8A" size="0x0000000000000018">4F751974F796AC10</xref>
+        <xref offset="0x0000000000000AA2" size="0x000000000000000F">8037401654E54D71</xref>
+        <xref offset="0x0000000000000AB1" size="0x000000000000000D">67AA06F99F4D772A</xref>
+        <xref offset="0x0000000000000ABE" size="0x0000000000000021">D95631E1634D8611</xref>
+        <xref offset="0x0000000000000ADF" size="0x0000000000000015">B5DFCBEC206BE148</xref>
+        <xref offset="0x0000000000000AF4" size="0x000000000000000F">451F8ED0B88A0882</xref>
+        <xref offset="0x0000000000000B03" size="0x000000000000000E">0A3744B6856A97E5</xref>
+        <xref offset="0x0000000000000B11" size="0x000000000000001E">EEF06C96A28A9D6B</xref>
+        <xref offset="0x0000000000000B2F" size="0x0000000000000015">D085587AF07D53CE</xref>
+        <xref offset="0x00000000000F2450" size="0x000000000000000B">E23F029454D9C389</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>
