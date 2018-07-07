@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>B8B514EA2CF0C67C</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <address>9D</address>
+      <userdefinedname>DynamicArray</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">50CE4F3A1004C47C</xref>
+        <xref offset="0x0000000000000004">CB38FE9F9B84D9FC</xref>
+        <xref offset="0x0000000000000006">73B88029C501C9E4</xref>
+        <xref offset="0x0000000000000008">F11E8C1C543459E2</xref>
+        <xref offset="0x000000000000000A">A23585E02B98DB78</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

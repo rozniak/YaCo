@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>62CE427501224A4A</id>
+    <version>
+      <size>0x00000000000001A4</size>
+      <address>CE</address>
+      <userdefinedname>ScreenManager</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">03E109FE0C845669</xref>
+        <xref offset="0x0000000000000020">18EA96A1CEE3D0A3</xref>
+        <xref offset="0x0000000000000024">78946EDC1E23DECB</xref>
+        <xref offset="0x0000000000000028">F6F2CBE20BDAC393</xref>
+        <xref offset="0x000000000000002C">E69D110260E48EEE</xref>
+        <xref offset="0x0000000000000034">13CEBE211080D8AA</xref>
+        <xref offset="0x0000000000000038">3987B64D5951346D</xref>
+        <xref offset="0x000000000000003A">026B06E7F20F6A3B</xref>
+        <xref offset="0x000000000000003C">CE9A85F8C057A5BC</xref>
+        <xref offset="0x0000000000000040">EA4BBAB27AA8AD9D</xref>
+        <xref offset="0x0000000000000044">6F2E00B182ED8578</xref>
+        <xref offset="0x0000000000000048">F57DD0D0A5806677</xref>
+        <xref offset="0x000000000000004C">74C1E38602CEE72E</xref>
+        <xref offset="0x0000000000000050">2ED2FC433487EC14</xref>
+        <xref offset="0x0000000000000054">A6758CBB3661D672</xref>
+        <xref offset="0x0000000000000058">FE15CB590294CB03</xref>
+        <xref offset="0x000000000000005C">E63EC127F6EC382B</xref>
+        <xref offset="0x0000000000000060">21EBBF12FEEC8562</xref>
+        <xref offset="0x0000000000000064">0769AF09D1B8805D</xref>
+        <xref offset="0x0000000000000068">3E2BD76DA480956F</xref>
+        <xref offset="0x000000000000006C">D77B112C9636B460</xref>
+        <xref offset="0x0000000000000070">AF4CF44E49D24FAD</xref>
+        <xref offset="0x0000000000000074">3BCFADE45A1B2A4E</xref>
+        <xref offset="0x0000000000000078">3CF7D5A6A3B195EB</xref>
+        <xref offset="0x000000000000007C">AC6BF9EC59B8BBE7</xref>
+        <xref offset="0x0000000000000080">55154B211036D235</xref>
+        <xref offset="0x0000000000000084">FE63CAB5A822B1EF</xref>
+        <xref offset="0x0000000000000088">0B50F85E68E1F1E6</xref>
+        <xref offset="0x000000000000008C">3C1AB89622E240B6</xref>
+        <xref offset="0x0000000000000090">AEDA4E1061E7E348</xref>
+        <xref offset="0x0000000000000094">A819917E58CC1A22</xref>
+        <xref offset="0x0000000000000098">5CE6AC662AC137AF</xref>
+        <xref offset="0x000000000000009C">E40548341B03E68E</xref>
+        <xref offset="0x00000000000000A0">D458A7B4F5723234</xref>
+        <xref offset="0x00000000000000A4">0B41FFDBFBDAE64E</xref>
+        <xref offset="0x00000000000000A8">CCC63D27D96E71FE</xref>
+        <xref offset="0x00000000000000AC">D4F469626184FEAD</xref>
+        <xref offset="0x00000000000000B0">C00202D23F33B026</xref>
+        <xref offset="0x00000000000000B4">65EC73F3F1BD8019</xref>
+        <xref offset="0x00000000000000B8">A890B62D86E934A4</xref>
+        <xref offset="0x00000000000000BC">944FD772A2C99D6B</xref>
+        <xref offset="0x00000000000000C0">E10193F1F9492D0B</xref>
+        <xref offset="0x00000000000000C4">12A031D82645C8D9</xref>
+        <xref offset="0x00000000000000C8">1693D0BD4A1CE1EA</xref>
+        <xref offset="0x00000000000000CC">B6FC9DFA0133F045</xref>
+        <xref offset="0x00000000000000D0">81EA006DB7DFDA88</xref>
+        <xref offset="0x00000000000000D4">0614DE92895E7296</xref>
+        <xref offset="0x00000000000000D8">9134869D2B6C9CA2</xref>
+        <xref offset="0x00000000000000DC">146631606D65FBC5</xref>
+        <xref offset="0x00000000000000E0">1DB72B77124C065D</xref>
+        <xref offset="0x00000000000000E4">96DD58818FC1B898</xref>
+        <xref offset="0x00000000000000E8">00287A1C4DA3B0B4</xref>
+        <xref offset="0x00000000000000EC">B29069191FF63CEB</xref>
+        <xref offset="0x00000000000000F0">99A4E3AEAF30BE0B</xref>
+        <xref offset="0x00000000000000F4">424C1DE147B1D772</xref>
+        <xref offset="0x00000000000000F8">39DD52D67734E3A5</xref>
+        <xref offset="0x00000000000000FC">15F122FCFCF7B33F</xref>
+        <xref offset="0x0000000000000100">08BA174E912470AD</xref>
+        <xref offset="0x0000000000000104">0995F0B3136D3AB5</xref>
+        <xref offset="0x0000000000000108">630B542BE846FE29</xref>
+        <xref offset="0x000000000000010C">E01B579E3FA07D23</xref>
+        <xref offset="0x0000000000000110">8845680E81499CFD</xref>
+        <xref offset="0x0000000000000114">19692ABC0A827DD5</xref>
+        <xref offset="0x0000000000000118">FB47C42B0DF9E0C6</xref>
+        <xref offset="0x000000000000011C">6C7C9F72B1A3F195</xref>
+        <xref offset="0x0000000000000120">A82A4178423D90B4</xref>
+        <xref offset="0x0000000000000124">9B2114B53A7CF448</xref>
+        <xref offset="0x0000000000000128">9D59615DC62A08B5</xref>
+        <xref offset="0x000000000000012C">CF63C1D01A33EAF6</xref>
+        <xref offset="0x0000000000000130">B94FDF56D4164077</xref>
+        <xref offset="0x0000000000000134">1A2346E0FB478869</xref>
+        <xref offset="0x0000000000000138">97A33DD16FBB3675</xref>
+        <xref offset="0x000000000000013C">9AD660863DA66F72</xref>
+        <xref offset="0x0000000000000140">317E3785F54716C3</xref>
+        <xref offset="0x0000000000000144">8AB952D94155425B</xref>
+        <xref offset="0x0000000000000148">3DDE146F48B3DA3F</xref>
+        <xref offset="0x000000000000014C">1BD65846B41AC65E</xref>
+        <xref offset="0x0000000000000150">32D5DE8135C76BFB</xref>
+        <xref offset="0x0000000000000154">969AA58AE4A31AFF</xref>
+        <xref offset="0x0000000000000158">C8CBDE80B3EB383E</xref>
+        <xref offset="0x000000000000015C">1EC27FB98B9492BA</xref>
+        <xref offset="0x0000000000000160">4D55BFA94B6F5DFE</xref>
+        <xref offset="0x0000000000000164">8AEF9308A57EA219</xref>
+        <xref offset="0x0000000000000168">BE67CC6B102A250D</xref>
+        <xref offset="0x000000000000016C">19A637E1A922BE79</xref>
+        <xref offset="0x0000000000000170">FEEDA82F6D687410</xref>
+        <xref offset="0x0000000000000174">5F6CB0B4A8A363E0</xref>
+        <xref offset="0x0000000000000178">84E2618BA140E624</xref>
+        <xref offset="0x000000000000017C">3F663A62D4F1AC26</xref>
+        <xref offset="0x0000000000000180">5235D12EF0C9DB8B</xref>
+        <xref offset="0x0000000000000184">07A2593B904A6DAC</xref>
+        <xref offset="0x0000000000000188">1D9F845A2D35F326</xref>
+        <xref offset="0x000000000000018C">C49992826861A7E5</xref>
+        <xref offset="0x0000000000000190">8F0EDF41A64B0860</xref>
+        <xref offset="0x0000000000000194">79FA90B3808E313E</xref>
+        <xref offset="0x0000000000000198">9F3415E19A97EDE5</xref>
+        <xref offset="0x000000000000019C">F770AFE27D72E550</xref>
+        <xref offset="0x00000000000001A0">86A50BA821BEED9A</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

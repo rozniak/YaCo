@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>8B4FD7E1E2932B4B</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <address>CC</address>
+      <userdefinedname>BaseGameObject_VTable</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">4BFDB433E4744699</xref>
+        <xref offset="0x0000000000000004">CE7BE684D4C0F5A5</xref>
+        <xref offset="0x0000000000000008">ACFCC8CB123B0F28</xref>
+        <xref offset="0x000000000000000C">C15E345FEA7166CD</xref>
+        <xref offset="0x0000000000000010">5CCC25BC9B83C8BF</xref>
+        <xref offset="0x0000000000000014">6B80BBF42338A58B</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

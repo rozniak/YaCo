@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>ACFCC8CB123B0F28</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>8B4FD7E1E2932B4B</parent_id>
+      <address>8</address>
+      <userdefinedname>field_8_render</userdefinedname>
+      <proto>void (__thiscall *)(BaseGameObject *, int *)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

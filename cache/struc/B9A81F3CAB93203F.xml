@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>B9A81F3CAB93203F</id>
+    <version>
+      <size>0x0000000000000116</size>
+      <address>CD</address>
+      <userdefinedname>BaseGameObject_VTable_Union</userdefinedname>
+      <flags>0x1</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E25954E2A93A80F0</xref>
+        <xref offset="0x0000000000000000">4D40F4780C1CE81A</xref>
+        <xref offset="0x0000000000000000">F6BA53DF68FB8F56</xref>
+        <xref offset="0x0000000000000000">EE895C83D170A90E</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

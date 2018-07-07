@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>7F30983786B78D59</id>
+    <version>
+      <size>0x0000000000000116</size>
+      <address>AF</address>
+      <userdefinedname>BaseAliveGameObject</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">1F8FA2DAD29AA7E6</xref>
+        <xref offset="0x00000000000000E4">295F51385DBB09D1</xref>
+        <xref offset="0x00000000000000E8">0F3829B91B9C3951</xref>
+        <xref offset="0x00000000000000EC">BFC1947C621CACFD</xref>
+        <xref offset="0x00000000000000F0">6B0FD7CA866A3E35</xref>
+        <xref offset="0x00000000000000F4">2EBA66BC6B4D1187</xref>
+        <xref offset="0x00000000000000F6">7120F97B6CBAB57A</xref>
+        <xref offset="0x00000000000000F8">B6BB1415F2194D79</xref>
+        <xref offset="0x00000000000000FC">B726A3D34B19CBDE</xref>
+        <xref offset="0x0000000000000100">20CDE44DC8D530BC</xref>
+        <xref offset="0x0000000000000104">79C10AA79B736556</xref>
+        <xref offset="0x0000000000000106">F7A3D8074CAB4BB9</xref>
+        <xref offset="0x0000000000000108">D2280A3A910F1DF3</xref>
+        <xref offset="0x000000000000010A">35D66B17FCD55761</xref>
+        <xref offset="0x000000000000010C">902C3DD2FB69EE43</xref>
+        <xref offset="0x0000000000000110">9980FE48A7108CE1</xref>
+        <xref offset="0x0000000000000114">FDE6138D4EB651BE</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

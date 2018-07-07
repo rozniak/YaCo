@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>4D40F4780C1CE81A</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <parent_id>B9A81F3CAB93203F</parent_id>
+      <address>1</address>
+      <userdefinedname>VScreenManager</userdefinedname>
+      <proto>ScreenManager_VTable</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">C63395D0FC3648EF</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

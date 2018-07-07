@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>77836C329600C078</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <address>AB</address>
+      <userdefinedname>BaseGameObject</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">CC65208A6BC908A7</xref>
+        <xref offset="0x0000000000000004">88312755080C1F53</xref>
+        <xref offset="0x0000000000000006">7957DC18CF0F6821</xref>
+        <xref offset="0x0000000000000008">CF6E959383CBF886</xref>
+        <xref offset="0x000000000000000C">4AF168F6E551EB86</xref>
+        <xref offset="0x0000000000000010">F932F29907F043D2</xref>
+        <xref offset="0x000000000000001C">9E56E5F77359A6C3</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7C7F740B384DCBC6</id>
+    <version>
+      <size>0x0000000000000023</size>
+      <parent_id>188798DC93589D9E</parent_id>
+      <address>40EC10</address>
+      <userdefinedname flags="0x00000054">ScreenManager::InvalidateRect_40EC10</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CBF35523</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">a6</comments>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000B" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000010" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001B">43FBD7D77BDB0423</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

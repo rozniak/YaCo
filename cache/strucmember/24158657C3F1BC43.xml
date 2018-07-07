@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <strucmember>
-    <id>24158657C3F1BC43</id>
-    <version>
-      <size>0x0000000000000002</size>
-      <parent_id>033B8DAB1AF2C092</parent_id>
-      <address>2A</address>
-      <userdefinedname>field_2A_pad2</userdefinedname>
-      <flags>0x10000400</flags>
-      <signatures/>
-      <xrefs/>
-    </version>
-  </strucmember>
+<strucmember>
+  <id>24158657C3F1BC43</id>
+  <version>
+    <size>0x0000000000000002</size>
+    <parent_id>033B8DAB1AF2C092</parent_id>
+    <address>2A</address>
+    <userdefinedname>field_2A</userdefinedname>
+    <flags>0x10000400</flags>
+    <signatures/>
+    <xrefs/>
+  </version>
+</strucmember>
 </sigfile>

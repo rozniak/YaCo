@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>62A25E51BCB48A80</id>
+    <version>
+      <size>0x00000000000000E4</size>
+      <address>AC</address>
+      <userdefinedname>BaseAnimatedWithPhysicsGameObject</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">D07C934A71123F29</xref>
+        <xref offset="0x0000000000000020">B04A4ACB41C3D657</xref>
+        <xref offset="0x00000000000000B8">811E2BFF783F73D5</xref>
+        <xref offset="0x00000000000000BC">B5DD92234E177749</xref>
+        <xref offset="0x00000000000000C0">F05E44347F85ABC4</xref>
+        <xref offset="0x00000000000000C2">B68687D573327ED4</xref>
+        <xref offset="0x00000000000000C4">A253A69D4F96A3B3</xref>
+        <xref offset="0x00000000000000C8">9BA5AA11AE490424</xref>
+        <xref offset="0x00000000000000CC">6236F9CAE5286922</xref>
+        <xref offset="0x00000000000000D0">4897FE723A5C3AB7</xref>
+        <xref offset="0x00000000000000D2">EABC6DAED8A6F413</xref>
+        <xref offset="0x00000000000000D4">26B8E07F1F2A1986</xref>
+        <xref offset="0x00000000000000D6">9F9BE772B65BA1DA</xref>
+        <xref offset="0x00000000000000D8">01CD260D960EE0A2</xref>
+        <xref offset="0x00000000000000DA">3FB46BD7E00F8F39</xref>
+        <xref offset="0x00000000000000DC">C246558914066F92</xref>
+        <xref offset="0x00000000000000DE">BAA44B236DB760FA</xref>
+        <xref offset="0x00000000000000E0">B21018EFE77B1359</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

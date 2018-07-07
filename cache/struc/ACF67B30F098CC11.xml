@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>ACF67B30F098CC11</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>DA</address>
+      <userdefinedname>EventSystem_VTable</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">1935AE95CA9AEF4D</xref>
+        <xref offset="0x0000000000000004">165908A9314AABD3</xref>
+        <xref offset="0x0000000000000008">DBD58AB1FE851601</xref>
+        <xref offset="0x000000000000000C">1AE0886AEF9DDAE1</xref>
+        <xref offset="0x0000000000000010">DD6D3ECFEF45A92B</xref>
+        <xref offset="0x0000000000000014">7C12F37AE90FA623</xref>
+        <xref offset="0x0000000000000018">3DF2F459458E83D8</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

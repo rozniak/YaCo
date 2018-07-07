@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>B935CC98B85CD8B2</id>
+    <version>
+      <size>0x00000000000000A7</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4D3090</address>
+      <proto>__int16 __fastcall sub(MainMenuController *a1, int a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">C933E385</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">F95DAF38DC091622</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000D">8E0590BF6167044E</xref>
+        <xref offset="0x000000000000000D" size="0x000000000000000A">767A00BA4B0AB360</xref>
+        <xref offset="0x0000000000000017" size="0x000000000000000D">709D7EFE20CE2246</xref>
+        <xref offset="0x0000000000000024" size="0x0000000000000083">5C45333987D913DE</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>165908A9314AABD3</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>ACF67B30F098CC11</parent_id>
+      <address>4</address>
+      <userdefinedname>EventSystem__Update_421920</userdefinedname>
+      <proto>void (__thiscall *)(GameSpeak *this)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

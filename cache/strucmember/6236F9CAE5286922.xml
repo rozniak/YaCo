@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>6236F9CAE5286922</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>62A25E51BCB48A80</parent_id>
+      <address>CC</address>
+      <userdefinedname>field_CC_sprite_scale</userdefinedname>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

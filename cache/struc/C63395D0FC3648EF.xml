@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>C63395D0FC3648EF</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <address>CF</address>
+      <userdefinedname>ScreenManager_VTable</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">ED93843C697B94DA</xref>
+        <xref offset="0x0000000000000004">561A23229771081C</xref>
+        <xref offset="0x0000000000000008">8BF48180F2EF11E5</xref>
+        <xref offset="0x000000000000000C">BE98A9CD942F0903</xref>
+        <xref offset="0x0000000000000010">E2F348040A5FE00C</xref>
+        <xref offset="0x0000000000000014">EB770EAD5DD43B55</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

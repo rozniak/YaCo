@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>1935AE95CA9AEF4D</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>ACF67B30F098CC11</parent_id>
+      <userdefinedname>vTbl_EventSystem_544B20</userdefinedname>
+      <proto>void (__thiscall *)(GameSpeak *this, char a2)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>
