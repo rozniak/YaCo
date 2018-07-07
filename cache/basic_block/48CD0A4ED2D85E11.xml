@@ -11,7 +11,7 @@
       </signatures>
       <offsets>
         <comments offset="0000000000000000" type="repeatable_comment">jumptable 0040AE84 cases 4,5</comments>
-        <comments offset="0000000000000003" type="nonrepeatable_comment">a1</comments>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">this</comments>
       </offsets>
       <xrefs>
         <xref offset="0x0000000000000004">1100B2659D9BA590</xref>
