@@ -6,7 +6,7 @@
       <size>0x0000000000000028</size>
       <parent_id>D70CC499A3CB0686</parent_id>
       <address>40BEE0</address>
-      <userdefinedname flags="0x00000054">Animation_vRender_40BEE0</userdefinedname>
+      <userdefinedname flags="0x00000054">Animation_vRender2_40BEE0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">F9AD393D</signature>
       </signatures>

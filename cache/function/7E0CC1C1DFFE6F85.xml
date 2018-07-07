@@ -6,7 +6,7 @@
       <size>0x000000000000055B</size>
       <parent_id>E49E5BF85F8FEFE1</parent_id>
       <address>40B820</address>
-      <proto>char __thiscall sub(AnimationEx *this, signed int a2, int a3, int **pOt, __int16 a5, signed int op1)</proto>
+      <proto>char __thiscall sub(AnimationEx *this, signed int xpos, int ypos, int **pOt, __int16 width, signed int height)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">5380C284</signature>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>C8C1A39A4F9BB01B</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <parent_id>884BD28E3A542804</parent_id>
+      <address>40C630</address>
+      <userdefinedname flags="0x00000054">Animation_vFree_40C630</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E2709999</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000008">8FD99E6177FE3539</xref>
+        <xref offset="0x0000000000000027">1CDA4573E3D0C8A5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
