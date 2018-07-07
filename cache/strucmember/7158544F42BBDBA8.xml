@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>2BE373D2139C695E</parent_id>
       <address>8E</address>
-      <userdefinedname>field_8E_y</userdefinedname>
+      <userdefinedname>field_8E_pal_vram_y</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

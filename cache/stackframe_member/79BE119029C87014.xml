@@ -7,7 +7,8 @@
       <parent_id>6485DA017D3A98FE</parent_id>
       <address>18</address>
       <userdefinedname>var_10</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>FrameHeader *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

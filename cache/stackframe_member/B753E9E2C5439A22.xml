@@ -6,8 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>B6D3A446E6021274</parent_id>
       <address>1C</address>
-      <userdefinedname>arg_C</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>pRect</userdefinedname>
+      <proto>PSX_RECT *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

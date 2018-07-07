@@ -3,13 +3,16 @@
   <stackframe_member>
     <id>8BF065851D221619</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000008</size>
       <parent_id>B6D3A446E6021274</parent_id>
       <address>4</address>
       <userdefinedname>var_8</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>PSX_RECT</proto>
+      <flags>0x60000400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">8227E9463E7DE6BD</xref>
+      </xrefs>
     </version>
   </stackframe_member>
 </sigfile>

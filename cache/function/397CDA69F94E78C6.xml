@@ -6,7 +6,7 @@
       <size>0x00000000000003F4</size>
       <parent_id>E49E5BF85F8FEFE1</parent_id>
       <address>40A030</address>
-      <proto>signed __int16 __thiscall sub(AnimationEx *this, int frameTableOffset, DynamicArray *animList, void *pGameObj, int maxW, unsigned __int16 maxH, BYTE **ppAnimData, unsigned __int8 unknown1, signed int unknown2, char unknown3)</proto>
+      <proto>signed __int16 __thiscall sub(AnimationEx *this, int frameTableOffset, DynamicArray *animList, void *pGameObj, int maxW, unsigned __int16 maxH, BYTE **ppAnimData, unsigned __int8 unknown1, signed int pal_depth, char unknown3)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">FB2D52A1</signature>

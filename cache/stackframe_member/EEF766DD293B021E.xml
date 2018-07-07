@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>F39FB8E11C554D73</parent_id>
       <address>38</address>
-      <userdefinedname>unknown2</userdefinedname>
+      <userdefinedname>pal_depth</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

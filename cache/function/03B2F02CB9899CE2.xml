@@ -6,7 +6,7 @@
       <size>0x00000000000000B1</size>
       <parent_id>E6B3CE382A0B99D8</parent_id>
       <address>4956C0</address>
-      <proto>signed __int16 __cdecl sub(unsigned __int16 width, __int16 height, unsigned __int16 colourDepth, _WORD *a4)</proto>
+      <proto>signed __int16 __cdecl sub(unsigned __int16 width, __int16 height, unsigned __int16 colourDepth, PSX_RECT *pRect)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">A553B2C0</signature>
