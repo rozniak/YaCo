@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D574500891EA81E7</id>
+    <version>
+      <size>0x000000000000002C</size>
+      <parent_id>9A1636A3E34084D3</parent_id>
+      <address>4871B0</address>
+      <userdefinedname flags="0x000000D4">Paramite::vsub_4871B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">6D182CD1</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">36CE6E637FE5618A</xref>
+        <xref offset="0x000000000000002C">600A729A2B73406D</xref>
+        <xref offset="0x000000000000013E">9F22312EA8D0268F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

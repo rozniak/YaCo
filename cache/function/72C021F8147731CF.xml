@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>72C021F8147731CF</id>
+    <version>
+      <size>0x0000000000000287</size>
+      <parent_id>E49E5BF85F8FEFE1</parent_id>
+      <address>40D570</address>
+      <proto>Light1 *__thiscall sub(Light1 *this, Light_Params *pParams, _DWORD *a3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">9545E1F8</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">508D05F71ADF20EC</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000008E">5B49FFCCAE29D13D</xref>
+        <xref offset="0x000000000000008E" size="0x0000000000000007">8293302438D05C2C</xref>
+        <xref offset="0x0000000000000095" size="0x0000000000000024">F5C7AD0B9F8799A7</xref>
+        <xref offset="0x00000000000000B9" size="0x0000000000000021">ACFBED05C6290A02</xref>
+        <xref offset="0x00000000000000DA" size="0x0000000000000022">F0024EC70766F09E</xref>
+        <xref offset="0x00000000000000FC" size="0x0000000000000007">5140BF1C280A131B</xref>
+        <xref offset="0x0000000000000103" size="0x000000000000002D">5F8DC2C843C2617A</xref>
+        <xref offset="0x0000000000000130" size="0x0000000000000022">2C91E7065F9CC73D</xref>
+        <xref offset="0x0000000000000152" size="0x0000000000000021">FDB7DBD5F85C2D17</xref>
+        <xref offset="0x0000000000000173" size="0x0000000000000005">DE8950A7C9ED004A</xref>
+        <xref offset="0x0000000000000178" size="0x000000000000001A">5DD1A4BF8B3BE258</xref>
+        <xref offset="0x0000000000000192" size="0x0000000000000007">B47FB35F0049D6FD</xref>
+        <xref offset="0x0000000000000199" size="0x0000000000000027">1189ED91000BF7A2</xref>
+        <xref offset="0x00000000000001C0" size="0x0000000000000028">5FC363242C70CBB4</xref>
+        <xref offset="0x00000000000001E8" size="0x000000000000004B">9A6E0F7BA76E6AC3</xref>
+        <xref offset="0x0000000000000233" size="0x0000000000000011">C0C62A11364CFD49</xref>
+        <xref offset="0x0000000000000244" size="0x000000000000000F">F9810A08F9A121B2</xref>
+        <xref offset="0x0000000000000253" size="0x0000000000000034">330CD9E3D6DBC98A</xref>
+        <xref offset="0x0000000000130880" size="0x0000000000000008">A32E98321C1CB8B7</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

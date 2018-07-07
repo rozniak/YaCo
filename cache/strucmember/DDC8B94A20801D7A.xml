@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>DDC8B94A20801D7A</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <parent_id>235DAAF0FAD4AF76</parent_id>
+      <address>128</address>
+      <userdefinedname>field_128</userdefinedname>
+      <proto>Abe_1BC_20_sub_object</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">C2B4B82EABED3A71</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

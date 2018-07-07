@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9F3680C8987F3445</id>
+    <version>
+      <size>0x000000000000009C</size>
+      <parent_id>9563C8A3F5CD324F</parent_id>
+      <address>41F733</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">E0C12EFC</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000084" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000085" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000F" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000025" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002F" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000070" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000079" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000088" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000092" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">3419A8166456AF72</xref>
+        <xref offset="0x000000000000000F">F9F0B5F97D6F27BE</xref>
+        <xref offset="0x000000000000001F">3419A8166456AF72</xref>
+        <xref offset="0x0000000000000070">3419A8166456AF72</xref>
+        <xref offset="0x0000000000000079">F9F0B5F97D6F27BE</xref>
+        <xref offset="0x0000000000000088">3419A8166456AF72</xref>
+        <xref offset="0x000000000000008D">9199BD98719BBDA3</xref>
+        <xref offset="0x0000000000000092">893651D934A7AA97</xref>
+        <xref offset="0x000000000000009C">7188D30E1F950355</xref>
+        <xref offset="0x00000000000000B3">4C982707197EE9C8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

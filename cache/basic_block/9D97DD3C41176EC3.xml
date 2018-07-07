@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9D97DD3C41176EC3</id>
+    <version>
+      <size>0x0000000000000090</size>
+      <parent_id>3C2E2296257F4C25</parent_id>
+      <address>498280</address>
+      <userdefinedname flags="0x000000D4">BirdPortal::vsub_498280</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">6A299DCB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000036" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000043" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000048" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000055" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000068" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000078" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000082" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">240532C3243F29A6</xref>
+        <xref offset="0x0000000000000036">B5DD9600592F367E</xref>
+        <xref offset="0x000000000000003B">F421D52E670F3816</xref>
+        <xref offset="0x0000000000000048">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000004D">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000055">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000005D">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000068">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000006D">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000078">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000007D">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000090">6660883865BFD07C</xref>
+        <xref offset="0x00000000000000BD">7170DF84F9378CDD</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

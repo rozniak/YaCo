@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>50DF1A444BD8F0C0</id>
+    <version>
+      <size>0x00000000000000E4</size>
+      <parent_id>4F8209F47EC41BE1</parent_id>
+      <userdefinedname>field_0_mBase</userdefinedname>
+      <proto>BaseAnimatedWithPhysicsGameObject</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">62A25E51BCB48A80</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

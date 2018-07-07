@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>36C54765DD8088CD</id>
+    <version>
+      <size>0x0000000000000054</size>
+      <parent_id>630A64A12235A18D</parent_id>
+      <address>44A4A6</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">ECEBA6B5</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000016" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000028" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000029" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000003D" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000003E" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000021" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000037" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000011">07A8D8CA86F06A2F</xref>
+        <xref offset="0x0000000000000021">FF49E93E3AAF3F7E</xref>
+        <xref offset="0x000000000000002B">0BFD750E6B1E786D</xref>
+        <xref offset="0x0000000000000037">FDA710D9B7860CA4</xref>
+        <xref offset="0x0000000000000046">9199BD98719BBDA3</xref>
+        <xref offset="0x0000000000000054">1B2ED02F88F281A2</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

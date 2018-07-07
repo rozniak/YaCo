@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>6A78CE900C9DFD79</id>
+    <version>
+      <size>0x000000000000006E</size>
+      <parent_id>3D7D0644D9CDF27B</parent_id>
+      <address>41F51C</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">0D87F4C4</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000046" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000047" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000F" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000032" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000003B" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000004A" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000054" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000065" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">3419A8166456AF72</xref>
+        <xref offset="0x000000000000000F">F9F0B5F97D6F27BE</xref>
+        <xref offset="0x000000000000001F">3419A8166456AF72</xref>
+        <xref offset="0x0000000000000032">3419A8166456AF72</xref>
+        <xref offset="0x000000000000003B">F9F0B5F97D6F27BE</xref>
+        <xref offset="0x000000000000004A">3419A8166456AF72</xref>
+        <xref offset="0x000000000000004F">9199BD98719BBDA3</xref>
+        <xref offset="0x0000000000000065">893651D934A7AA97</xref>
+        <xref offset="0x000000000000006E">53B2078F45C54670</xref>
+        <xref offset="0x0000000000000084">681B3206A8846510</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

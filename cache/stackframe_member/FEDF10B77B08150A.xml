@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>FEDF10B77B08150A</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>82B7201D1184D052</parent_id>
+      <address>C</address>
+      <userdefinedname>pAnimData</userdefinedname>
+      <proto>_DWORD *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

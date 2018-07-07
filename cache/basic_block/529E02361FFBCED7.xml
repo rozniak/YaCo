@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>529E02361FFBCED7</id>
+    <version>
+      <size>0x0000000000000029</size>
+      <parent_id>0DC92338AEDF6FA2</parent_id>
+      <address>41EBE0</address>
+      <userdefinedname flags="0x00000054">Door::vsub_41EBE0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">24F7C249</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">E21DB3E4B79C9BAC</xref>
+        <xref offset="0x000000000000001D">BDE9AC4141BD970D</xref>
+        <xref offset="0x0000000000000029">24772829EA8E13DF</xref>
+        <xref offset="0x000000000000002D">55DB60E510D7A666</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

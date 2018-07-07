@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>4F8209F47EC41BE1</id>
+    <version>
+      <size>0x0000000000000104</size>
+      <address>DE</address>
+      <userdefinedname>Light1</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">50DF1A444BD8F0C0</xref>
+        <xref offset="0x00000000000000E4">25EC208B66791480</xref>
+        <xref offset="0x00000000000000E8">F7F2B33E84074130</xref>
+        <xref offset="0x00000000000000EC">16ED5BC116990B60</xref>
+        <xref offset="0x00000000000000F0">0C7F6726B8F5D27F</xref>
+        <xref offset="0x00000000000000F4">BCFCB6A9895ECE46</xref>
+        <xref offset="0x00000000000000F8">98C2C7ABAE9CFBB5</xref>
+        <xref offset="0x00000000000000FA">965BC662EB61F58A</xref>
+        <xref offset="0x00000000000000FC">C374A1003BB274E2</xref>
+        <xref offset="0x00000000000000FE">AA4E8A830692681A</xref>
+        <xref offset="0x0000000000000100">198E499AEFD03385</xref>
+        <xref offset="0x0000000000000102">788D04EBE1FE184D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

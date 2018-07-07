@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>2C4EE6948DEA118C</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>4D6CC52A7A836A01</parent_id>
+      <address>4CFE80</address>
+      <userdefinedname flags="0x000000D4">MainMenuController::sub_4CFE80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E25A5A14</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000011" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000011">B773368E91EE37F3</xref>
+        <xref offset="0x000000000000001B">9C7B3E9AADE6DFC8</xref>
+        <xref offset="0x0000000000000025">AB0224EE0744EEA5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>C2B4B82EABED3A71</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>B1</address>
+      <userdefinedname>Abe_1BC_20_sub_object</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">7D0FBB6CF8B0EDA4</xref>
+        <xref offset="0x0000000000000004">ED5C2D06F2D2FAFA</xref>
+        <xref offset="0x0000000000000005">92D0E71445C240D6</xref>
+        <xref offset="0x0000000000000006">A52253F6653C2D2B</xref>
+        <xref offset="0x0000000000000008">B9204FA7E6F4D54E</xref>
+        <xref offset="0x0000000000000009">0C215A929C23DEA4</xref>
+        <xref offset="0x000000000000000A">C2DCA6AAC9AFF47E</xref>
+        <xref offset="0x000000000000000B">4E331657A974A234</xref>
+        <xref offset="0x000000000000000C">9E96222E16EB006C</xref>
+        <xref offset="0x000000000000000E">168AE79617E3A878</xref>
+        <xref offset="0x0000000000000010">8D262D357AB676A6</xref>
+        <xref offset="0x0000000000000014">DA2FC9433B2BFBAB</xref>
+        <xref offset="0x0000000000000018">D7BCEBECF90B4E57</xref>
+        <xref offset="0x000000000000001A">829E711B43884114</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

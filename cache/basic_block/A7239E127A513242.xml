@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A7239E127A513242</id>
+    <version>
+      <size>0x0000000000000031</size>
+      <parent_id>05640ABCC44DBD96</parent_id>
+      <address>45EC07</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">5C1C25A8</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">max</comments>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">min</comments>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000024" type="nonrepeatable_comment">idx</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">4D9AC00D67A6EF0F</xref>
+        <xref offset="0x000000000000000D">99AB010BE8FEE790</xref>
+        <xref offset="0x0000000000000018">9199BD98719BBDA3</xref>
+        <xref offset="0x0000000000000025">F015A39A2DE7D067</xref>
+        <xref offset="0x0000000000000031">1C1484A99BF50880</xref>
+        <xref offset="0x000000000000003A">B33C937DBE583BF6</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

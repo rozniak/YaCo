@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>EB6B2E970C2DC10E</id>
+    <version>
+      <size>0x000000000000012F</size>
+      <parent_id>BE343338ECCF6682</parent_id>
+      <address>4C7470</address>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">AF3774C5</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">C4A45302CBED0551</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000064">4C13627399953AC4</xref>
+        <xref offset="0x0000000000000064" size="0x000000000000000D">B1E7D04D8D532C79</xref>
+        <xref offset="0x0000000000000071" size="0x0000000000000010">53F91EA6FC3A5615</xref>
+        <xref offset="0x0000000000000081" size="0x000000000000002D">AC1A35B6C2A8B334</xref>
+        <xref offset="0x00000000000000AE" size="0x000000000000000F">F2645B5B5A354939</xref>
+        <xref offset="0x00000000000000BD" size="0x000000000000000A">2E6A6C3F6F170BA0</xref>
+        <xref offset="0x00000000000000C7" size="0x0000000000000009">5721FEC943100D46</xref>
+        <xref offset="0x00000000000000D0" size="0x0000000000000010">382CD0E0C3E42F98</xref>
+        <xref offset="0x00000000000000E0" size="0x0000000000000010">F61C1E214199C810</xref>
+        <xref offset="0x00000000000000F0" size="0x000000000000000D">43AFB287A788CAA4</xref>
+        <xref offset="0x00000000000000FD" size="0x0000000000000006">680FF6BF01D4FAAD</xref>
+        <xref offset="0x0000000000000103" size="0x0000000000000004">4E2F3224E3311D85</xref>
+        <xref offset="0x0000000000000107" size="0x0000000000000002">6062326E608906FD</xref>
+        <xref offset="0x0000000000000109" size="0x0000000000000007">79106EC3D58D3A7E</xref>
+        <xref offset="0x0000000000000110" size="0x0000000000000006">F0247FFB5CD070DC</xref>
+        <xref offset="0x0000000000000116" size="0x0000000000000012">F1A7AFBF6967D907</xref>
+        <xref offset="0x0000000000000128" size="0x0000000000000007">674A76393D0AA256</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>905C57B386C6305B</id>
+    <version>
+      <size>0x000000000000007A</size>
+      <parent_id>CD33D6154642C773</parent_id>
+      <address>421DA0</address>
+      <userdefinedname flags="0x000000D4">ElectricWall::ctor_421DA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1885CEC2</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001D" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="0000000000000027" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="000000000000002C" type="nonrepeatable_comment">type</comments>
+        <comments offset="0000000000000031" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000064" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001E" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000033" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000037" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">23C2A5A4C701B753</xref>
+        <xref offset="0x0000000000000022">CE733ABCC5AFA390</xref>
+        <xref offset="0x0000000000000037">8FDB7C8051A9638C</xref>
+        <xref offset="0x0000000000000043">7AC641105898FBC5</xref>
+        <xref offset="0x0000000000000058">67053CD22792DAD2</xref>
+        <xref offset="0x0000000000000070">4D9AC00D67A6EF0F</xref>
+        <xref offset="0x000000000000007A">F04A417479B6BBB1</xref>
+        <xref offset="0x0000000000000098">C389A49675D5C91F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

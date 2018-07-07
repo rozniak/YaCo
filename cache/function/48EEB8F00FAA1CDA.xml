@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>48EEB8F00FAA1CDA</id>
+    <version>
+      <size>0x0000000000000039</size>
+      <parent_id>E49E5BF85F8FEFE1</parent_id>
+      <address>409D50</address>
+      <proto>void __thiscall sub(AnimationEx *this, unsigned __int16 newFrame)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">FB269E78</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">3C928FA95BD46996</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000007">9199BD98719BBDA3</xref>
+        <xref offset="0x0000000000000007" size="0x0000000000000014">B20788C090122A17</xref>
+        <xref offset="0x000000000000001B" size="0x0000000000000002">BFEF5259869E826F</xref>
+        <xref offset="0x000000000000001D" size="0x0000000000000009">1C629A15D2DC75D1</xref>
+        <xref offset="0x0000000000000026" size="0x0000000000000002">A6D1134EC1F3DA11</xref>
+        <xref offset="0x0000000000000028" size="0x000000000000000E">50CBAF93166A00EE</xref>
+        <xref offset="0x0000000000000036" size="0x0000000000000003">FFF6315643AE7D3B</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

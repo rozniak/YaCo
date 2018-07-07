@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>A3FCAF49664759D2</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>235DAAF0FAD4AF76</parent_id>
+      <address>1A2</address>
+      <userdefinedname>field_1A2_rock_or_bone_count</userdefinedname>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>
