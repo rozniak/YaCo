@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9AE2B09807565218</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>DECE6EF3CA3E700E</parent_id>
+      <address>4F92D0</address>
+      <userdefinedname flags="0x00000054">PSX_MDEC_rest_4F92D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C0792998</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">AFC84BEF9BC7550D</xref>
+        <xref offset="0x000000000000004F">089B79CC00B5FE26</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

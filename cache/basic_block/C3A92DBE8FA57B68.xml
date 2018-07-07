@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>C3A92DBE8FA57B68</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>3CF4F486606C32C0</parent_id>
+      <address>4F8C60</address>
+      <userdefinedname flags="0x00000054">YuvToRgb_4F8C60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">25F200AA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000009">67ECF6CCA10EA847</xref>
+        <xref offset="0x000000000000000E">F26A8ACAB6F1E2A5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

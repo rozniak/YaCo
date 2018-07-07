@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>ABE5909A0A77D3CA</id>
+    <version>
+      <size>0x0000000000000015</size>
+      <parent_id>6C9F473C4E866C3A</parent_id>
+      <address>4FC320</address>
+      <userdefinedname flags="0x00000054">MIDI_Init_4FC320</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">81E5B5B1</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000000F" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">B3967530D1FC1246</xref>
+        <xref offset="0x000000000000000A">EFE208D4A0F5D924</xref>
+        <xref offset="0x000000000000000F">AD05AD76C41FBBA1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

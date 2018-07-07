@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>EF53709C5341DC0B</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>1BB5FFA51E207AC3</parent_id>
+      <address>578A94</address>
+      <userdefinedname flags="0x00000034">aMdecRestBadOpt</userdefinedname>
+      <proto>const char[]</proto>
+      <flags>0x5000D400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">EAF297DB</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

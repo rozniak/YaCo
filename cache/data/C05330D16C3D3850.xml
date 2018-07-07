@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>C05330D16C3D3850</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>3688CD291CBCCDBC</parent_id>
+      <address>BD1348</address>
+      <userdefinedname flags="0x00000054">cbtable_dword_BD1348</userdefinedname>
+      <proto>int[64]</proto>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

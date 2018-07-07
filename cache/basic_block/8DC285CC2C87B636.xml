@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8DC285CC2C87B636</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>2A06C1336A172224</parent_id>
+      <address>4FC350</address>
+      <userdefinedname flags="0x00000054">MIDI_DeInit_4FC350</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">DE3896CD</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">B3967530D1FC1246</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
