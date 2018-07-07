@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8D1C508FF186973A</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>AE7D8DFD958C1E26</parent_id>
+      <address>495E20</address>
+      <userdefinedname flags="0x00000054">VLC_Cam_Decode_495E20</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EDFDC900</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000014">72B5DBFD82FE3797</xref>
+        <xref offset="0x00000000000003B1">DD2550E4ED7875EF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

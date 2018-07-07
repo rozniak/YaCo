@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>536309F59B76E107</id>
+    <version>
+      <size>0x0000000000000065</size>
+      <parent_id>69C1BBB0F8F46716</parent_id>
+      <address>495C40</address>
+      <userdefinedname flags="0x00000054">VLC_Camera_Draw_495C40</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47DC8B38</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000000A" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001A" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000024" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000032" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000049" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000004F" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">EDBAD6A2DDF20451</xref>
+        <xref offset="0x000000000000000F">1753EB3BFC294D00</xref>
+        <xref offset="0x0000000000000014">EDBAD6A2DDF20451</xref>
+        <xref offset="0x000000000000001A">FD6A00E4A7E69E64</xref>
+        <xref offset="0x0000000000000024">B127F46CF3D2D045</xref>
+        <xref offset="0x0000000000000032">EDBAD6A2DDF20451</xref>
+        <xref offset="0x0000000000000049">FD6A00E4A7E69E64</xref>
+        <xref offset="0x000000000000004F">FDC2DF6518D18BC5</xref>
+        <xref offset="0x0000000000000055">2F05843FE0DAE8A0</xref>
+        <xref offset="0x0000000000000065">08F5531BEC486F59</xref>
+        <xref offset="0x0000000000000177">9BD02F009C0EB2F2</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

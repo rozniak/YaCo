@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>747291F9768EB355</id>
+    <version>
+      <size>0x0000000000000035</size>
+      <parent_id>620F0A1072849648</parent_id>
+      <address>40EB70</address>
+      <userdefinedname flags="0x00000054">ScreenManager::MoveImage_40EB70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">6B0BD2A3</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">ypos</comments>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">xpos</comments>
+        <comments offset="0000000000000013" type="nonrepeatable_comment">pRect</comments>
+        <valueview offset="000000000000000D" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001E" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000025" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000002C">C06268361D5920BF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

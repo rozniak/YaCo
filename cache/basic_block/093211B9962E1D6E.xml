@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>093211B9962E1D6E</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>874A35CF3EA6FEC8</parent_id>
+      <address>496720</address>
+      <userdefinedname flags="0x00000054">VLC_Tables_Init_496720</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">BF98F88E</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="000000000000000A" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000010" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">2081FF0971421537</xref>
+        <xref offset="0x000000000000001C">455D503219DC37AD</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

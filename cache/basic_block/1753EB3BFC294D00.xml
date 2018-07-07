@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1753EB3BFC294D00</id>
+    <version>
+      <size>0x0000000000000025</size>
+      <parent_id>724EA5DEF43861C5</parent_id>
+      <address>495B30</address>
+      <userdefinedname flags="0x00000054">VLC_Cam_Decode_Init_495B30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1BA3E3B6</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001E" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000025">77D572C99B075E1F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
