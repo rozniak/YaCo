@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>668D51B816A331F2</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>B0E6A988042B8E83</parent_id>
+      <address>40EF60</address>
+      <userdefinedname flags="0x00000054">ScreenManager::sub_cam_vlc_40EF60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D948DC6D</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">a1</comments>
+        <valueview offset="000000000000000B" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000020" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000014">1B65A05A63FF1019</xref>
+        <xref offset="0x0000000000000026">7A644B31D0D070E2</xref>
+        <xref offset="0x000000000000009C">6B9D4D786798E3F4</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
