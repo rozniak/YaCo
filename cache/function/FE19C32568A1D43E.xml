@@ -6,7 +6,7 @@
       <size>0x00000000000001A9</size>
       <parent_id>E49E5BF85F8FEFE1</parent_id>
       <address>409E10</address>
-      <proto>__int16 __thiscall sub(AnimationEx *this, PSX_RECT *a2)</proto>
+      <proto>void __thiscall sub(AnimationEx *this, PSX_RECT *pRect)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">61ECE169</signature>

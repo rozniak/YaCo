@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>64C9FDC8D0D5C571</id>
+    <version>
+      <size>0x0000000000000128</size>
+      <parent_id>BE343338ECCF6682</parent_id>
+      <address>4CF4C0</address>
+      <proto>_DWORD (__stdcall *)(int) __thiscall sub(MainMenuController *this, int a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">AF302CC7</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">B85F81BEAD861F4A</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000015">408C8DF0499341BE</xref>
+        <xref offset="0x0000000000000015" size="0x0000000000000015">51784F0C91A86570</xref>
+        <xref offset="0x000000000000002A" size="0x0000000000000005">933F16F07E9E1202</xref>
+        <xref offset="0x000000000000002F" size="0x0000000000000050">403C0DEDEE7D1EEE</xref>
+        <xref offset="0x000000000000007F" size="0x0000000000000015">204657DF2BAFE1FF</xref>
+        <xref offset="0x0000000000000094" size="0x0000000000000009">9E76C69D567596C1</xref>
+        <xref offset="0x000000000000009D" size="0x000000000000000D">29DF0D15C5B28BCC</xref>
+        <xref offset="0x00000000000000AA" size="0x000000000000005B">8C964F8C732A40D0</xref>
+        <xref offset="0x0000000000000105" size="0x0000000000000015">9A3C4B88A3D611E9</xref>
+        <xref offset="0x000000000000011A" size="0x0000000000000005">A264A926CF654B06</xref>
+        <xref offset="0x000000000000011F" size="0x0000000000000009">EAD83F19ACCA9478</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

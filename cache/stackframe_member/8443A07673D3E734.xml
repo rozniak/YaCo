@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>5FDA42EEC7DC0FAA</parent_id>
       <address>4</address>
-      <userdefinedname>a2</userdefinedname>
+      <userdefinedname>pRect</userdefinedname>
       <proto>PSX_RECT *</proto>
       <flags>0x25500400</flags>
       <signatures/>
