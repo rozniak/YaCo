@@ -6,7 +6,7 @@
       <size>0x0000000000000023</size>
       <parent_id>7A0671FFB240E46F</parent_id>
       <address>40C480</address>
-      <userdefinedname flags="0x000000D4">Animation::sub_40C480</userdefinedname>
+      <userdefinedname flags="0x00000054">Animation::Get_Bounding_Rect_Top_Left_40C480</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">7887623E</signature>
       </signatures>

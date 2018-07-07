@@ -6,7 +6,7 @@
       <size>0x0000000000000006</size>
       <parent_id>FE19C32568A1D43E</parent_id>
       <address>409E10</address>
-      <userdefinedname flags="0x000000D4">Animation::sub_409E10</userdefinedname>
+      <userdefinedname flags="0x00000054">Animation::Get_Frame_Rect_409E10</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">900B2399</signature>
       </signatures>

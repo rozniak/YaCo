@@ -6,7 +6,7 @@
       <size>0x0000000000000010</size>
       <parent_id>4F88D02CBE35380D</parent_id>
       <address>40C400</address>
-      <userdefinedname flags="0x000000D4">Animation::sub_40C400</userdefinedname>
+      <userdefinedname flags="0x00000054">Animation::Get_Frame_Width_Height_40C400</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">B70C9AD5</signature>
       </signatures>

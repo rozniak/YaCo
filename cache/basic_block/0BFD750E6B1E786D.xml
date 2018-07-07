@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0BFD750E6B1E786D</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>5B22855CBB11EECB</parent_id>
+      <address>409C80</address>
+      <userdefinedname flags="0x00000054">Animation::Set_Animation_Data_409C80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1F9DB138</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">57C4D96FB9504CAD</xref>
+        <xref offset="0x0000000000000020">97E5168C0C9D5FD7</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

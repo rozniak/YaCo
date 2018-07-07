@@ -6,6 +6,7 @@
       <size>0x0000000000000057</size>
       <parent_id>E49E5BF85F8FEFE1</parent_id>
       <address>40C400</address>
+      <proto>__int16 __fastcall sub(AnimationEx *this, int frameNum, _WORD *pWidth, _WORD *pHeight)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">D6ABFFDB</signature>

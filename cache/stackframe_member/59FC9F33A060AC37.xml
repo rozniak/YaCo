@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>59FC9F33A060AC37</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>F39FB8E11C554D73</parent_id>
+      <address>24</address>
+      <userdefinedname>pGameObj</userdefinedname>
+      <proto>void *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>
