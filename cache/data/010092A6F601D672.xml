@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>010092A6F601D672</id>
+    <version>
+      <size>0x0000000000000300</size>
+      <parent_id>8B495A3165F6C65E</parent_id>
+      <address>5BC220</address>
+      <userdefinedname flags="0x00000054">sOpenFileNames_5BC220</userdefinedname>
+      <proto>char[32][24]</proto>
+      <flags>0x5400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

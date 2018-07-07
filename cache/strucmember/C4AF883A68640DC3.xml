@@ -6,7 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>AC10C8CC872ED5FB</parent_id>
       <userdefinedname>field_0_0x2800_res</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>LvlHeader_Sub **</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

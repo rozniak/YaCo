@@ -6,7 +6,7 @@
       <size>0x000000000000001B</size>
       <parent_id>135B92DBE9FAF772</parent_id>
       <address>433160</address>
-      <userdefinedname flags="0x00000054">LvlArchive::sub_433160</userdefinedname>
+      <userdefinedname flags="0x00000054">LvlArchive::Find_File_Record_433160</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">A98468DC</signature>
       </signatures>

@@ -3,14 +3,16 @@
   <struc>
     <id>582531FC807273B9</id>
     <version>
-      <size>0x000000000000000C</size>
+      <size>0x0000000000000010</size>
       <address>107</address>
       <userdefinedname>ResourceHeader</userdefinedname>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">34449067CFD0855F</xref>
         <xref offset="0x0000000000000004">425CF44B7633A404</xref>
+        <xref offset="0x0000000000000006">422D06F239579090</xref>
         <xref offset="0x0000000000000008">82611D7A3BCDF4EE</xref>
+        <xref offset="0x000000000000000C">4A673B2E92F1600B</xref>
       </xrefs>
     </version>
   </struc>

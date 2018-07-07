@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>701BCD277BED5E5B</id>
+    <version>
+      <size>0x0000000000000027</size>
+      <parent_id>F405A364584F497A</parent_id>
+      <address>4FAE80</address>
+      <userdefinedname flags="0x000000D4">PSX_CD_OpenFile_4FAE80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">23ADA76E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">char *</comments>
+        <comments offset="0000000000000012" type="nonrepeatable_comment">char *</comments>
+        <valueview offset="0000000000000009" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000012" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000012">B659E978F16EF255</xref>
+        <xref offset="0x0000000000000017">F1410146B34B0A4C</xref>
+        <xref offset="0x0000000000000027">81D718701EB25791</xref>
+        <xref offset="0x00000000000002A8">91395E71875959D9</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
