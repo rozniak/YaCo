@@ -9,7 +9,6 @@
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000008">A11BF7435F95671F</xref>
-        <xref offset="0x000000000000000A">5882D3F2376AEDB2</xref>
         <xref offset="0x000000000000000C">2FE408042AD0D427</xref>
       </xrefs>
       <attribute key="stack_lvars">0x00000004</attribute>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9DBF0224F166889A</id>
+    <version>
+      <size>0x0000000000000035</size>
+      <parent_id>D69A16BBB03D2C80</parent_id>
+      <address>41D510</address>
+      <userdefinedname flags="0x00000054">ParticleBurst::dtor_41D510</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">59B1B8C2</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000029" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">E8F6A65B1A273B21</xref>
+        <xref offset="0x000000000000001D">6D485A7B2CA1416C</xref>
+        <xref offset="0x0000000000000035">D7C15AFA7F3CE4FA</xref>
+        <xref offset="0x000000000000003E">0CF0905E6413B2A8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

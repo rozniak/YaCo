@@ -6,6 +6,7 @@
       <size>0x0000000000000033</size>
       <parent_id>2A422397C7B305ED</parent_id>
       <address>483560</address>
+      <userdefinedname flags="0x00000054">Pal_set_483560</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">8643A240</signature>
       </signatures>

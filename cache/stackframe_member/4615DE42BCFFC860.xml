@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>29192C5C2B7B1872</parent_id>
       <address>C</address>
-      <userdefinedname>a2</userdefinedname>
+      <userdefinedname>palData</userdefinedname>
       <proto>char *</proto>
       <flags>0x25500400</flags>
       <signatures/>

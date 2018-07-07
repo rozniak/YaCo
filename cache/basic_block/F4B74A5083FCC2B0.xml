@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F4B74A5083FCC2B0</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>282BD874B1C42D40</parent_id>
+      <address>41D4E0</address>
+      <userdefinedname flags="0x00000054">ParticleBurst::vdtor_41D4E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">9DBF0224F166889A</xref>
+        <xref offset="0x000000000000000F">04EEC841AD7E3809</xref>
+        <xref offset="0x0000000000000018">C5A9BD1215F82128</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

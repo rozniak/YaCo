@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>E62EE18DC61209D7</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>104</address>
+      <userdefinedname>PSX_Point</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">5036C03FD0A26864</xref>
+        <xref offset="0x0000000000000002">F9DE7C79401820A8</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

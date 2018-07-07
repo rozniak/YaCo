@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>F9DE7C79401820A8</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>E62EE18DC61209D7</parent_id>
+      <address>2</address>
+      <userdefinedname>field_2_y</userdefinedname>
+      <proto>unsigned __int16</proto>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

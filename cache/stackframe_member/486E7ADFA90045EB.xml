@@ -7,7 +7,7 @@
       <parent_id>6485DA017D3A98FE</parent_id>
       <address>38</address>
       <userdefinedname>width</userdefinedname>
-      <proto>signed int</proto>
+      <proto>_DWORD</proto>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

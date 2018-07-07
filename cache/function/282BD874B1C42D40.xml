@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>282BD874B1C42D40</id>
+    <version>
+      <size>0x000000000000001E</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>41D4E0</address>
+      <proto>int __thiscall sub(void *, char)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BC7AE39A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">5096AEDC83A1CC2F</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000F">F4B74A5083FCC2B0</xref>
+        <xref offset="0x000000000000000F" size="0x0000000000000009">04EEC841AD7E3809</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000006">C5A9BD1215F82128</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

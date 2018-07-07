@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>B326E538B0AF0788</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5C9160</address>
+      <userdefinedname flags="0x000000B4">stru_5C9160</userdefinedname>
+      <proto>PSX_Point</proto>
+      <flags>0x60009400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E62EE18DC61209D7</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>

@@ -7,6 +7,7 @@
       <parent_id>D000D54D762680EB</parent_id>
       <address>C</address>
       <userdefinedname>palDepth</userdefinedname>
+      <proto>__int16</proto>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>

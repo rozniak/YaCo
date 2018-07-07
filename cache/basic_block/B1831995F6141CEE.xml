@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B1831995F6141CEE</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>D424E2AFBFDED793</parent_id>
+      <address>44BAB0</address>
+      <userdefinedname flags="0x00000054">Abe::sub_44BAB0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">7B62BB1B</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">switch 46 cases </comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">2C8E35EB4A995956</xref>
+        <xref offset="0x000000000000001E">D934C1E2FAE93996</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

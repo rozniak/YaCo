@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>90152CF7604E4FEA</id>
+    <version>
+      <size>0x0000000000000017</size>
+      <parent_id>AA97FF575B5B4135</parent_id>
+      <address>4247A0</address>
+      <userdefinedname flags="0x00000054">BaseAnimatedWithPhysicsGameObject::sub_4247A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">18D195C3</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000005" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">72807D8D3272AF51</xref>
+        <xref offset="0x0000000000000017">9FF999DFB7D972C8</xref>
+        <xref offset="0x0000000000000130">51881B6C169BB6D3</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

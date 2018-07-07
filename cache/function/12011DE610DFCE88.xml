@@ -6,7 +6,7 @@
       <size>0x00000000000000E7</size>
       <parent_id>8FE12C0A937F6B59</parent_id>
       <address>483390</address>
-      <proto>__int16 __cdecl sub(int xy, __int16 palDepth)</proto>
+      <proto>void __cdecl sub(PSX_Point *xy, __int16 palDepth)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">01CD6E8F</signature>
