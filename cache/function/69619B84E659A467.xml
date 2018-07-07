@@ -6,7 +6,7 @@
       <size>0x00000000000000F6</size>
       <parent_id>E6B3CE382A0B99D8</parent_id>
       <address>4957B0</address>
-      <proto>signed int __cdecl sub(PSX_RECT *a1, int a2)</proto>
+      <proto>signed int __cdecl sub(PSX_RECT *pRect, int a2)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">C031C501</signature>

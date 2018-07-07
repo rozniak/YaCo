@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>A7B04B258B97E325</id>
+    <id>9568657F23F78EB9</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>73AE469BC790A54D</parent_id>
-      <address>C</address>
+      <parent_id>C626EC8DAC746168</parent_id>
+      <address>14</address>
       <userdefinedname>pRect</userdefinedname>
       <proto>PSX_RECT *</proto>
       <flags>0x25500400</flags>

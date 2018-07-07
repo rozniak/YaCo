@@ -6,6 +6,7 @@
       <size>0x0000000000000011</size>
       <parent_id>69619B84E659A467</parent_id>
       <address>4957B0</address>
+      <userdefinedname flags="0x00000054">Vram_4957B0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">A6D05C1D</signature>
       </signatures>

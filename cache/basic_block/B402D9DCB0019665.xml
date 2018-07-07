@@ -6,6 +6,7 @@
       <size>0x000000000000001B</size>
       <parent_id>D0DDBB26CE4CEDB3</parent_id>
       <address>4959E0</address>
+      <userdefinedname flags="0x00000054">Vram_rects_overlap_4959E0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">0D75FF02</signature>
       </signatures>
