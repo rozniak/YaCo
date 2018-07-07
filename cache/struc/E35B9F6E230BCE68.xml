@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>E35B9F6E230BCE68</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <address>FF</address>
+      <userdefinedname>PauseMenuPage</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">82D2650DCBD1D9EF</xref>
+        <xref offset="0x0000000000000004">B66D9F455D9E6980</xref>
+        <xref offset="0x0000000000000008">038AA7C0945C0A94</xref>
+        <xref offset="0x000000000000000C">7464C96437487B30</xref>
+        <xref offset="0x000000000000000E">673833412E26FCF8</xref>
+        <xref offset="0x000000000000000F">D6B97284CAA4C2BA</xref>
+        <xref offset="0x0000000000000010">A1DB3367216DFE13</xref>
+        <xref offset="0x0000000000000011">3CAFDBD8CECFE527</xref>
+        <xref offset="0x0000000000000012">2CE5780CCE4A983B</xref>
+        <xref offset="0x0000000000000013">358FE89D95AEE829</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

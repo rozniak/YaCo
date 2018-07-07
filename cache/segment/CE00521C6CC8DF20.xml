@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <segment>
+    <id>CE00521C6CC8DF20</id>
+    <version>
+      <size>0x000000000000C000</size>
+      <parent_id>3F56B9AAEDE3455D</parent_id>
+      <address>544000</address>
+      <userdefinedname>.rdata</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">3F668358DA7A7480</xref>
+      </xrefs>
+      <attribute key="org_base">0</attribute>
+      <attribute key="comb">2</attribute>
+      <attribute key="align">3</attribute>
+      <attribute key="start_ea">5521408</attribute>
+      <attribute key="perm">4</attribute>
+      <attribute key="bitness">1</attribute>
+      <attribute key="flags">16</attribute>
+      <attribute key="end_ea">5570560</attribute>
+      <attribute key="sel">2</attribute>
+      <attribute key="type">3</attribute>
+      <attribute key="es">0</attribute>
+      <attribute key="cs">0</attribute>
+      <attribute key="ss">0</attribute>
+      <attribute key="ds">3</attribute>
+    </version>
+  </segment>
+</sigfile>

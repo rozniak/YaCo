@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>038AA7C0945C0A94</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>E35B9F6E230BCE68</parent_id>
+      <address>8</address>
+      <userdefinedname>field_8</userdefinedname>
+      <proto>PauseMenuPageEntry *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

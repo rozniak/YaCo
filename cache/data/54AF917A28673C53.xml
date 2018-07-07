@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <strucmember>
-    <id>6C095FD6A5E924CF</id>
+  <data>
+    <id>54AF917A28673C53</id>
     <version>
       <size>0x0000000000000014</size>
-      <parent_id>CCBCCA41F7BE39B7</parent_id>
-      <address>144</address>
-      <userdefinedname>field_144_active_menu</userdefinedname>
+      <parent_id>3F668358DA7A7480</parent_id>
+      <address>5465B0</address>
+      <userdefinedname flags="0x000000B4">stru_5465B0</userdefinedname>
       <proto>PauseMenuPage</proto>
-      <flags>0x60000400</flags>
+      <flags>0x60009400</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">E35B9F6E230BCE68</xref>
       </xrefs>
     </version>
-  </strucmember>
+  </data>
 </sigfile>
