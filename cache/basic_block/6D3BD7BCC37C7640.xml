@@ -6,7 +6,7 @@
       <size>0x000000000000000E</size>
       <parent_id>E56B96839BC2EAB2</parent_id>
       <address>4955F0</address>
-      <userdefinedname flags="0x00000054">Fnt_4955F0</userdefinedname>
+      <userdefinedname flags="0x00000054">Vram_alloc_fixed_4955F0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">17FAAB59</signature>
       </signatures>

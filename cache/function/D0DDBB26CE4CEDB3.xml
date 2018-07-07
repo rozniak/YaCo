@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>D0DDBB26CE4CEDB3</id>
+    <version>
+      <size>0x000000000000005A</size>
+      <parent_id>E6B3CE382A0B99D8</parent_id>
+      <address>4959E0</address>
+      <proto>BOOL __cdecl sub(PSX_RECT *a1, PSX_RECT *a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">7B686188</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">8FA91E5F738A90E0</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000001B">B402D9DCB0019665</xref>
+        <xref offset="0x000000000000001B" size="0x0000000000000006">0BF3B8E373CAE2E8</xref>
+        <xref offset="0x0000000000000021" size="0x0000000000000012">1D5A1F39B249A7AF</xref>
+        <xref offset="0x0000000000000033" size="0x0000000000000006">049B393105ECC77F</xref>
+        <xref offset="0x0000000000000039" size="0x000000000000000A">5EE35E8149CF559D</xref>
+        <xref offset="0x0000000000000043" size="0x0000000000000006">7540F0B7E8A812E5</xref>
+        <xref offset="0x0000000000000049" size="0x0000000000000011">E8BAF06F0341E0C0</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

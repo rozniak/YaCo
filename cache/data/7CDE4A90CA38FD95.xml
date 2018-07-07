@@ -7,7 +7,7 @@
       <parent_id>17670BE13C02D998</parent_id>
       <address>5CB888</address>
       <userdefinedname flags="0x000000B4">stru_5CB888</userdefinedname>
-      <proto>PSX_RECT[]</proto>
+      <proto>PSX_RECT[512]</proto>
       <flags>0x60009400</flags>
       <signatures/>
       <xrefs>
