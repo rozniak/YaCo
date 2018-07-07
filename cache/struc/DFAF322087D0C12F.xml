@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>DFAF322087D0C12F</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <address>101</address>
+      <userdefinedname>PauseMenuPageEntryList</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">81E726251AB397E1</xref>
+        <xref offset="0x0000000000000002">F139A49FB46CBF8A</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
