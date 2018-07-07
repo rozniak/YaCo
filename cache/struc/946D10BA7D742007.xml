@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>946D10BA7D742007</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <address>E9</address>
+      <userdefinedname>VTbl_Animation</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">076FDB3F88394B51</xref>
+        <xref offset="0x0000000000000004">1CF02E1D4B036325</xref>
+        <xref offset="0x0000000000000008">70F38DF0B3D32593</xref>
+        <xref offset="0x000000000000000C">7337B1FBAE77AFF9</xref>
+        <xref offset="0x0000000000000010">41E63B1BDF163A69</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

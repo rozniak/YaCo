@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>70F38DF0B3D32593</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>946D10BA7D742007</parent_id>
+      <address>8</address>
+      <userdefinedname>Animation_v40C630</userdefinedname>
+      <proto>signed __int16 (__fastcall *)(AnimationEx *a1)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

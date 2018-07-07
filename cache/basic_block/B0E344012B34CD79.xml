@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B0E344012B34CD79</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <parent_id>FE19C32568A1D43E</parent_id>
+      <address>409E10</address>
+      <userdefinedname flags="0x000000D4">Animation::sub_409E10</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">900B2399</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000006">1E3914399CEAC3E9</xref>
+        <xref offset="0x000000000000002B">3A690C3B7AED7233</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

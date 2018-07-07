@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>25ADF39A9430F85F</id>
+    <version>
+      <size>0x0000000000000096</size>
+      <parent_id>D70CC499A3CB0686</parent_id>
+      <address>40BFA2</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">35E8C255</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000029" type="nonrepeatable_comment">a1</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">bSemiTrans</comments>
+        <comments offset="000000000000003C" type="nonrepeatable_comment">a1</comments>
+        <comments offset="000000000000004B" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000004C" type="nonrepeatable_comment">a1</comments>
+        <comments offset="0000000000000076" type="nonrepeatable_comment">y</comments>
+        <comments offset="0000000000000077" type="nonrepeatable_comment">x</comments>
+        <valueview offset="000000000000001D" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000087" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000024">A851A2DD9EAF9135</xref>
+        <xref offset="0x000000000000002C">BC0AA9539B73E303</xref>
+        <xref offset="0x000000000000003D">8EC775608DB293B5</xref>
+        <xref offset="0x000000000000004D">9A43BCA8923CBBF6</xref>
+        <xref offset="0x0000000000000078">232D99F3590DA6BF</xref>
+        <xref offset="0x0000000000000096">691F812137CD05DD</xref>
+        <xref offset="0x000000000000009A">990E780B8A568A03</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

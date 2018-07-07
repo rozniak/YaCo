@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>7AA33A7B6A772A74</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <parent_id>2BE373D2139C695E</parent_id>
+      <userdefinedname>field_0_mBase</userdefinedname>
+      <proto>Animation</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">F79C66CFDBC84E78</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

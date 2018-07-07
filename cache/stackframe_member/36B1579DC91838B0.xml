@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>36B1579DC91838B0</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>AFBBB9A9298D344D</parent_id>
+      <address>8</address>
+      <userdefinedname>arg_4</userdefinedname>
+      <proto>Poly_FT4 *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

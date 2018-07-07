@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>076FDB3F88394B51</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>946D10BA7D742007</parent_id>
+      <userdefinedname>Animation__vdecode_40AC90</userdefinedname>
+      <proto>void (__thiscall *)(AnimationEx *this)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

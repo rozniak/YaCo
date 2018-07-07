@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>217C08310415A10F</id>
+    <version>
+      <size>0x0000000000000058</size>
+      <parent_id>2BE373D2139C695E</parent_id>
+      <address>2C</address>
+      <userdefinedname>field_2C_ot_data</userdefinedname>
+      <proto>Poly_FT4[2]</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">033B8DAB1AF2C092</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

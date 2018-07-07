@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1100B2659D9BA590</id>
+    <version>
+      <size>0x0000000000000007</size>
+      <parent_id>072A02CC4CA4D9D4</parent_id>
+      <address>4ABB70</address>
+      <userdefinedname flags="0x000000D4">Animation::sub_4ABB70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">4E345240</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

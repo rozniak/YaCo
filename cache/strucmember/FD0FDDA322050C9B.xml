@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>FD0FDDA322050C9B</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>2BE373D2139C695E</parent_id>
+      <address>28</address>
+      <userdefinedname>field_28_dbuf_size</userdefinedname>
+      <proto>DWORD</proto>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>
