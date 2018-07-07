@@ -6,6 +6,7 @@
       <size>0x000000000000000F</size>
       <parent_id>224046894885989E</parent_id>
       <address>409DA0</address>
+      <userdefinedname flags="0x00000054">Poly_FT4_Get_Rect_409DA0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">D4D5AF6F</signature>
       </signatures>
