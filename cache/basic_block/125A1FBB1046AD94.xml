@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>125A1FBB1046AD94</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>5ED32D1FEB466934</parent_id>
+      <address>40326F</address>
+      <userdefinedname flags="0x00000054">j_LvlArchive::dtor_433130</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">7FCCEA88AB5D6DAF</xref>
+        <xref offset="0x000000000002FEC1">7FCCEA88AB5D6DAF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

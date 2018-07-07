@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>D2E96391382A89D0</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <address>105</address>
+      <userdefinedname>LvlFileRecord</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">873551CF5634D5A3</xref>
+        <xref offset="0x0000000000000004">7F758DFCE6450E67</xref>
+        <xref offset="0x0000000000000008">967DB07DC635EE5D</xref>
+        <xref offset="0x000000000000000C">C441321ADB915D86</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

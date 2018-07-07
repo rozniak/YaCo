@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>582531FC807273B9</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <address>107</address>
+      <userdefinedname>ResourceHeader</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">34449067CFD0855F</xref>
+        <xref offset="0x0000000000000004">425CF44B7633A404</xref>
+        <xref offset="0x0000000000000008">82611D7A3BCDF4EE</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

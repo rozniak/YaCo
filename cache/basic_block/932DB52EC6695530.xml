@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>932DB52EC6695530</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>6F3909B5D9E454E3</parent_id>
+      <address>432E60</address>
+      <userdefinedname flags="0x00000054">LvlArchive::static_dtor_432E60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">7BB512F9</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">B5DADF09A739C6D3</xref>
+        <xref offset="0x0000000000000005">125A1FBB1046AD94</xref>
+        <xref offset="0x00000000FFFD040F">125A1FBB1046AD94</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
