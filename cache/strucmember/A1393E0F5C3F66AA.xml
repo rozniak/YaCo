@@ -7,7 +7,8 @@
       <parent_id>2BE373D2139C695E</parent_id>
       <address>20</address>
       <userdefinedname>field_20_ppBlock</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>BYTE **</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>
