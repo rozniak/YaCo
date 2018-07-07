@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>7E794A16B3FA1C39</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4FAA50</address>
+      <proto>int __cdecl sub(LPCSTR lpFileName)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">255BD5B0</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">9633A175492BC63F</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000013">0B14C76FA1942772</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

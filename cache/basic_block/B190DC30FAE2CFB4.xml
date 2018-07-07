@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B190DC30FAE2CFB4</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>9AC33AC87D73C25B</parent_id>
+      <address>464A70</address>
+      <userdefinedname flags="0x00000054">ResourceManager::vLoadFile_StateMachine_464A70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9329AF85</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">switch 7 cases </comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000013">0B81A34748BED5C6</xref>
+        <xref offset="0x00000000000001C6">8033DC6F29BFCC48</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>D73B514D18002BE0</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>9227DEDFECB672BD</parent_id>
+      <address>48</address>
+      <userdefinedname>field_48_dArray</userdefinedname>
+      <proto>DynamicArray</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">B8B514EA2CF0C67C</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

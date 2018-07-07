@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>2D485550DACB7F2C</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>3688CD291CBCCDBC</parent_id>
+      <address>BD1894</address>
+      <userdefinedname flags="0x00000054">sCdReadPos_BD1894</userdefinedname>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

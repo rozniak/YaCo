@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>9B097148D447DA22</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>B5</address>
+      <userdefinedname>ResourceManager_FileRecord_1C</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">A14514D47253738A</xref>
+        <xref offset="0x0000000000000004">5571EC95FC9A3488</xref>
+        <xref offset="0x0000000000000008">595D6F9B23CFB7E9</xref>
+        <xref offset="0x000000000000000C">AA65E40786D22EF6</xref>
+        <xref offset="0x0000000000000010">900BD459F1CA2B97</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>9432C80C506DC80D</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>9227DEDFECB672BD</parent_id>
+      <address>2C</address>
+      <userdefinedname>field_2C_pFileItem</userdefinedname>
+      <proto>ResourceManager_FileRecord_1C *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

@@ -6,7 +6,7 @@
       <size>0x000000000000003C</size>
       <parent_id>27EB81FF42C05FC6</parent_id>
       <address>432E80</address>
-      <userdefinedname flags="0x00000054">LvlArchive::sub_432E80</userdefinedname>
+      <userdefinedname flags="0x00000054">LvlArchive::Open_Archive_432E80</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">2B96C35D</signature>
       </signatures>

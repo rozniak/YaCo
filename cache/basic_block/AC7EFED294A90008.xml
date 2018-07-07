@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>AC7EFED294A90008</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>2EE3D33DB9F997E3</parent_id>
+      <address>4FB260</address>
+      <userdefinedname flags="0x00000054">PSX_CD_FileIOWait_4FB260</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E0B4E46C</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">34C156A2893BA66A</xref>
+        <xref offset="0x0000000000000009">689CE6B571D81C10</xref>
+        <xref offset="0x000000000000000D">7E5F996167FC82F6</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

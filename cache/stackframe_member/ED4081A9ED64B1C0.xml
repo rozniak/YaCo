@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>6D3B95345D021BA2</id>
+    <id>ED4081A9ED64B1C0</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>51ABF3279BC454CF</parent_id>
+      <parent_id>C5D4CB69CE3B0BF4</parent_id>
       <address>C</address>
-      <userdefinedname>pResHeader</userdefinedname>
-      <proto>ResourceHeader *</proto>
+      <userdefinedname>hFile</userdefinedname>
+      <proto>LvlFileRecord *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

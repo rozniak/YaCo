@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>14C328ECAD0BE8DB</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>79B5306A3C8E8299</parent_id>
+      <address>4FB1E0</address>
+      <userdefinedname flags="0x00000054">PSX_CD_File_Seek_4FB1E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">76F5A3CD</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">1619FB9BD439E103</xref>
+        <xref offset="0x0000000000000011">EBC318436430FA94</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -6,6 +6,7 @@
       <size>0x0000000000000049</size>
       <parent_id>BE34252E207454F2</parent_id>
       <address>4FB210</address>
+      <userdefinedname flags="0x00000054">PSX_CD_File_Read_4FB210</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">DF3844FE</signature>
       </signatures>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>BB7CB02A87DC6F75</id>
+    <version>
+      <size>0x000000000000008D</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F23A0</address>
+      <proto>int __cdecl sub(int hFile, void *pBuffer, size_t bytesCount)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B1CCF386</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">E32047CFA1A14A26</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">36C22FEF0A8EA470</xref>
+        <xref offset="0x0000000000000009" size="0x0000000000000007">902FCE165A05A43C</xref>
+        <xref offset="0x0000000000000010" size="0x0000000000000005">639BE8E83DBD5FDE</xref>
+        <xref offset="0x0000000000000015" size="0x000000000000001B">56E7D4A0385E07D0</xref>
+        <xref offset="0x0000000000000030" size="0x000000000000000C">048DF0C746881B60</xref>
+        <xref offset="0x000000000000003C" size="0x000000000000000C">BE94BCADA9353618</xref>
+        <xref offset="0x0000000000000048" size="0x0000000000000040">B6A4FFD83D4F958B</xref>
+        <xref offset="0x0000000000000088" size="0x0000000000000005">95B8D5C6917ACD5A</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

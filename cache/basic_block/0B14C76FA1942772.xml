@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0B14C76FA1942772</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>7E794A16B3FA1C39</parent_id>
+      <address>4FAA50</address>
+      <userdefinedname flags="0x00000054">j_j_jDeleteFile_4FAA50</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">255BD5B0</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">lpFileName</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">6C35C9B0807E70A0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
