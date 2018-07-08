@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>31DEAED2C23243A8</id>
+    <id>76201C32AF8637E9</id>
     <version>
       <size>0x0000000000000001</size>
-      <parent_id>CCBCCA41F7BE39B7</parent_id>
-      <address>E4</address>
-      <userdefinedname>gapE4</userdefinedname>
+      <parent_id>D51907017A5B10A1</parent_id>
+      <address>16</address>
+      <userdefinedname>field_16_unknown_gap_2</userdefinedname>
       <flags>0x400</flags>
       <signatures/>
       <xrefs/>

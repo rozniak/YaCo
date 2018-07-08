@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>D51907017A5B10A1</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <address>9C</address>
+      <userdefinedname>LoadedResource</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">0C4F3F169FF6550B</xref>
+        <xref offset="0x0000000000000004">EBDCE4568E2BF4F6</xref>
+        <xref offset="0x0000000000000006">95441CABFE858CE4</xref>
+        <xref offset="0x0000000000000007">5C50768CAC7C16C6</xref>
+        <xref offset="0x000000000000000B">E725D6B4BDEB1F71</xref>
+        <xref offset="0x000000000000000F">54AA86ADBD37CFAC</xref>
+        <xref offset="0x0000000000000013">9E80D4D8CD4DE038</xref>
+        <xref offset="0x0000000000000015">188F710F7C0ADF78</xref>
+        <xref offset="0x0000000000000016">76201C32AF8637E9</xref>
+        <xref offset="0x0000000000000017">9186936B71D97F67</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

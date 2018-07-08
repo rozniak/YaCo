@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>F8DDB7A2D344F675</id>
+    <version>
+      <size>0x0000000000000145</size>
+      <parent_id>07F329875772FE58</parent_id>
+      <address>47B600</address>
+      <proto>BaseGameObject *__thiscall sub(BaseGameObject *this, int a2, BaseGameObject_VTable_Union *a3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">D78E004B</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">79507DEF2C140892</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000049">ED5739E9E043DC0C</xref>
+        <xref offset="0x0000000000000049" size="0x000000000000000C">D00FA6F726679890</xref>
+        <xref offset="0x0000000000000055" size="0x00000000000000F0">66B2CE94E7282119</xref>
+        <xref offset="0x00000000000C51D0" size="0x0000000000000008">D8BD4840255426C1</xref>
+        <xref offset="0x00000000000C51D8" size="0x000000000000000B">712658FDAF211CB4</xref>
+        <xref offset="0x00000000000C51E3" size="0x000000000000000B">80A95FF5081D66B5</xref>
+        <xref offset="0x00000000000C51EE" size="0x000000000000000E">E21D5825F3E4917B</xref>
+        <xref offset="0x00000000000C51FC" size="0x000000000000000E">754C3DC01D4555EF</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

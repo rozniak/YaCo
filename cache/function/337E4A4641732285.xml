@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>337E4A4641732285</id>
+    <version>
+      <size>0x000000000000007C</size>
+      <parent_id>89A4B3DD1BD59A74</parent_id>
+      <address>433590</address>
+      <proto>LoadedResource *__thiscall sub(Font *this, int blockSize, char *palleteColors, byte *a4)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">87537F4E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">2E2E6C3A787B3FF1</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000007C">86E42D3801D3E38F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>
