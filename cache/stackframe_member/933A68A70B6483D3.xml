@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <strucmember>
-    <id>865BBFF785F563AF</id>
+  <stackframe_member>
+    <id>933A68A70B6483D3</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>9227DEDFECB672BD</parent_id>
-      <address>44</address>
-      <userdefinedname>field_44_cdLoc</userdefinedname>
+      <parent_id>6DDE47B63FA0F975</parent_id>
+      <address>4</address>
+      <userdefinedname>a1</userdefinedname>
       <proto>CdlLOC</proto>
       <flags>0x60000400</flags>
       <signatures/>
@@ -14,5 +14,5 @@
         <xref offset="0x0000000000000000">FBB7072D011132A8</xref>
       </xrefs>
     </version>
-  </strucmember>
+  </stackframe_member>
 </sigfile>

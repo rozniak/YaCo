@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>37B4027F6B36429F</id>
+    <id>4126968B433BE82B</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>CC6B5C2ADF754277</parent_id>
-      <address>10</address>
-      <userdefinedname>pLoc</userdefinedname>
-      <proto>CdlLOC *</proto>
-      <flags>0x25500400</flags>
+      <parent_id>030C9B5CAD540DB7</parent_id>
+      <address>2C</address>
+      <userdefinedname>arg_10</userdefinedname>
+      <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
     </version>

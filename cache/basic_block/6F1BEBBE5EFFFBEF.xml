@@ -15,6 +15,8 @@
         <comments offset="000000000000000A" type="nonrepeatable_comment">a1</comments>
         <comments offset="000000000000001C" type="nonrepeatable_comment">int</comments>
         <comments offset="000000000000001E" type="nonrepeatable_comment">char *</comments>
+        <comments offset="000000000000002D" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000002E" type="nonrepeatable_comment">a1</comments>
         <valueview offset="0000000000000018" operand="00000001">stack</valueview>
         <valueview offset="0000000000000027" operand="00000001">stack</valueview>
       </offsets>
