@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E5ECB0B43C29430B</id>
+    <version>
+      <size>0x0000000000000041</size>
+      <parent_id>BB464C4F1F1E6431</parent_id>
+      <address>4FAC00</address>
+      <userdefinedname flags="0x00000054">PSX_CD_Add_EMU_Path_4FAC00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F88E9BE5</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">char *</comments>
+        <comments offset="000000000000002C" type="nonrepeatable_comment">struct _finddata_t *</comments>
+        <comments offset="000000000000002D" type="nonrepeatable_comment">char *</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000A" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000016" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000021" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000025" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000016">715AB58EA0409843</xref>
+        <xref offset="0x000000000000001C">E72EB660131CDA5B</xref>
+        <xref offset="0x000000000000002E">D00610A5AD5CDA39</xref>
+        <xref offset="0x0000000000000041">5DDC9362C105AFF4</xref>
+        <xref offset="0x0000000000000103">F648D8BE565E4775</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

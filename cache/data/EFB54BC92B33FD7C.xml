@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>EFB54BC92B33FD7C</id>
+    <version>
+      <size>0x000000000000007F</size>
+      <parent_id>674BB737F214FB6E</parent_id>
+      <address>C145A0</address>
+      <userdefinedname flags="0x00000054">sCdEmu_Path3_C145A0</userdefinedname>
+      <proto>char[127]</proto>
+      <flags>0x5400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

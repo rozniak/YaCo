@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>B216E08A4B47C5A9</id>
+    <version>
+      <size>0x0000000000000189</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4FAA70</address>
+      <proto>signed int __cdecl sub(const char *pPath1, const char *pPath2, const char *pPath3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">81DC97EF</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">3924DB4A9CAE3466</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000A">D45803A8488FA0F5</xref>
+        <xref offset="0x000000000000000A" size="0x0000000000000014">0348F81E7A5B4AD5</xref>
+        <xref offset="0x000000000000001E" size="0x0000000000000006">E8CD238259CBDF88</xref>
+        <xref offset="0x0000000000000024" size="0x0000000000000047">D6CB0C2CABDD2630</xref>
+        <xref offset="0x000000000000006B" size="0x0000000000000017">9E3408BC774C3CD1</xref>
+        <xref offset="0x0000000000000082" size="0x0000000000000008">D5E268F839286741</xref>
+        <xref offset="0x000000000000008A" size="0x0000000000000014">0A7A38BC3551E564</xref>
+        <xref offset="0x000000000000009E" size="0x0000000000000008">FD245030F0445D3C</xref>
+        <xref offset="0x00000000000000A6" size="0x0000000000000047">E77130D300611C7E</xref>
+        <xref offset="0x00000000000000ED" size="0x0000000000000016">0A4302A9AD693BCC</xref>
+        <xref offset="0x0000000000000103" size="0x0000000000000008">04795661122CF291</xref>
+        <xref offset="0x000000000000010B" size="0x0000000000000014">36F510D5D74EC092</xref>
+        <xref offset="0x000000000000011F" size="0x0000000000000008">3FCA883D678155A5</xref>
+        <xref offset="0x0000000000000127" size="0x0000000000000047">6DA8228CC0387A03</xref>
+        <xref offset="0x000000000000016E" size="0x0000000000000016">A33EB24C8936D930</xref>
+        <xref offset="0x0000000000000184" size="0x0000000000000005">F7263E5CE5D2EBFA</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

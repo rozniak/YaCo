@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>FEEBE0282DF3E1CC</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>3688CD291CBCCDBC</parent_id>
+      <address>BD1CC0</address>
+      <userdefinedname flags="0x00000054">sPsxCdFilesCount_BD1CC0</userdefinedname>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

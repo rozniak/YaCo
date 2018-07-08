@@ -6,6 +6,7 @@
       <size>0x0000000000000014</size>
       <parent_id>2DE224F48641C371</parent_id>
       <address>4FB290</address>
+      <userdefinedname flags="0x00000054">PSX_Pos_To_CdLoc_4FB290</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">B5400D18</signature>
       </signatures>
