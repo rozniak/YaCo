@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8A51F5634880CB7F</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>349F7329BE48EB1E</parent_id>
+      <address>481890</address>
+      <userdefinedname flags="0x00000054">Map::sub_481890</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F5C879B2</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000001F" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000022" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000023" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">9763F7E217A73482</xref>
+        <xref offset="0x0000000000000023">4AD06A3CA98D7C12</xref>
+        <xref offset="0x0000000000000032">D608B97C1C5D9DFE</xref>
+        <xref offset="0x0000000000000046">5B4421752D5E1B03</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
