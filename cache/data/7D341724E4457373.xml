@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>7D341724E4457373</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>3F668358DA7A7480</parent_id>
+      <address>5465F8</address>
+      <userdefinedname flags="0x00000054">sPM_Page_Status_5465F8</userdefinedname>
+      <flags>0x20505400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

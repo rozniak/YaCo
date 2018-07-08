@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>32EED8894CF54826</id>
+    <version>
+      <size>0x0000000000000039</size>
+      <parent_id>DDC4F54019CF3121</parent_id>
+      <address>4D4AB0</address>
+      <userdefinedname flags="0x000000D4">MainMenuController::tsub_4D4AB0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9D7F1B72</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000016" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000025" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000002C" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">CCB3A02D171107FE</xref>
+        <xref offset="0x0000000000000016">68C9D61B107616C8</xref>
+        <xref offset="0x0000000000000025">C5028A075E45B359</xref>
+        <xref offset="0x000000000000002C">814DC04B41971DF4</xref>
+        <xref offset="0x0000000000000039">E0BB9FA3322F3D7A</xref>
+        <xref offset="0x00000000000001FC">ED5C52960383B797</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

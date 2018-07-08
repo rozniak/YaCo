@@ -6,8 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>55FC92B0BAAF61AD</parent_id>
       <address>30</address>
-      <userdefinedname>arg_0</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>ot</userdefinedname>
+      <proto>int **</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

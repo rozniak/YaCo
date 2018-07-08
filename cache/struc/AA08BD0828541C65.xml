@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>AA08BD0828541C65</id>
+    <version>
+      <size>0x0000000000000040</size>
+      <address>D7</address>
+      <userdefinedname>Map</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">9499D97AD5A9BA34</xref>
+        <xref offset="0x0000000000000002">79831F57F63B40A7</xref>
+        <xref offset="0x0000000000000004">E9CDB755F4947152</xref>
+        <xref offset="0x0000000000000006">18C98CF36204184F</xref>
+        <xref offset="0x0000000000000008">A961673BA23DB2C0</xref>
+        <xref offset="0x000000000000000A">9866EA3B95F41445</xref>
+        <xref offset="0x000000000000000C">B25A767CEF1AE073</xref>
+        <xref offset="0x000000000000000E">F06D1A8690E73870</xref>
+        <xref offset="0x0000000000000010">12EA694D854F9193</xref>
+        <xref offset="0x000000000000001E">10552CEA886B416F</xref>
+        <xref offset="0x0000000000000020">A258F50294370547</xref>
+        <xref offset="0x0000000000000022">FA5741B2A685934E</xref>
+        <xref offset="0x0000000000000024">FE5DB31E394DB034</xref>
+        <xref offset="0x0000000000000028">F7458D9D1A4AEAF9</xref>
+        <xref offset="0x000000000000002C">72841F35C995F138</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

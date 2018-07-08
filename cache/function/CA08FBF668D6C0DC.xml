@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>CA08FBF668D6C0DC</id>
+    <version>
+      <size>0x000000000000007A</size>
+      <parent_id>07F329875772FE58</parent_id>
+      <address>480D30</address>
+      <proto>signed __int16 __thiscall sub(Map *this, __int16 level, __int16 path, __int16 cam, __int16 a5, __int16 a6, __int16 a7)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">4603BC8E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">B8CFF6D1810DDE69</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000018">66140E9220F7D92B</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000006">C1A7A682450C93D5</xref>
+        <xref offset="0x000000000000001E" size="0x0000000000000005">D77898AB8DAC8402</xref>
+        <xref offset="0x0000000000000023" size="0x0000000000000006">C9917CDD14B83DC6</xref>
+        <xref offset="0x0000000000000029" size="0x0000000000000007">784BC5F2DC2CFC07</xref>
+        <xref offset="0x0000000000000030" size="0x0000000000000033">8ED591F64795B1DB</xref>
+        <xref offset="0x0000000000000063" size="0x0000000000000006">758385DC137C15FD</xref>
+        <xref offset="0x0000000000000069" size="0x0000000000000009">125F41345F50A948</xref>
+        <xref offset="0x0000000000000072" size="0x0000000000000008">3524159130969D72</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>
