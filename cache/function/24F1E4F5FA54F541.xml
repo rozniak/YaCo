@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>24F1E4F5FA54F541</id>
+    <version>
+      <size>0x00000000000000EF</size>
+      <parent_id>8FE12C0A937F6B59</parent_id>
+      <address>48FB80</address>
+      <proto>BaseAnimatedWithPhysicsGameObject *__thiscall sub(PauseMenu *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BAF7E244</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">CF053A5CD34B87F3</xref>
+        <xref offset="0x0000000000000000" size="0x00000000000000EF">B6DB956946825D18</xref>
+        <xref offset="0x00000000000B1170" size="0x0000000000000008">3DB049AFC386CD72</xref>
+        <xref offset="0x00000000000B1178" size="0x000000000000000E">4FEE64E50B90E0E8</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

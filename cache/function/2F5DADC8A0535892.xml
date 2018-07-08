@@ -6,6 +6,7 @@
       <size>0x00000000000001F8</size>
       <parent_id>8FE12C0A937F6B59</parent_id>
       <address>483110</address>
+      <proto>signed __int16 __cdecl sub(PSX_RECT *a1, unsigned int paletteColorCount)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">9A1B4F1C</signature>

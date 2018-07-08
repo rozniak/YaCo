@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>AEA82EE437AE11B0</id>
+    <version>
+      <size>0x00000000000000E9</size>
+      <parent_id>4CF3DE2FAF362A86</parent_id>
+      <address>46ADA0</address>
+      <userdefinedname flags="0x00000054">Text::ctor_46ADA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5787DA90</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <comments offset="000000000000005E" type="nonrepeatable_comment">vramBuffer</comments>
+        <comments offset="000000000000006D" type="nonrepeatable_comment">palette</comments>
+        <comments offset="0000000000000072" type="nonrepeatable_comment">blockSize</comments>
+        <comments offset="0000000000000073" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000020" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000039" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000040" operand="00000000">stack</valueview>
+        <valueview offset="000000000000004D" operand="00000001">stack</valueview>
+        <valueview offset="000000000000005A" operand="00000001">stack</valueview>
+        <valueview offset="000000000000005E" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000006D" operand="00000000">offset-off32</valueview>
+        <valueview offset="00000000000000A8" operand="00000000">stack</valueview>
+        <valueview offset="00000000000000AE" operand="00000001">stack</valueview>
+        <valueview offset="00000000000000C0" operand="00000001">stack</valueview>
+        <valueview offset="00000000000000C9" operand="00000001">stack</valueview>
+        <valueview offset="00000000000000D1" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">D7049D0F169A669E</xref>
+        <xref offset="0x0000000000000024">A7260007830E0215</xref>
+        <xref offset="0x000000000000002D">05FF6EFE006F5203</xref>
+        <xref offset="0x0000000000000039">3D87C9AABF487B21</xref>
+        <xref offset="0x0000000000000048">2EB91599AD8A118C</xref>
+        <xref offset="0x000000000000005E">70534ECDCE42DEF3</xref>
+        <xref offset="0x000000000000006D">5DE0AEF44E262186</xref>
+        <xref offset="0x0000000000000075">86E42D3801D3E38F</xref>
+        <xref offset="0x000000000000007D">70DE9DDADD473B17</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

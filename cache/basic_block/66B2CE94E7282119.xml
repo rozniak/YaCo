@@ -10,21 +10,21 @@
         <signature algo="crc32" method="invariants">A0413F80</signature>
       </signatures>
       <offsets>
-        <comments offset="0000000000000007" type="nonrepeatable_comment">a4</comments>
-        <comments offset="000000000000000C" type="nonrepeatable_comment">palleteColors</comments>
-        <comments offset="0000000000000011" type="nonrepeatable_comment">arg0</comments>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">vramBuffer</comments>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">palette</comments>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">blockSize</comments>
         <comments offset="0000000000000013" type="nonrepeatable_comment">this</comments>
-        <comments offset="000000000000001B" type="nonrepeatable_comment">a4</comments>
-        <comments offset="0000000000000020" type="nonrepeatable_comment">palleteColors</comments>
-        <comments offset="0000000000000025" type="nonrepeatable_comment">arg0</comments>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">vramBuffer</comments>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">palette</comments>
+        <comments offset="0000000000000025" type="nonrepeatable_comment">blockSize</comments>
         <comments offset="0000000000000027" type="nonrepeatable_comment">this</comments>
-        <comments offset="000000000000002F" type="nonrepeatable_comment">a4</comments>
-        <comments offset="0000000000000034" type="nonrepeatable_comment">palleteColors</comments>
-        <comments offset="0000000000000039" type="nonrepeatable_comment">arg0</comments>
+        <comments offset="000000000000002F" type="nonrepeatable_comment">vramBuffer</comments>
+        <comments offset="0000000000000034" type="nonrepeatable_comment">palette</comments>
+        <comments offset="0000000000000039" type="nonrepeatable_comment">blockSize</comments>
         <comments offset="000000000000003B" type="nonrepeatable_comment">this</comments>
-        <comments offset="0000000000000046" type="nonrepeatable_comment">a4</comments>
-        <comments offset="000000000000004B" type="nonrepeatable_comment">palleteColors</comments>
-        <comments offset="0000000000000050" type="nonrepeatable_comment">arg0</comments>
+        <comments offset="0000000000000046" type="nonrepeatable_comment">vramBuffer</comments>
+        <comments offset="000000000000004B" type="nonrepeatable_comment">palette</comments>
+        <comments offset="0000000000000050" type="nonrepeatable_comment">blockSize</comments>
         <comments offset="0000000000000052" type="nonrepeatable_comment">this</comments>
         <comments offset="0000000000000061" type="nonrepeatable_comment">this</comments>
         <comments offset="0000000000000067" type="nonrepeatable_comment">pValue</comments>

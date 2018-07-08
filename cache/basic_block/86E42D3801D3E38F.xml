@@ -6,7 +6,7 @@
       <size>0x000000000000007C</size>
       <parent_id>337E4A4641732285</parent_id>
       <address>433590</address>
-      <userdefinedname flags="0x00000054">Font::PSX_LoadPalette_433590</userdefinedname>
+      <userdefinedname flags="0x00000054">Font::ctor_433590</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">87537F4E</signature>
       </signatures>

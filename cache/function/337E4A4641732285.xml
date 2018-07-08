@@ -6,7 +6,7 @@
       <size>0x000000000000007C</size>
       <parent_id>89A4B3DD1BD59A74</parent_id>
       <address>433590</address>
-      <proto>LoadedResource *__thiscall sub(Font *this, int blockSize, char *palleteColors, byte *a4)</proto>
+      <proto>void __thiscall sub(Font *this, int blockSize, char *palette, byte *vramBuffer)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">87537F4E</signature>

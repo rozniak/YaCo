@@ -6,7 +6,7 @@
       <size>0x0000000000000008</size>
       <parent_id>5894104DBFF0D566</parent_id>
       <address>28</address>
-      <userdefinedname>field_28</userdefinedname>
+      <userdefinedname>field_28_palette_rect</userdefinedname>
       <proto>PSX_RECT</proto>
       <flags>0x60000400</flags>
       <signatures/>

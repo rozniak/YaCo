@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8DDB430E03EFAA3A</id>
+    <version>
+      <size>0x0000000000000093</size>
+      <parent_id>2B6E1C6053CDEAC8</parent_id>
+      <address>460680</address>
+      <userdefinedname flags="0x00000054">LCDScreen::ctor_460680</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">491702B7</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000022" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002B" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002F" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000035" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000046" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000089" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">CDEDE6ABA20303D8</xref>
+        <xref offset="0x0000000000000026">A7260007830E0215</xref>
+        <xref offset="0x0000000000000035">78B524938CE4C006</xref>
+        <xref offset="0x0000000000000089">B1E62C7E5600DD9A</xref>
+        <xref offset="0x0000000000000093">A61B44169D652912</xref>
+        <xref offset="0x000000000000009F">11C472B456F6D703</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
