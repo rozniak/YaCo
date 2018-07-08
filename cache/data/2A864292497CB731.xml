@@ -6,9 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>D6A59BE3C711BC9A</parent_id>
       <address>BBC4BC</address>
-      <userdefinedname flags="0x000000B4">dword_BBC4BC</userdefinedname>
+      <userdefinedname flags="0x00000054">sIOHandle_BBC4BC</userdefinedname>
       <proto>IO_Handle *</proto>
-      <flags>0x20009400</flags>
+      <flags>0x20005400</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">4C613B8BD31DB0F1</xref>

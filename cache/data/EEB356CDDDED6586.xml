@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>EEB356CDDDED6586</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>D6A59BE3C711BC9A</parent_id>
+      <address>BBC4C4</address>
+      <userdefinedname flags="0x00000054">sIO_ReadBuffer_BBC4C4</userdefinedname>
+      <proto>void *</proto>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

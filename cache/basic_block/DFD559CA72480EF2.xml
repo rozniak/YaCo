@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DFD559CA72480EF2</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>3074FA21702158C4</parent_id>
+      <address>4F24D0</address>
+      <userdefinedname flags="0x00000054">IO_4F24D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D50C85E2</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

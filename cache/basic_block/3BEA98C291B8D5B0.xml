@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3BEA98C291B8D5B0</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>0A156660577A2E68</parent_id>
+      <address>4F25A0</address>
+      <userdefinedname flags="0x00000054">FS_IOThread_4F25A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">6B628501</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000006" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">F75977B5DAB3B2B5</xref>
+        <xref offset="0x000000000000000E">417A106D8A90253F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

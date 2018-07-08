@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>0A156660577A2E68</id>
+    <version>
+      <size>0x00000000000000A1</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F25A0</address>
+      <proto>DWORD __stdcall sub(LPVOID lpThreadParameter)</proto>
+      <flags>0x4401</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">A875A8DD</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">6308475F298813E6</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000E">3BEA98C291B8D5B0</xref>
+        <xref offset="0x000000000000000E" size="0x0000000000000017">417A106D8A90253F</xref>
+        <xref offset="0x0000000000000025" size="0x000000000000000A">D0BF265D49559F1E</xref>
+        <xref offset="0x000000000000002F" size="0x000000000000000A">962FF831C717ADAD</xref>
+        <xref offset="0x0000000000000039" size="0x0000000000000009">3905902BA7F8F0B3</xref>
+        <xref offset="0x0000000000000042" size="0x000000000000000B">10206CF01E5B66B1</xref>
+        <xref offset="0x000000000000004D" size="0x0000000000000025">D16E447910F86BC6</xref>
+        <xref offset="0x0000000000000072" size="0x0000000000000018">6FE82D2A026AE386</xref>
+        <xref offset="0x000000000000008A" size="0x0000000000000006">88CCC7DDF5C8E141</xref>
+        <xref offset="0x0000000000000090" size="0x0000000000000011">7FBD63101517ED84</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

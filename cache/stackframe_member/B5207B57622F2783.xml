@@ -6,7 +6,7 @@
       <size>0x0000000000000400</size>
       <parent_id>55A3DF4CBC045C97</parent_id>
       <address>110</address>
-      <userdefinedname>fileName</userdefinedname>
+      <userdefinedname>fullFilePath</userdefinedname>
       <proto>char[1024]</proto>
       <flags>0x400</flags>
       <signatures/>
