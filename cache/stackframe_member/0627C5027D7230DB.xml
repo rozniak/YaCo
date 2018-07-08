@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>9ADE731C7847462E</id>
+    <id>0627C5027D7230DB</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>C047E5EB6C4F1BFF</parent_id>
+      <parent_id>35D39C0D8D21FE6F</parent_id>
       <address>8</address>
       <userdefinedname>hFile</userdefinedname>
       <proto>IO_Handle *</proto>

@@ -6,7 +6,7 @@
       <size>0x0000000000000025</size>
       <parent_id>3FEDF1CE89A2A92F</parent_id>
       <address>4F2510</address>
-      <proto>char __cdecl sub(IO_Handle *a1)</proto>
+      <proto>void __cdecl sub(IO_Handle *hFile)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">82EF8412</signature>

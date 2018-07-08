@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>9E46BCC3D8443905</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>D6A59BE3C711BC9A</parent_id>
+      <address>BBC4D4</address>
+      <userdefinedname flags="0x00000054">sIO_NotUsed3_dword_BBC4D4</userdefinedname>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>
