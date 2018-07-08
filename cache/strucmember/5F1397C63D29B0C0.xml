@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>5F1397C63D29B0C0</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>9227DEDFECB672BD</parent_id>
+      <address>40</address>
+      <userdefinedname>field_40_seek_attempts</userdefinedname>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

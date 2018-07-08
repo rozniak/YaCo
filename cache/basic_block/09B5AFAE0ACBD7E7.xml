@@ -6,7 +6,7 @@
       <size>0x0000000000000008</size>
       <parent_id>BB5F13C3727E3541</parent_id>
       <address>49C610</address>
-      <userdefinedname flags="0x00000054">ResourceManager::Decrement_49C610</userdefinedname>
+      <userdefinedname flags="0x00000054">ResourceManager::Decrement_Pending_Count_49C610</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">CA5B54F8</signature>
       </signatures>
