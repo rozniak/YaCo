@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <stackframe_member>
-    <id>246B371986842764</id>
+  <strucmember>
+    <id>4DCE5507675F1228</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>E32047CFA1A14A26</parent_id>
+      <parent_id>4C613B8BD31DB0F1</parent_id>
       <address>8</address>
-      <userdefinedname>hFile</userdefinedname>
-      <proto>IO_Handle *</proto>
+      <userdefinedname>field_8_hFile</userdefinedname>
+      <proto>FILE *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>
-  </stackframe_member>
+  </strucmember>
 </sigfile>
