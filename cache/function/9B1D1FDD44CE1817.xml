@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>9B1D1FDD44CE1817</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4FAE40</address>
+      <proto>int __cdecl sub(CdlLOC *pLoc)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">0B88C792</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">6B5FF100C26E717B</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000D">C70A4B9CDBF79090</xref>
+        <xref offset="0x000000000000000D" size="0x0000000000000005">FCDCAF5C98AF9040</xref>
+        <xref offset="0x0000000000000012" size="0x0000000000000020">748E2EF40A952023</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

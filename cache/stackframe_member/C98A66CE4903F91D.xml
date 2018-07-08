@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>C98A66CE4903F91D</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>6B5FF100C26E717B</parent_id>
+      <address>4</address>
+      <userdefinedname>pLoc</userdefinedname>
+      <proto>CdlLOC *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

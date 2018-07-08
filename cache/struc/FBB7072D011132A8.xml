@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>FBB7072D011132A8</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>109</address>
+      <userdefinedname>CdlLOC</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">1D272D96E80E12D4</xref>
+        <xref offset="0x0000000000000001">C9082011B1218B76</xref>
+        <xref offset="0x0000000000000002">7D0F8E1A18CA558E</xref>
+        <xref offset="0x0000000000000003">D2700833BD2B6060</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
