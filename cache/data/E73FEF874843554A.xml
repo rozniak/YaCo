@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>E73FEF874843554A</id>
+    <version>
+      <size>0x0000000000000038</size>
+      <parent_id>B71F16F18B3A7A9B</parent_id>
+      <address>55E738</address>
+      <userdefinedname flags="0x00000054">sHasBeenTerminated</userdefinedname>
+      <proto>char[56]</proto>
+      <flags>0x50005400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">E3EFC33C</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>01039AA39EC0C109</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>118F7B6F3932EA95</parent_id>
+      <address>490930</address>
+      <userdefinedname flags="0x000000D4">PauseMenu::Page_ReallyQuit_Update_490930</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EF57512E</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000E" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">DA2A1AFAF7EEA430</xref>
+        <xref offset="0x000000000000000E">F6DEB9ABAA1B5BA3</xref>
+        <xref offset="0x000000000000001B">C5C5865AD0B7D597</xref>
+        <xref offset="0x0000000000000051">F16A0E1421DF5150</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
