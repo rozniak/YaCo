@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>E35B9F6E230BCE68</parent_id>
       <address>8</address>
-      <userdefinedname>field_8</userdefinedname>
+      <userdefinedname>field_8_menu_items</userdefinedname>
       <proto>PauseMenuPageEntryList *</proto>
       <flags>0x25500400</flags>
       <signatures/>

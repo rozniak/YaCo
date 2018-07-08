@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>CCBCCA41F7BE39B7</parent_id>
       <address>12E</address>
-      <userdefinedname>field_12E</userdefinedname>
+      <userdefinedname>field_12E_bg_darkness</userdefinedname>
       <proto>__int16</proto>
       <flags>0x10000400</flags>
       <signatures/>
