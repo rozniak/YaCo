@@ -3,7 +3,7 @@
   <struc>
     <id>14B12D5C3027380F</id>
     <version>
-      <size>0x0000000000000020</size>
+      <size>0x0000000000000038</size>
       <address>106</address>
       <userdefinedname>LvlHeader</userdefinedname>
       <signatures/>

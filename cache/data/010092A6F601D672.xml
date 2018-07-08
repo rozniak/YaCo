@@ -7,10 +7,12 @@
       <parent_id>8B495A3165F6C65E</parent_id>
       <address>5BC220</address>
       <userdefinedname flags="0x00000054">sOpenFileNames_5BC220</userdefinedname>
-      <proto>char[32][24]</proto>
-      <flags>0x5400</flags>
+      <proto>LvlFileRecord[32]</proto>
+      <flags>0x60005400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">D2E96391382A89D0</xref>
+      </xrefs>
     </version>
   </data>
 </sigfile>

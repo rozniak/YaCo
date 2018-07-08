@@ -3,7 +3,7 @@
   <struc>
     <id>07E77356152F572C</id>
     <version>
-      <size>0x0000000000000010</size>
+      <size>0x0000000000000028</size>
       <address>108</address>
       <userdefinedname>LvlHeader_Sub</userdefinedname>
       <signatures/>
@@ -12,6 +12,7 @@
         <xref offset="0x0000000000000004">15AF393850FD8717</xref>
         <xref offset="0x0000000000000008">50D0FE1B4D0AD34C</xref>
         <xref offset="0x000000000000000C">874427B598C29724</xref>
+        <xref offset="0x0000000000000010">AF66E6CEAF1A5FA5</xref>
       </xrefs>
     </version>
   </struc>

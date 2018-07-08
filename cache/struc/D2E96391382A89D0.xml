@@ -9,9 +9,9 @@
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">873551CF5634D5A3</xref>
-        <xref offset="0x0000000000000004">7F758DFCE6450E67</xref>
-        <xref offset="0x0000000000000008">967DB07DC635EE5D</xref>
         <xref offset="0x000000000000000C">C441321ADB915D86</xref>
+        <xref offset="0x0000000000000010">FFABAF71A5ACDA0D</xref>
+        <xref offset="0x0000000000000014">3D7F5756EB389A54</xref>
       </xrefs>
     </version>
   </struc>

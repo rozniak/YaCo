@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>AF66E6CEAF1A5FA5</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <parent_id>07E77356152F572C</parent_id>
+      <address>10</address>
+      <userdefinedname>field_10_file_recs</userdefinedname>
+      <proto>LvlFileRecord</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">D2E96391382A89D0</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

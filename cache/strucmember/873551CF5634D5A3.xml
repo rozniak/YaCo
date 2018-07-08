@@ -3,10 +3,11 @@
   <strucmember>
     <id>873551CF5634D5A3</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x000000000000000C</size>
       <parent_id>D2E96391382A89D0</parent_id>
-      <userdefinedname>field_0_start_sector</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>field_0_file_name</userdefinedname>
+      <proto>char[12]</proto>
+      <flags>0x400</flags>
       <signatures/>
       <xrefs/>
     </version>
