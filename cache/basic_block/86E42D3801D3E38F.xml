@@ -11,6 +11,8 @@
         <signature algo="crc32" method="invariants">87537F4E</signature>
       </signatures>
       <offsets>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">paletteColorCount</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">a1</comments>
         <comments offset="000000000000002E" type="nonrepeatable_comment">a2</comments>
         <comments offset="000000000000002F" type="nonrepeatable_comment">rect</comments>
         <comments offset="000000000000005C" type="nonrepeatable_comment">size</comments>

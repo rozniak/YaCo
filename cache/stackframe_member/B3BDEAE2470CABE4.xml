@@ -7,7 +7,7 @@
       <parent_id>2E2E6C3A787B3FF1</parent_id>
       <address>1C</address>
       <userdefinedname>palette</userdefinedname>
-      <proto>char *</proto>
+      <proto>BYTE *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

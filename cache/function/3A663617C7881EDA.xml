@@ -7,7 +7,7 @@
       <parent_id>89A4B3DD1BD59A74</parent_id>
       <address>4333E0</address>
       <proto>void __cdecl sub()</proto>
-      <flags>0x4404</flags>
+      <flags>0x4444</flags>
       <signatures>
         <signature algo="crc32" method="invariants">7BB512F9</signature>
       </signatures>

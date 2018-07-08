@@ -6,7 +6,7 @@
       <size>0x0000000000000012</size>
       <parent_id>2F5DADC8A0535892</parent_id>
       <address>483110</address>
-      <userdefinedname flags="0x00000054">Pal_GetAvailablePaletteRect_483110</userdefinedname>
+      <userdefinedname flags="0x00000054">Pal_Allocate_483110</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">6862B2EF</signature>
       </signatures>
