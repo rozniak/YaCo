@@ -6,9 +6,9 @@
       <size>0x0000000000000014</size>
       <parent_id>3F668358DA7A7480</parent_id>
       <address>5465B0</address>
-      <userdefinedname flags="0x000000B4">stru_5465B0</userdefinedname>
+      <userdefinedname flags="0x00000054">sPM_Page_Main_5465B0</userdefinedname>
       <proto>PauseMenuPage</proto>
-      <flags>0x60009400</flags>
+      <flags>0x60005400</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">E35B9F6E230BCE68</xref>

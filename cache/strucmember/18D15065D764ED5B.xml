@@ -6,7 +6,7 @@
       <size>0x0000000000000070</size>
       <parent_id>CCBCCA41F7BE39B7</parent_id>
       <address>1F4</address>
-      <userdefinedname>field_1F0</userdefinedname>
+      <userdefinedname>field_1F4</userdefinedname>
       <proto>Poly_F4[4]</proto>
       <flags>0x60000400</flags>
       <signatures/>

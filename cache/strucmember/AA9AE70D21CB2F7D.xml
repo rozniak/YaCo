@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>CCBCCA41F7BE39B7</parent_id>
       <address>264</address>
-      <userdefinedname>unknown2</userdefinedname>
+      <userdefinedname>field_264</userdefinedname>
       <proto>int</proto>
       <flags>0x20000400</flags>
       <signatures/>

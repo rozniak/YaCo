@@ -3,13 +3,16 @@
   <data>
     <id>6448F1098C268224</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000014</size>
       <parent_id>3F668358DA7A7480</parent_id>
       <address>546610</address>
       <userdefinedname flags="0x00000054">sPM_Page_Controls_Actions_546610</userdefinedname>
-      <flags>0x20505400</flags>
+      <proto>PauseMenuPage</proto>
+      <flags>0x60005400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E35B9F6E230BCE68</xref>
+      </xrefs>
     </version>
   </data>
 </sigfile>

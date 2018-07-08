@@ -6,7 +6,7 @@
       <size>0x0000000000000034</size>
       <parent_id>4DA68B7F0F94ECAE</parent_id>
       <address>4903E0</address>
-      <userdefinedname flags="0x000000D4">PauseMenu::tsub_4903E0</userdefinedname>
+      <userdefinedname flags="0x00000054">PauseMenu::Page_Main_Update_4903E0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">EB22F4BC</signature>
       </signatures>

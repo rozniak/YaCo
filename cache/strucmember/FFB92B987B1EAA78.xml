@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>CCBCCA41F7BE39B7</parent_id>
       <address>13E</address>
-      <userdefinedname>word13E</userdefinedname>
+      <userdefinedname>field_13E</userdefinedname>
       <proto>_WORD</proto>
       <flags>0x10000400</flags>
       <signatures/>

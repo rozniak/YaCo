@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>CCBCCA41F7BE39B7</parent_id>
       <address>142</address>
-      <userdefinedname>gap142</userdefinedname>
+      <userdefinedname>field_142</userdefinedname>
       <proto>__int16</proto>
       <flags>0x10000400</flags>
       <signatures/>
