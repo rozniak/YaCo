@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>8415EAC04E2F2409</id>
+    <version>
+      <size>0x00000000000000E5</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>465460</address>
+      <proto>void __thiscall sub(ResourceManager *this, const char *filename, Camera *pCam, int a4, void (__cdecl *pFn)(Camera *), __int16 a6)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">9CE90198</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">92D79EF8495B1F68</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000003A">58DC20A389B7F1A8</xref>
+        <xref offset="0x000000000000003A" size="0x000000000000000C">171F2897C79E55EB</xref>
+        <xref offset="0x0000000000000046" size="0x0000000000000002">F877A2CB29E7F092</xref>
+        <xref offset="0x0000000000000048" size="0x000000000000009D">25667231EC2DF18C</xref>
+        <xref offset="0x00000000000DAB00" size="0x000000000000000B">F35C0C9065B3967D</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

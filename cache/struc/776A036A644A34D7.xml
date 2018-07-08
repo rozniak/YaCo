@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>776A036A644A34D7</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <address>9E</address>
+      <userdefinedname>DynamicArrayIter</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">302B7B2AE51A951E</xref>
+        <xref offset="0x0000000000000004">6DCB6E0DC8E1384D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

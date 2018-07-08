@@ -6,6 +6,7 @@
       <size>0x0000000000000009</size>
       <parent_id>4DAF6B655F1853C0</parent_id>
       <address>43BFC0</address>
+      <userdefinedname flags="0x00000054">Overlays_Init_43BFC0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">95BB0002</signature>
       </signatures>

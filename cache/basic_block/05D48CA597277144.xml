@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>05D48CA597277144</id>
+    <version>
+      <size>0x000000000000002A</size>
+      <parent_id>1E39AF76532B3530</parent_id>
+      <address>49C130</address>
+      <userdefinedname flags="0x00000054">ResourceManager::sub_49C130</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0EADB2DB</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">a4</comments>
+        <comments offset="000000000000001A" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000021" type="nonrepeatable_comment">filename</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000010" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001A" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001A">0A923E6B252CFF76</xref>
+        <xref offset="0x0000000000000022">58DC20A389B7F1A8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1EF1A46F73E6335C</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>37BB9B28A349361F</parent_id>
+      <address>4656F0</address>
+      <userdefinedname flags="0x00000054">ResourceManager::Remove_File_Part_4656F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">4776E8E5</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000010" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001B">F16671785BA32F10</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

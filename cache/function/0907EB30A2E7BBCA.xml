@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>0907EB30A2E7BBCA</id>
+    <version>
+      <size>0x0000000000000044</size>
+      <parent_id>E6B3CE382A0B99D8</parent_id>
+      <address>49C2A0</address>
+      <proto>LoadedResource *__cdecl sub(int type, int resourceID, unsigned __int16 addUseCount, __int16 bLock)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">FEE0206D</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A8717617ABA35A63</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000E">55EC6E058BD2C4B0</xref>
+        <xref offset="0x000000000000000E" size="0x000000000000000A">43EEBB644F4A5069</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000005">DADE64E00B73F33E</xref>
+        <xref offset="0x000000000000001D" size="0x0000000000000007">5F7CFCC4938353D8</xref>
+        <xref offset="0x0000000000000024" size="0x0000000000000002">9D11769C8DED4688</xref>
+        <xref offset="0x0000000000000026" size="0x0000000000000008">8E3973A3D197CE65</xref>
+        <xref offset="0x000000000000002E" size="0x0000000000000004">C03A99A3BDF1F908</xref>
+        <xref offset="0x0000000000000032" size="0x0000000000000008">41C24B31A4556127</xref>
+        <xref offset="0x000000000000003A" size="0x0000000000000006">BCA018A0563B58BD</xref>
+        <xref offset="0x0000000000000040" size="0x0000000000000002">7057822668465B6C</xref>
+        <xref offset="0x0000000000000042" size="0x0000000000000002">E0141C32925A768A</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

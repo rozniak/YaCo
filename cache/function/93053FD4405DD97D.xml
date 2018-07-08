@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>93053FD4405DD97D</id>
+    <version>
+      <size>0x00000000000000AE</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>465610</address>
+      <proto>void __thiscall sub(ResourceManager *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">039DB2BE</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A09531563DA0DA65</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000014">72F3403C8C78A2EB</xref>
+        <xref offset="0x0000000000000014" size="0x000000000000000A">7E25CD167C3C057D</xref>
+        <xref offset="0x000000000000001E" size="0x0000000000000013">2BE0D2EA7B2B9936</xref>
+        <xref offset="0x0000000000000031" size="0x000000000000000F">24D89F55805FDF6F</xref>
+        <xref offset="0x0000000000000040" size="0x0000000000000006">108EA7939B72E952</xref>
+        <xref offset="0x0000000000000046" size="0x0000000000000013">2964A4D5FCC64AC5</xref>
+        <xref offset="0x0000000000000059" size="0x000000000000001D">3B531EBDD92463EB</xref>
+        <xref offset="0x0000000000000076" size="0x0000000000000032">563058A55E428A5E</xref>
+        <xref offset="0x00000000000000A8" size="0x0000000000000006">93C1A003402C0212</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

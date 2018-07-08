@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>58DC20A389B7F1A8</id>
+    <version>
+      <size>0x000000000000003A</size>
+      <parent_id>8415EAC04E2F2409</parent_id>
+      <address>465460</address>
+      <userdefinedname flags="0x00000054">ResourceManager::LoadResourceFile_465460</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0FC3A8DF</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">size_t</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001C" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002C" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000034" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">E9C63A1610C27468</xref>
+        <xref offset="0x0000000000000022">BE47CD8DE2DD5C02</xref>
+        <xref offset="0x000000000000003A">171F2897C79E55EB</xref>
+        <xref offset="0x0000000000000046">F877A2CB29E7F092</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
