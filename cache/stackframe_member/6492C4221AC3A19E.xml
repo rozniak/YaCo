@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>DFA129CCD4DAD732</id>
+    <id>6492C4221AC3A19E</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>6A27479287E0DB5E</parent_id>
-      <address>18</address>
-      <userdefinedname>allocMethod</userdefinedname>
+      <parent_id>458B31E0ABFC7CAE</parent_id>
+      <address>4</address>
+      <userdefinedname>hFile</userdefinedname>
       <proto>int</proto>
       <flags>0x20000400</flags>
       <signatures/>

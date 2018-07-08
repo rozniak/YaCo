@@ -6,7 +6,7 @@
       <size>0x000000000000001E</size>
       <parent_id>D87C374C6C5D2A0B</parent_id>
       <address>49BFB0</address>
-      <userdefinedname flags="0x00000054">ResourceManager::Allocate_Block_49BFB0</userdefinedname>
+      <userdefinedname flags="0x00000054">ResourceManager::Allocate_New_Block_49BFB0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">8A7589E5</signature>
       </signatures>

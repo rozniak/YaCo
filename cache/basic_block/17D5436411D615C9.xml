@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>17D5436411D615C9</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <parent_id>815123B8542B399A</parent_id>
+      <address>49C360</address>
+      <userdefinedname flags="0x00000054">ResourceManager::FreeResource_Impl_49C360</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B68F894B</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">A91616889BDD4AF5</xref>
+        <xref offset="0x000000000000003D">5DAF29EA6670CD7B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

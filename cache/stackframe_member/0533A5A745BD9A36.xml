@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>6A27479287E0DB5E</parent_id>
       <address>14</address>
-      <userdefinedname>a1</userdefinedname>
+      <userdefinedname>sizeBytes</userdefinedname>
       <proto>_DWORD</proto>
       <flags>0x20000400</flags>
       <signatures/>

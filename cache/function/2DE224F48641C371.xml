@@ -6,7 +6,7 @@
       <size>0x0000000000000014</size>
       <parent_id>3FEDF1CE89A2A92F</parent_id>
       <address>4FB290</address>
-      <proto>_BYTE *__cdecl sub(CdlLOC *a1)</proto>
+      <proto>CdlLOC *__cdecl sub(CdlLOC *pLoc)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">B5400D18</signature>
