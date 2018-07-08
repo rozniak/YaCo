@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <segment_chunk>
+    <id>C20A50ED207F83C2</id>
+    <version>
+      <size>0x0000000000010000</size>
+      <parent_id>4B375E5B2429B50E</parent_id>
+      <address>BA0000</address>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x000000000000EC78">819453444E092346</xref>
+        <xref offset="0x000000000000EC88">1557564AEE5A9635</xref>
+        <xref offset="0x000000000000EC9E">86661E335FB4672B</xref>
+        <xref offset="0x000000000000EF58">AD45EFAF4CF63FE6</xref>
+        <xref offset="0x000000000000EF5A">D116AE267DD1A4EF</xref>
+        <xref offset="0x000000000000EF5C">B6085BD7A7E97520</xref>
+        <xref offset="0x000000000000EF5E">00EE12016F70FDBA</xref>
+        <xref offset="0x000000000000EF60">806803F16A08A5DD</xref>
+        <xref offset="0x000000000000EF64">74816D5BE93BE6EE</xref>
+        <xref offset="0x000000000000EF65">0F26C6B8577B7222</xref>
+        <xref offset="0x000000000000EF66">4322DBCB9361A07D</xref>
+        <xref offset="0x000000000000EF6E">0AF8AA5268DCF6E4</xref>
+        <xref offset="0x000000000000EF94">71A9B1A8B75A1A3B</xref>
+        <xref offset="0x000000000000F5A2">B22D0E4E11D2DD69</xref>
+        <xref offset="0x000000000000F5B8">623F8FF23D6F8092</xref>
+        <xref offset="0x000000000000F5C8">BA193B380A7AA5E2</xref>
+        <xref offset="0x000000000000F5D0">8D3BB569C89EDE07</xref>
+        <xref offset="0x000000000000F5EC">9D96E7E04E35CD86</xref>
+        <xref offset="0x000000000000F5F0">C570B7F96DE484E9</xref>
+        <xref offset="0x000000000000F7E0">350EDBC66B8EE487</xref>
+        <xref offset="0x000000000000F7E4">1324722CF8ADEA52</xref>
+        <xref offset="0x000000000000F7E8">2372B7C9E8D93311</xref>
+        <xref offset="0x000000000000F7EC">DBE6ECA24BC2A61E</xref>
+        <xref offset="0x000000000000F7F0">6FAD1EFB6D6ACB39</xref>
+        <xref offset="0x000000000000F7F2">5F437264370F3045</xref>
+        <xref offset="0x000000000000F7F8">BE4BB921B266A1D5</xref>
+      </xrefs>
+    </version>
+  </segment_chunk>
+</sigfile>

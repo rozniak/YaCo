@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>B22D0E4E11D2DD69</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <parent_id>C20A50ED207F83C2</parent_id>
+      <address>BAF5A2</address>
+      <userdefinedname flags="0x000000B4">stru_BAF5A2</userdefinedname>
+      <proto>PSX_RECT</proto>
+      <flags>0x60009400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">8227E9463E7DE6BD</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>
