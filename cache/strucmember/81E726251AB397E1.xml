@@ -5,7 +5,8 @@
     <version>
       <size>0x0000000000000002</size>
       <parent_id>DFAF322087D0C12F</parent_id>
-      <userdefinedname>unknown1</userdefinedname>
+      <userdefinedname>unknown</userdefinedname>
+      <proto>__int16</proto>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
