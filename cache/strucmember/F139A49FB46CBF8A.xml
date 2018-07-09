@@ -7,7 +7,7 @@
       <parent_id>DFAF322087D0C12F</parent_id>
       <address>2</address>
       <userdefinedname>entries</userdefinedname>
-      <proto>PauseMenuPageEntry[1]</proto>
+      <proto>PauseMenuPageEntry</proto>
       <flags>0x60000400</flags>
       <signatures/>
       <xrefs>

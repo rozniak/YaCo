@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>18D15065D764ED5B</id>
+    <id>A67193F5A7841913</id>
     <version>
-      <size>0x0000000000000070</size>
+      <size>0x0000000000000054</size>
       <parent_id>CCBCCA41F7BE39B7</parent_id>
-      <address>1F4</address>
-      <userdefinedname>field_1F4</userdefinedname>
-      <proto>Poly_F4[4]</proto>
+      <address>210</address>
+      <userdefinedname>field_210_polyf4_array</userdefinedname>
+      <proto>Poly_F4[3]</proto>
       <flags>0x60000400</flags>
       <signatures/>
       <xrefs>
