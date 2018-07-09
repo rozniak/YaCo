@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>54DC6C158F1F4ED5</id>
+    <version>
+      <size>0x0000000000000027</size>
+      <parent_id>9CBA0EA9FD4C472A</parent_id>
+      <address>4DB610</address>
+      <userdefinedname flags="0x00000054">Path::sub_4DB610</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CA462C95</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000012" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">45D10A06AA831193</xref>
+        <xref offset="0x000000000000000B">45D10A06AA831193</xref>
+        <xref offset="0x0000000000000027">92DA7C55AFCB4F69</xref>
+        <xref offset="0x0000000000000067">64AB41FB6DE04883</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

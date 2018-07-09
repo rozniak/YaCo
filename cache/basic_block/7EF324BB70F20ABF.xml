@@ -10,6 +10,9 @@
       <signatures>
         <signature algo="crc32" method="invariants">FC192002</signature>
       </signatures>
+      <offsets>
+        <comments offset="0000000000000006" type="nonrepeatable_comment">ppRes</comments>
+      </offsets>
       <xrefs>
         <xref offset="0x0000000000000007">67FAE2E5F687E3DD</xref>
       </xrefs>

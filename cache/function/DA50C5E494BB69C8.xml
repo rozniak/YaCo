@@ -6,6 +6,7 @@
       <size>0x000000000000001E</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4DB170</address>
+      <proto>_DWORD *__thiscall sub(Path *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">0BEA2311</signature>

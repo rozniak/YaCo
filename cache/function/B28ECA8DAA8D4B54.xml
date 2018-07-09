@@ -6,6 +6,7 @@
       <size>0x000000000000002D</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4DB7C0</address>
+      <proto>int __thiscall sub(Path *this, int a2)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">A40A552D</signature>

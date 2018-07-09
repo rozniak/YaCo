@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B81FC2D54D3ADDFF</id>
+    <version>
+      <size>0x000000000000006F</size>
+      <parent_id>E75BFEC481D318FD</parent_id>
+      <address>4DB200</address>
+      <userdefinedname flags="0x00000054">Path::sub_4DB200</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0AAE745E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000E" type="nonrepeatable_comment">ppRes</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000021" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000026" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002B" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">67FAE2E5F687E3DD</xref>
+        <xref offset="0x000000000000001C">ADA87A8AD2205218</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -7,10 +7,12 @@
       <parent_id>D6A59BE3C711BC9A</parent_id>
       <address>BB47C0</address>
       <userdefinedname flags="0x00000054">sPath_dword_BB47C0</userdefinedname>
-      <proto>void *</proto>
+      <proto>Path *</proto>
       <flags>0x20005400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">C36DAA2595364864</xref>
+      </xrefs>
     </version>
   </data>
 </sigfile>
