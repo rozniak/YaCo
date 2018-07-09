@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D334A7CAD8F34EDE</id>
+    <version>
+      <size>0x000000000000001D</size>
+      <parent_id>52E710991E45DFF7</parent_id>
+      <address>482C5B</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">42AC81B6</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">pCam</comments>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">pFn</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">filename</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">a5</comments>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">a4</comments>
+        <valueview offset="0000000000000005" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000013" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">571DCD3FCA48145F</xref>
+        <xref offset="0x000000000000000B">05D48CA597277144</xref>
+        <xref offset="0x0000000000000013">766EC0E90600CB0E</xref>
+        <xref offset="0x000000000000001D">F5FE4DA8FC30F837</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

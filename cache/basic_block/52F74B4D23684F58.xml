@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>52F74B4D23684F58</id>
+    <version>
+      <size>0x0000000000000059</size>
+      <parent_id>349F7329BE48EB1E</parent_id>
+      <address>481C14</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">585EBCB8</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">a1</comments>
+        <comments offset="0000000000000035" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000036" type="nonrepeatable_comment">pSeqTable</comments>
+        <comments offset="0000000000000040" type="nonrepeatable_comment">size_t</comments>
+        <valueview offset="000000000000000E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000015" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000036" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000004A" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000050" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">2EEA31085C04DEF9</xref>
+        <xref offset="0x0000000000000015">2EEA31085C04DEF9</xref>
+        <xref offset="0x000000000000001D">012A7ACAB94662FE</xref>
+        <xref offset="0x000000000000002E">2EEA31085C04DEF9</xref>
+        <xref offset="0x0000000000000036">CE5AD1B290BF0945</xref>
+        <xref offset="0x000000000000003B">D8EEB6F93706B9B6</xref>
+        <xref offset="0x0000000000000042">BE47CD8DE2DD5C02</xref>
+        <xref offset="0x0000000000000059">760741C4091A816E</xref>
+        <xref offset="0x0000000000000075">3391EE5B8B471DA5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

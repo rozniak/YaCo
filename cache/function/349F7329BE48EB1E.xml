@@ -6,6 +6,7 @@
       <size>0x0000000000000B00</size>
       <parent_id>8FE12C0A937F6B59</parent_id>
       <address>481890</address>
+      <proto>int __usercall@&lt;eax&gt; sub(Map *this@&lt;ecx&gt;, int esi0@&lt;esi&gt;, BaseGameObject_VTable_Union *a3@&lt;eax&gt;)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">7EBEB4FD</signature>

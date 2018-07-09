@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <strucmember>
-    <id>593F2C19515076FF</id>
+  <stackframe_member>
+    <id>EC2467F18E7178D8</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>C36DAA2595364864</parent_id>
+      <parent_id>C29C5FEFF5E7582F</parent_id>
       <address>C</address>
-      <userdefinedname>field_C_pPathData</userdefinedname>
+      <userdefinedname>pPathData</userdefinedname>
       <proto>PathData *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>
-  </strucmember>
+  </stackframe_member>
 </sigfile>

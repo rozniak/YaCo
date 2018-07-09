@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>C010CDB703DE8041</id>
+    <version>
+      <size>0x000000000000041C</size>
+      <address>9A</address>
+      <userdefinedname>PathData</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">59F0BA948E348B87</xref>
+        <xref offset="0x0000000000000002">37E0F2BB37D217E0</xref>
+        <xref offset="0x0000000000000004">11AA1C146AF4613E</xref>
+        <xref offset="0x0000000000000006">46DFAB2AA4FCE14B</xref>
+        <xref offset="0x0000000000000008">AC6FD05F9CF5FDED</xref>
+        <xref offset="0x000000000000000A">F85FF84C604A7F07</xref>
+        <xref offset="0x000000000000000C">D65F52E683BD8B07</xref>
+        <xref offset="0x000000000000000E">8EAEFA3231E30C06</xref>
+        <xref offset="0x0000000000000010">029E030D5917B8FC</xref>
+        <xref offset="0x0000000000000014">BFA350EE40C3BB50</xref>
+        <xref offset="0x0000000000000018">D4A2DB54FD8AB3B9</xref>
+        <xref offset="0x000000000000001A">F2BC09D9220B884A</xref>
+        <xref offset="0x000000000000001C">5F6F09E42CF332CA</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
