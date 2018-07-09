@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>55FC92B0BAAF61AD</parent_id>
       <address>68</address>
-      <userdefinedname>max</userdefinedname>
+      <userdefinedname>colorRandomRange</userdefinedname>
       <proto>__int16</proto>
       <flags>0x10000400</flags>
       <signatures/>

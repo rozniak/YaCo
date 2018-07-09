@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>34482479914058D2</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>5F5E3B4504470798</parent_id>
+      <address>491660</address>
+      <userdefinedname flags="0x000000D4">PauseMenu::tsub_491660</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">2475A3FE</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">DDAC6C2F4348233F</xref>
+        <xref offset="0x000000000000000F">13460F5C5A32082A</xref>
+        <xref offset="0x0000000000000013">0991D1476331277C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

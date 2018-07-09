@@ -6,7 +6,7 @@
       <size>0x000000000000012A</size>
       <parent_id>8FE12C0A937F6B59</parent_id>
       <address>490A50</address>
-      <proto>PauseMenuPageEntryList *__thiscall sub(PauseMenu *this, int **ot, PauseMenuPage *a3)</proto>
+      <proto>void __thiscall sub(PauseMenu *this, int **ot, PauseMenuPage *mp)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">89E9A6B4</signature>

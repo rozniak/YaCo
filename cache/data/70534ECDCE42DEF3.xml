@@ -7,7 +7,7 @@
       <parent_id>8B495A3165F6C65E</parent_id>
       <address>5BC5C8</address>
       <userdefinedname flags="0x00000054">sFont1VRAM_5BC5C8</userdefinedname>
-      <proto>byte</proto>
+      <proto>byte[32]</proto>
       <flags>0x5400</flags>
       <signatures/>
       <xrefs/>

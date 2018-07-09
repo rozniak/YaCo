@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>5086BA48FD91E8C4</id>
+    <id>6891F1A750665A44</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>CD6E30FF25247959</parent_id>
-      <address>90</address>
-      <userdefinedname>mp</userdefinedname>
-      <proto>PauseMenuPage *</proto>
+      <parent_id>0116560094AB51F0</parent_id>
+      <address>14</address>
+      <userdefinedname>src</userdefinedname>
+      <proto>char *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
