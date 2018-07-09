@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>02666F865D676CB8</id>
+    <version>
+      <size>0x0000000000000090</size>
+      <parent_id>FCA1BE28BE2202A0</parent_id>
+      <address>491760</address>
+      <userdefinedname flags="0x00000054">PauseMenu::Init_491760</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1329024B</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000016" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">type</comments>
+        <comments offset="0000000000000027" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000036" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000038" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="000000000000003D" type="nonrepeatable_comment">type</comments>
+        <comments offset="0000000000000049" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000058" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000005A" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="000000000000005F" type="nonrepeatable_comment">type</comments>
+        <comments offset="0000000000000069" type="nonrepeatable_comment">unknown3</comments>
+        <comments offset="000000000000006B" type="nonrepeatable_comment">pal_depth</comments>
+        <comments offset="000000000000006D" type="nonrepeatable_comment">unknown1</comments>
+        <comments offset="000000000000006F" type="nonrepeatable_comment">ppAnimData</comments>
+        <comments offset="0000000000000075" type="nonrepeatable_comment">maxH</comments>
+        <comments offset="0000000000000077" type="nonrepeatable_comment">maxW</comments>
+        <comments offset="0000000000000079" type="nonrepeatable_comment">pGameObj</comments>
+        <comments offset="000000000000007A" type="nonrepeatable_comment">animList</comments>
+        <comments offset="000000000000007B" type="nonrepeatable_comment">frameTableOffset</comments>
+        <comments offset="0000000000000080" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000007" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000029" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000004B" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000070" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">3CCBE2DB9FEAD7A4</xref>
+        <xref offset="0x000000000000000C">177F8C38F55294D3</xref>
+        <xref offset="0x0000000000000020">7AC641105898FBC5</xref>
+        <xref offset="0x0000000000000029">36B17B243FECE5C4</xref>
+        <xref offset="0x000000000000002E">177F8C38F55294D3</xref>
+        <xref offset="0x0000000000000042">7AC641105898FBC5</xref>
+        <xref offset="0x000000000000004B">47ABCFAD6D2AC4A7</xref>
+        <xref offset="0x0000000000000050">177F8C38F55294D3</xref>
+        <xref offset="0x0000000000000064">7AC641105898FBC5</xref>
+        <xref offset="0x0000000000000070">76369A7A2EA700F7</xref>
+        <xref offset="0x0000000000000086">A51BB7DD3D284AEF</xref>
+        <xref offset="0x0000000000000090">172393F691F5D231</xref>
+        <xref offset="0x0000000000000096">220E68EBBFF2E207</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7AC641105898FBC5</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <parent_id>94DDB65EC21E3BBE</parent_id>
+      <address>4DC130</address>
+      <userdefinedname flags="0x00000054">BaseGameObject::Add_Resource_4DC130</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">BB84126A</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">a4</comments>
+        <comments offset="000000000000000E" type="nonrepeatable_comment">addUseCount</comments>
+        <comments offset="0000000000000010" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">type</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000008" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000012">55EC6E058BD2C4B0</xref>
+        <xref offset="0x0000000000000020">B4F00BB2DA6D9E77</xref>
+        <xref offset="0x0000000000000029">FFD32DC9FEA9BF63</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
