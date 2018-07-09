@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A7260007830E0215</id>
+    <version>
+      <size>0x000000000000003A</size>
+      <parent_id>1C46890AE2D81161</parent_id>
+      <address>4DBFA0</address>
+      <userdefinedname flags="0x00000054">BaseGameObject::BaseGameObject_ctor_4DBFA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1DABA435</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001D" type="nonrepeatable_comment">startingSize</comments>
+        <comments offset="0000000000000022" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000016" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001E" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002C" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000034" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">59B8B02952BAB85E</xref>
+        <xref offset="0x0000000000000025">DA8496375DDFFA01</xref>
+        <xref offset="0x000000000000002C">C05685C7CCD217BD</xref>
+        <xref offset="0x000000000000003A">C68C6CFE4B88CE34</xref>
+        <xref offset="0x0000000000000098">2CA007EFCCB5DE8B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
