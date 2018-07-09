@@ -7,7 +7,6 @@
       <parent_id>CCBCCA41F7BE39B7</parent_id>
       <address>1F0</address>
       <userdefinedname>field_1F0</userdefinedname>
-      <proto>int</proto>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
