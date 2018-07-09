@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>7EE4937730B039EF</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5C1A20</address>
+      <userdefinedname flags="0x00000054">sStatsSignCurrentArea_5C1A20</userdefinedname>
+      <flags>0x5400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>
