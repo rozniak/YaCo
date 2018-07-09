@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DD12425D3F37BD18</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>0EB025E148832D70</parent_id>
+      <address>465590</address>
+      <userdefinedname flags="0x00000054">ResourceManager::LoadingLoop_465590</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C7A7BCAE</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000A">573135C6E4D7ACD1</xref>
+        <xref offset="0x0000000000000058">F86AC7E9BF226A95</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E090A821D48FE621</id>
+    <version>
+      <size>0x000000000000001E</size>
+      <parent_id>DA50C5E494BB69C8</parent_id>
+      <address>4DB170</address>
+      <userdefinedname flags="0x00000054">Path::ctor_4DB170</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0BEA2311</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

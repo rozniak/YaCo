@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>31663465B8413930</id>
+    <version>
+      <size>0x0000000000000036</size>
+      <parent_id>5D3B77E426417120</parent_id>
+      <address>4DB800</address>
+      <userdefinedname flags="0x00000054">Path::Loader_4DB800</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">310129AF</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000005" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000018" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000025" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000036">E2D2EB337DD33F26</xref>
+        <xref offset="0x00000000000000A2">6ED87E65EF8A5887</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

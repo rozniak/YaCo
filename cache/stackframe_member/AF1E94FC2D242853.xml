@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>AF1E94FC2D242853</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>DCEC3FB96D570E0E</parent_id>
+      <address>8</address>
+      <userdefinedname>bShowLoadingIcon</userdefinedname>
+      <proto>WORD</proto>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

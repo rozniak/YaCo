@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>93983585A8DC7275</id>
+    <id>181A77F3C53AF4DB</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>294646754FBB649B</parent_id>
-      <address>14</address>
-      <userdefinedname>pArray</userdefinedname>
-      <proto>DynamicArray *</proto>
+      <parent_id>DEA939E4150F00E6</parent_id>
+      <address>8</address>
+      <userdefinedname>a4</userdefinedname>
+      <proto>Camera *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

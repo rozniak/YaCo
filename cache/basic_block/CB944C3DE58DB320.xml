@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>CB944C3DE58DB320</id>
+    <version>
+      <size>0x000000000000002D</size>
+      <parent_id>B28ECA8DAA8D4B54</parent_id>
+      <address>4DB7C0</address>
+      <userdefinedname flags="0x00000054">Path::sub_4DB7C0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">A40A552D</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="000000000000001C" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>
