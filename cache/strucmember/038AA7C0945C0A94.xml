@@ -7,7 +7,7 @@
       <parent_id>E35B9F6E230BCE68</parent_id>
       <address>8</address>
       <userdefinedname>field_8_menu_items</userdefinedname>
-      <proto>PauseMenuPageEntryList *</proto>
+      <proto>PauseMenuPageEntryWrapper *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

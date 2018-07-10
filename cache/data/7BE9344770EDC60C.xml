@@ -6,7 +6,7 @@
       <size>0x0000000000000001</size>
       <parent_id>17670BE13C02D998</parent_id>
       <address>5C92F0</address>
-      <userdefinedname flags="0x00000054">sScreenStringBuffer</userdefinedname>
+      <userdefinedname flags="0x00000054">sScreenStringBuffer_5C92F0</userdefinedname>
       <proto>char[16]</proto>
       <flags>0x5400</flags>
       <signatures/>

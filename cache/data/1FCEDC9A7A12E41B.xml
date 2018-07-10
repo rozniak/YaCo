@@ -3,13 +3,16 @@
   <data>
     <id>1FCEDC9A7A12E41B</id>
     <version>
-      <size>0x0000000000000001</size>
+      <size>0x00000000000000B0</size>
       <parent_id>B71F16F18B3A7A9B</parent_id>
       <address>55E1C8</address>
       <userdefinedname flags="0x000000D4">PauseMenu::PageEntryList_Main_55E1C8</userdefinedname>
-      <flags>0x5400</flags>
+      <proto>PauseMenuPageEntryWrapper</proto>
+      <flags>0x60005400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">D2AB22D387F04BE3</xref>
+      </xrefs>
     </version>
   </data>
 </sigfile>
