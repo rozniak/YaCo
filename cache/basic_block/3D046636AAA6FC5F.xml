@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3D046636AAA6FC5F</id>
+    <version>
+      <size>0x0000000000000053</size>
+      <parent_id>CA87A9464F4163D8</parent_id>
+      <address>49BCF9</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">13E22206</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000006" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000006" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000010" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000010" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001A" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001A" operand="00000001">unsigneddecimal</valueview>
+        <valueview offset="0000000000000024" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000024" operand="00000001">char</valueview>
+        <valueview offset="000000000000002E" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000002E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000038" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000003E" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000003E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000048" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000048" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">2AD15FC4037B6520</xref>
+        <xref offset="0x0000000000000006">C907FC244F104FB2</xref>
+        <xref offset="0x0000000000000006">EAEAF08CE0F5B020</xref>
+        <xref offset="0x0000000000000010">95422C148DDF0BD1</xref>
+        <xref offset="0x0000000000000010">C61D9D52A830D988</xref>
+        <xref offset="0x000000000000001A">C907FC244F104FB2</xref>
+        <xref offset="0x0000000000000024">C907FC244F104FB2</xref>
+        <xref offset="0x000000000000002E">3FE64243ACE05FE2</xref>
+        <xref offset="0x000000000000002E">579CCC711020EC4F</xref>
+        <xref offset="0x0000000000000038">3FE64243ACE05FE2</xref>
+        <xref offset="0x000000000000003E">3FE64243ACE05FE2</xref>
+        <xref offset="0x000000000000003E">ACB441D806578203</xref>
+        <xref offset="0x0000000000000048">2AD15FC4037B6520</xref>
+        <xref offset="0x0000000000000048">BB094C3F69FF5F75</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

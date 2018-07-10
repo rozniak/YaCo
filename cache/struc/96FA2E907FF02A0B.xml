@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>96FA2E907FF02A0B</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <address>10D</address>
+      <userdefinedname>ResourceHeapItem</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">47556A4B25396337</xref>
+        <xref offset="0x0000000000000004">1FF1F5A03574C59D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

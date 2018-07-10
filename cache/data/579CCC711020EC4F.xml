@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>579CCC711020EC4F</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>EE9563105A4F2333</parent_id>
+      <address>5D2A04</address>
+      <userdefinedname flags="0x00000054">sResHeap_5D2A04</userdefinedname>
+      <flags>0x5400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>
