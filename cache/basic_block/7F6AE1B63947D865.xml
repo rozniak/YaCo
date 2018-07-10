@@ -6,7 +6,7 @@
       <size>0x0000000000000016</size>
       <parent_id>4DB057B75CF96DE4</parent_id>
       <address>49C1C0</address>
-      <userdefinedname flags="0x00000054">ResourceManager::sub_49C1C0</userdefinedname>
+      <userdefinedname flags="0x00000054">ResourceManager::Move_Resources_To_DArray_49C1C0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">26138A49</signature>
       </signatures>
