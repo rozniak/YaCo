@@ -3,12 +3,12 @@
   <data>
     <id>3FE64243ACE05FE2</id>
     <version>
-      <size>0x0000000000000008</size>
+      <size>0x0000000000000175</size>
       <parent_id>EE9563105A4F2333</parent_id>
       <address>5D1E30</address>
-      <userdefinedname flags="0x000000B4">stru_5D1E30</userdefinedname>
-      <proto>ResourceHeapItem</proto>
-      <flags>0x60009400</flags>
+      <userdefinedname flags="0x000000B4">byte_5D1E30</userdefinedname>
+      <proto>ResourceHeapItem[14]</proto>
+      <flags>0x9400</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">96FA2E907FF02A0B</xref>
