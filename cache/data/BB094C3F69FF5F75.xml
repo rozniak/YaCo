@@ -6,9 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>EE9563105A4F2333</parent_id>
       <address>5D29E8</address>
-      <userdefinedname flags="0x000000B4">dword_5D29E8</userdefinedname>
+      <userdefinedname flags="0x00000054">sSecondLinkedListItem_5D29E8</userdefinedname>
       <proto>ResourceHeapItem *</proto>
-      <flags>0x20009400</flags>
+      <flags>0x20005400</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">96FA2E907FF02A0B</xref>
