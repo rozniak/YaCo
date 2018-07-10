@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D5F83F90A7D0C2A7</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>DCCCB1AB742380D4</parent_id>
+      <address>49BD70</address>
+      <userdefinedname flags="0x00000054">ResourceManager::Push_List_Item_49BD70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">8FC05D68</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">BB094C3F69FF5F75</xref>
+        <xref offset="0x0000000000000008">BB094C3F69FF5F75</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

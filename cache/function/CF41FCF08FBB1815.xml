@@ -6,7 +6,7 @@
       <size>0x000000000000004B</size>
       <parent_id>E6B3CE382A0B99D8</parent_id>
       <address>49BDC0</address>
-      <proto>int *__cdecl sub(int *a1, int size)</proto>
+      <proto>BYTE **__cdecl sub(ResourceHeapItem *pItem, int size)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">B3FD6A26</signature>

@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>E53BA1BDF5ED50EB</parent_id>
       <address>8</address>
-      <userdefinedname>a1</userdefinedname>
+      <userdefinedname>type</userdefinedname>
       <proto>int</proto>
       <flags>0x20000400</flags>
       <signatures/>

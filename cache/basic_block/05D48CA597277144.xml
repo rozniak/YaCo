@@ -6,7 +6,7 @@
       <size>0x000000000000002A</size>
       <parent_id>1E39AF76532B3530</parent_id>
       <address>49C130</address>
-      <userdefinedname flags="0x00000054">ResourceManager::sub_49C130</userdefinedname>
+      <userdefinedname flags="0x00000054">ResourceManager::LoadResourceFile_49C130</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">0EADB2DB</signature>
       </signatures>

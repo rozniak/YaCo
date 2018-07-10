@@ -6,8 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>934EB0A7F4C9DB3E</parent_id>
       <address>4</address>
-      <userdefinedname>a1</userdefinedname>
-      <proto>_DWORD *</proto>
+      <userdefinedname>pListItem</userdefinedname>
+      <proto>ResourceHeapItem *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

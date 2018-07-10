@@ -7,7 +7,8 @@
       <parent_id>96FA2E907FF02A0B</parent_id>
       <address>4</address>
       <userdefinedname>field_4_pNext</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>ResourceHeapItem *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>ADA87A8AD2205218</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>DF143317D535BFB8</parent_id>
+      <address>49C310</address>
+      <userdefinedname flags="0x00000054">ResourceManager::Inc_Ref_Count_49C310</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">4A53E125</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

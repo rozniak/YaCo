@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>6D4CC96D502AC7F4</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>D490FA6E75057DDA</parent_id>
+      <address>49C410</address>
+      <userdefinedname flags="0x00000054">ResourceManager::Get_Header_49C410</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">05671B05</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

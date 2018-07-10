@@ -6,7 +6,7 @@
       <size>0x000000000000012B</size>
       <parent_id>E6B3CE382A0B99D8</parent_id>
       <address>49BFB0</address>
-      <proto>BYTE **__cdecl sub(int sizeBytes, int allocMethod)</proto>
+      <proto>BYTE **__cdecl sub(ResourceHeader *sizeBytes, int allocMethod)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">8B64930C</signature>
