@@ -6,7 +6,7 @@
       <size>0x000000000000004B</size>
       <parent_id>E49E5BF85F8FEFE1</parent_id>
       <address>40B730</address>
-      <proto>FrameInfoHeader *__fastcall sub(AnimationEx *this, signed __int16 a2, __int16 frame)</proto>
+      <proto>FrameInfoHeader *__fastcall sub(AnimationEx *this, __int16 frame)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">E9BA4949</signature>

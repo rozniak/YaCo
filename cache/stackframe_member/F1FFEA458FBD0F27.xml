@@ -7,7 +7,8 @@
       <parent_id>4B3621310FCA5638</parent_id>
       <address>C</address>
       <userdefinedname>var_1C</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>_DWORD *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>
