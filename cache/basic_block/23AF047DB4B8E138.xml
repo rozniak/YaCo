@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>23AF047DB4B8E138</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>4D7EEAB11AF166F9</parent_id>
+      <address>480B80</address>
+      <userdefinedname flags="0x00000054">Map::sub_480B80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">23053549</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000013">FD22AB712640D5E9</xref>
+        <xref offset="0x0000000000000146">3BDA3EEF4B8C29FF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

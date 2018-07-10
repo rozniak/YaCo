@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9458C4178889DDF8</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>C9A841800CDE95DB</parent_id>
+      <address>49C700</address>
+      <userdefinedname flags="0x00000054">ResourceManager::NoEffect_49C700</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CDA20268</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">C907FC244F104FB2</xref>
+        <xref offset="0x000000000000000D">ABB02565F5F9741E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
