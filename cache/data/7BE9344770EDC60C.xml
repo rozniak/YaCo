@@ -8,7 +8,7 @@
       <address>5C92F0</address>
       <userdefinedname flags="0x00000054">sScreenStringBuffer</userdefinedname>
       <proto>char[16]</proto>
-      <flags>0x5000</flags>
+      <flags>0x5400</flags>
       <signatures/>
       <xrefs/>
     </version>

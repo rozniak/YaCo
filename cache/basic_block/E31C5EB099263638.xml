@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E31C5EB099263638</id>
+    <version>
+      <size>0x0000000000000024</size>
+      <parent_id>2A2679D89B1AF0DF</parent_id>
+      <address>4CB060</address>
+      <userdefinedname flags="0x00000054">SEQ_4CB060</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">317C0F7A</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="000000000000001B" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">04F4244DEE4005F5</xref>
+        <xref offset="0x000000000000000C">83BD50E07FED8F54</xref>
+        <xref offset="0x0000000000000011">FDB64DB7CC5A8DA3</xref>
+        <xref offset="0x0000000000000016">707FFD3398A49FE5</xref>
+        <xref offset="0x000000000000001B">D518400057980E4D</xref>
+        <xref offset="0x0000000000000024">C18244158F9F7490</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

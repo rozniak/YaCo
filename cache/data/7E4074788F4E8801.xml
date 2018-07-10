@@ -6,8 +6,8 @@
       <size>0x0000000000000001</size>
       <parent_id>17670BE13C02D998</parent_id>
       <address>5C92F8</address>
-      <userdefinedname flags="0x000000B4">unk_5C92F8</userdefinedname>
-      <flags>0x9000</flags>
+      <userdefinedname flags="0x000000B4">byte_5C92F8</userdefinedname>
+      <flags>0x9400</flags>
       <signatures/>
       <xrefs/>
     </version>

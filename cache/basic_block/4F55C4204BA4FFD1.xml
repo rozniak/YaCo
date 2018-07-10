@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4F55C4204BA4FFD1</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <parent_id>1C679FB4CC549DCD</parent_id>
+      <address>4FDFE0</address>
+      <userdefinedname flags="0x00000054">MIDI_4FDFE0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F00BEBA4</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000006">4933BE0DDBB03368</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
