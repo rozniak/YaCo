@@ -3,16 +3,14 @@
   <data>
     <id>C907FC244F104FB2</id>
     <version>
-      <size>0x0000000000000010</size>
+      <size>0x00000000004E2000</size>
       <parent_id>EE9563105A4F2333</parent_id>
       <address>5D29F4</address>
-      <userdefinedname flags="0x00000054">sHeapFirstItem_5D29F4</userdefinedname>
-      <proto>ResourceHeader</proto>
-      <flags>0x60005400</flags>
+      <userdefinedname flags="0x00000054">sResourceHeap_5D29F4</userdefinedname>
+      <proto>BYTE</proto>
+      <flags>0x5400</flags>
       <signatures/>
-      <xrefs>
-        <xref offset="0x0000000000000000">582531FC807273B9</xref>
-      </xrefs>
+      <xrefs/>
     </version>
   </data>
 </sigfile>
