@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <segment_chunk>
+    <id>BA8306E2F7E8DC4E</id>
+    <version>
+      <size>0x0000000000010000</size>
+      <parent_id>4B375E5B2429B50E</parent_id>
+      <address>980000</address>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </segment_chunk>
+</sigfile>

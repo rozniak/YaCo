@@ -8,10 +8,6 @@
       <address>AB0000</address>
       <signatures/>
       <xrefs>
-        <xref offset="0x00000000000049F4">95422C148DDF0BD1</xref>
-        <xref offset="0x00000000000049F8">C61D9D52A830D988</xref>
-        <xref offset="0x00000000000049FC">E02E0B7911312B15</xref>
-        <xref offset="0x0000000000004A00">DB2A1AD441A22518</xref>
         <xref offset="0x0000000000004A04">7352ED71D6DB9C54</xref>
         <xref offset="0x0000000000004A08">42188DDC8B375DFF</xref>
         <xref offset="0x0000000000004A0C">D17C9AC822930A42</xref>
