@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>85526AD13DC4E227</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>6D9D28126888992B</parent_id>
+      <address>3C</address>
+      <userdefinedname>pFnArg</userdefinedname>
+      <proto>Camera *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

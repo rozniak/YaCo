@@ -6,7 +6,7 @@
       <size>0x000000000000001B</size>
       <parent_id>37BB9B28A349361F</parent_id>
       <address>4656F0</address>
-      <userdefinedname flags="0x00000054">ResourceManager::Remove_File_Part_4656F0</userdefinedname>
+      <userdefinedname flags="0x00000054">ResourceManager::Free_Resources_For_Camera_4656F0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">4776E8E5</signature>
       </signatures>

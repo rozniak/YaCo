@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>3CFD51212CF5551A</id>
+    <version>
+      <size>0x00000000000001EB</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>464EE0</address>
+      <proto>void __thiscall sub(ResourceManager *this, const char *pFileItem, int type, int resourceID, Camera *pCamera, Camera *pFnArg, void (__cdecl *pFn)(Camera *), __int16 a8)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">AD0125BC</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">6D9D28126888992B</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000038">C2CCB0C797CE4912</xref>
+        <xref offset="0x0000000000000038" size="0x0000000000000008">DA5B424D2067F93E</xref>
+        <xref offset="0x0000000000000040" size="0x0000000000000006">26FDCDE5D5A8A439</xref>
+        <xref offset="0x0000000000000046" size="0x000000000000000C">6D23861EC46AD84C</xref>
+        <xref offset="0x0000000000000052" size="0x000000000000000F">18C760AF36BDEDB3</xref>
+        <xref offset="0x0000000000000061" size="0x0000000000000013">DE30E24D158C911D</xref>
+        <xref offset="0x0000000000000074" size="0x000000000000000B">59D3492FE27DC0CB</xref>
+        <xref offset="0x000000000000007F" size="0x000000000000001B">5587911022D5D9EC</xref>
+        <xref offset="0x000000000000009A" size="0x0000000000000007">6764D5956E1B9456</xref>
+        <xref offset="0x00000000000000A1" size="0x000000000000000B">526AFF478658E712</xref>
+        <xref offset="0x00000000000000AC" size="0x0000000000000005">52E789C32B4108B3</xref>
+        <xref offset="0x00000000000000B1" size="0x0000000000000002">7A26B475BF64EB99</xref>
+        <xref offset="0x00000000000000B3" size="0x000000000000000B">55B5DF2D58C8B046</xref>
+        <xref offset="0x00000000000000BE" size="0x0000000000000002">8481048E092E5C0C</xref>
+        <xref offset="0x00000000000000C0" size="0x000000000000000A">20C2217C3626936C</xref>
+        <xref offset="0x00000000000000CA" size="0x0000000000000006">501703E82EAE319C</xref>
+        <xref offset="0x00000000000000D0" size="0x000000000000000E">8FCACB91E26B4B41</xref>
+        <xref offset="0x00000000000000DE" size="0x0000000000000007">971CDFE3F49131F7</xref>
+        <xref offset="0x00000000000000E5" size="0x000000000000003A">8228A2EE8CC7D15E</xref>
+        <xref offset="0x000000000000011F" size="0x000000000000001C">0888B2BC7CBB0E63</xref>
+        <xref offset="0x000000000000013B" size="0x000000000000000C">765778AB4E608455</xref>
+        <xref offset="0x0000000000000147" size="0x0000000000000002">66C2B39E010A34F1</xref>
+        <xref offset="0x0000000000000149" size="0x0000000000000088">7756177539C447E1</xref>
+        <xref offset="0x00000000000001D1" size="0x0000000000000005">04AB55520AB2DD7D</xref>
+        <xref offset="0x00000000000001D6" size="0x0000000000000015">376EA7DC7F3D9D29</xref>
+        <xref offset="0x00000000000DB040" size="0x000000000000000B">1502A86F03C3DCB7</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

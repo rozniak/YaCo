@@ -6,7 +6,7 @@
       <size>0x00000000000000CA</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>4656F0</address>
-      <proto>__int16 __thiscall sub(ResourceManager *this, int a2)</proto>
+      <proto>void __thiscall sub(ResourceManager *this, Camera *pCamera)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">EF8051EA</signature>
