@@ -7,7 +7,8 @@
       <parent_id>9B097148D447DA22</parent_id>
       <address>4</address>
       <userdefinedname>field_4_pResourcesToLoadList</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>ResourcesToLoadList *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

@@ -7,7 +7,8 @@
       <parent_id>D66550594A35827A</parent_id>
       <address>4</address>
       <userdefinedname>arg_0</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>BYTE **</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

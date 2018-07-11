@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>6D9D28126888992B</parent_id>
       <address>44</address>
-      <userdefinedname>a8</userdefinedname>
+      <userdefinedname>bAddUseCount</userdefinedname>
       <proto>__int16</proto>
       <flags>0x10000400</flags>
       <signatures/>

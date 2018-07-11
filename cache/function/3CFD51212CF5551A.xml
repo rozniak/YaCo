@@ -6,7 +6,7 @@
       <size>0x00000000000001EB</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>464EE0</address>
-      <proto>void __thiscall sub(ResourceManager *this, const char *pFileItem, int type, int resourceID, Camera *pCamera, Camera *pFnArg, void (__cdecl *pFn)(Camera *), __int16 a8)</proto>
+      <proto>void __thiscall sub(ResourceManager *this, const char *pFileItem, int type, int resourceID, Camera *pCamera, Camera *pFnArg, void (__cdecl *pFn)(Camera *), __int16 bAddUseCount)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">AD0125BC</signature>
