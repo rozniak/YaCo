@@ -6,7 +6,7 @@
       <size>0x0000000000000033</size>
       <parent_id>E6B3CE382A0B99D8</parent_id>
       <address>49C170</address>
-      <proto>signed __int16 __cdecl sub(const char *pFileName, Camera *pCamera)</proto>
+      <proto>signed __int16 __cdecl sub(const char *pFileName, Camera *a2)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">F1F79BBF</signature>

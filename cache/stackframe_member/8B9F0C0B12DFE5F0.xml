@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>8B9F0C0B12DFE5F0</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>FFE0A4C79A0BC677</parent_id>
+      <address>3C</address>
+      <userdefinedname>pStrBuffer</userdefinedname>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

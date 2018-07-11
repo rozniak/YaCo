@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>17AD5736E152A5BF</id>
+    <version>
+      <size>0x0000000000000113</size>
+      <parent_id>5013B17DC9F7A635</parent_id>
+      <address>4CEB09</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">B314E5E9</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">a4</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">addUseCount</comments>
+        <comments offset="000000000000000E" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="0000000000000016" type="nonrepeatable_comment">type</comments>
+        <comments offset="0000000000000032" type="nonrepeatable_comment">unknown3</comments>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">pal_depth</comments>
+        <comments offset="0000000000000034" type="nonrepeatable_comment">unknown1</comments>
+        <comments offset="0000000000000035" type="nonrepeatable_comment">ppAnimData</comments>
+        <comments offset="0000000000000036" type="nonrepeatable_comment">maxH</comments>
+        <comments offset="0000000000000038" type="nonrepeatable_comment">maxW</comments>
+        <comments offset="000000000000003D" type="nonrepeatable_comment">pGameObj</comments>
+        <comments offset="000000000000003E" type="nonrepeatable_comment">animList</comments>
+        <comments offset="000000000000003F" type="nonrepeatable_comment">frameTableOffset</comments>
+        <comments offset="0000000000000044" type="nonrepeatable_comment">this</comments>
+        <valueview offset="000000000000002C" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000005C" operand="00000001">stack</valueview>
+        <valueview offset="000000000000009D" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000010A" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">67053CD22792DAD2</xref>
+        <xref offset="0x000000000000001E">55EC6E058BD2C4B0</xref>
+        <xref offset="0x000000000000002C">76369A7A2EA700F7</xref>
+        <xref offset="0x000000000000004A">A51BB7DD3D284AEF</xref>
+        <xref offset="0x000000000000009D">B5DD9600592F367E</xref>
+        <xref offset="0x00000000000000AA">ECF95B32B6DFCACE</xref>
+        <xref offset="0x000000000000010A">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000113">02BF5EDBCFC320DE</xref>
+        <xref offset="0x0000000000000124">ACAB9E6A343F0CD5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

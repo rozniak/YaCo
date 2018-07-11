@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>810796C9EAB4DBA7</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>AB864442F47FC921</parent_id>
+      <address>4016DB</address>
+      <userdefinedname flags="0x00000054">j_MIDI_46FA90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">D188BE47E129BF3B</xref>
+        <xref offset="0x000000000006E3B5">D188BE47E129BF3B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

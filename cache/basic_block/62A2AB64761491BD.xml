@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>62A2AB64761491BD</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>FD48995482959DBE</parent_id>
+      <address>49AD32</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">C0331AFD</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="repeatable_comment">jumptable 0049ABBC case 84</comments>
+        <comments offset="0000000000000002" type="nonrepeatable_comment">addUseCount</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">type</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">55EC6E058BD2C4B0</xref>
+        <xref offset="0x000000000000001A">B621816245042467</xref>
+        <xref offset="0x000000000000003A">C30D297A999D972C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

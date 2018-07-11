@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>64DB58D22554E307</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>DD30DA0ACC80339F</parent_id>
+      <address>4D1BE0</address>
+      <userdefinedname flags="0x000000D4">MainMenuController::tsub_4D1BE0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E71AF867</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000000" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">6B279047540D9072</xref>
+        <xref offset="0x000000000000000D">1F0F91DCCDFA3E08</xref>
+        <xref offset="0x0000000000000042">C5E71F68DE5AAF1F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

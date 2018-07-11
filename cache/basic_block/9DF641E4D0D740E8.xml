@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <basic_block>
-    <id>5C45333987D913DE</id>
+    <id>9DF641E4D0D740E8</id>
     <version>
       <size>0x0000000000000083</size>
-      <parent_id>B935CC98B85CD8B2</parent_id>
-      <address>4D30B4</address>
+      <parent_id>EEF1FF4D0955C1E8</parent_id>
+      <address>4D34A4</address>
       <signatures>
         <signature algo="crc32" method="invariants">13B96608</signature>
       </signatures>
@@ -19,8 +19,8 @@
         <comments offset="0000000000000050" type="nonrepeatable_comment">resourceID</comments>
         <comments offset="0000000000000055" type="nonrepeatable_comment">type</comments>
         <comments offset="0000000000000062" type="nonrepeatable_comment">this</comments>
-        <comments offset="000000000000006B" type="nonrepeatable_comment">a3</comments>
-        <comments offset="000000000000006C" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000006B" type="nonrepeatable_comment">pAnimRes</comments>
+        <comments offset="000000000000006C" type="nonrepeatable_comment">frameTableOffset</comments>
         <comments offset="0000000000000076" type="nonrepeatable_comment">a3</comments>
         <comments offset="0000000000000078" type="nonrepeatable_comment">a2</comments>
         <comments offset="000000000000007A" type="nonrepeatable_comment">this</comments>
@@ -31,7 +31,7 @@
         <xref offset="0x000000000000001D">67FAE2E5F687E3DD</xref>
         <xref offset="0x0000000000000034">E85192397707C279</xref>
         <xref offset="0x0000000000000039">4A88CFB993B02678</xref>
-        <xref offset="0x0000000000000042">8F80C973275EF4B8</xref>
+        <xref offset="0x0000000000000042">BEC5BAAFDD308F5B</xref>
         <xref offset="0x0000000000000047">177F8C38F55294D3</xref>
         <xref offset="0x000000000000005A">55EC6E058BD2C4B0</xref>
         <xref offset="0x0000000000000071">0BFD750E6B1E786D</xref>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>63612D1EFF65C531</id>
+    <id>97ACB2A74D42996C</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>B9B9354F1B3A0D4C</parent_id>
-      <address>14</address>
-      <userdefinedname>arg_0</userdefinedname>
-      <proto>int</proto>
-      <flags>0x20000400</flags>
+      <parent_id>BFB73966D58C6564</parent_id>
+      <address>10</address>
+      <userdefinedname>var_130</userdefinedname>
+      <proto>char[4]</proto>
+      <flags>0x400</flags>
       <signatures/>
       <xrefs/>
     </version>

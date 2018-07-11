@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7A1E60B9CC0AF966</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>D5B7A2505CA19B8D</parent_id>
+      <address>448F90</address>
+      <userdefinedname flags="0x000000D4">Grenade::sub_448F90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">7DAE69EE</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000005" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000011">A74673DE44C7595D</xref>
+        <xref offset="0x000000000000001D">64C6E674F2A89DDF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

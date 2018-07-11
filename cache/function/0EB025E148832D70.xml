@@ -6,7 +6,7 @@
       <size>0x000000000000005C</size>
       <parent_id>AE26A4DABAB7262C</parent_id>
       <address>465590</address>
-      <proto>void __fastcall sub(ResourceManager *this, int a1, __int16 bShowLoadingIcon)</proto>
+      <proto>void __fastcall sub(ResourceManager *this, int a1, __int16 a2)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">49768C5F</signature>

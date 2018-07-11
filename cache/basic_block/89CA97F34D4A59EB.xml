@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>89CA97F34D4A59EB</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>86D602FB71C93A70</parent_id>
+      <address>4D133B</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">F749AE44</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>
