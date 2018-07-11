@@ -6,9 +6,9 @@
       <size>0x0000000000000004</size>
       <parent_id>304B1F2D2945005A</parent_id>
       <address>30</address>
-      <userdefinedname>a5</userdefinedname>
-      <proto>int</proto>
-      <flags>0x20000400</flags>
+      <userdefinedname>pFnArg</userdefinedname>
+      <proto>Camera *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

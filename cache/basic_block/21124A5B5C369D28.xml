@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>21124A5B5C369D28</id>
+    <version>
+      <size>0x0000000000000052</size>
+      <parent_id>CAEA87C24754C265</parent_id>
+      <address>46534E</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">B6463FAE</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">size_t</comments>
+        <comments offset="0000000000000031" type="nonrepeatable_comment">pValue</comments>
+        <comments offset="0000000000000032" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000014" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001B" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000022" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000029" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">21124A5B5C369D28</xref>
+        <xref offset="0x0000000000000002">BE47CD8DE2DD5C02</xref>
+        <xref offset="0x0000000000000039">2EB91599AD8A118C</xref>
+        <xref offset="0x0000000000000052">9CCEC5D516CFC9E4</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

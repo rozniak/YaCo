@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>304B1F2D2945005A</parent_id>
       <address>24</address>
-      <userdefinedname>a2</userdefinedname>
+      <userdefinedname>pFileName</userdefinedname>
       <proto>const char *</proto>
       <flags>0x25500400</flags>
       <signatures/>

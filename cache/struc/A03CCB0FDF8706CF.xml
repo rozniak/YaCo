@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>A03CCB0FDF8706CF</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <address>10E</address>
+      <userdefinedname>ResourcesToLoadList</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">C5E1156AB0A4D1D4</xref>
+        <xref offset="0x0000000000000004">8D990A8F29E9E708</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

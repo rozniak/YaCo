@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D49625E4801A0EB6</id>
+    <version>
+      <size>0x0000000000000030</size>
+      <parent_id>CAEA87C24754C265</parent_id>
+      <address>4651C5</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">FCEDDF19</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">a4</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">addUseCount</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">type</comments>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">pValue</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">D49625E4801A0EB6</xref>
+        <xref offset="0x000000000000000D">55EC6E058BD2C4B0</xref>
+        <xref offset="0x0000000000000018">2EB91599AD8A118C</xref>
+        <xref offset="0x0000000000000030">9CB524C5FB48B575</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

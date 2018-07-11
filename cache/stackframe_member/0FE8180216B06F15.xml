@@ -6,8 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>304B1F2D2945005A</parent_id>
       <address>28</address>
-      <userdefinedname>pList</userdefinedname>
-      <proto>DynamicArray *</proto>
+      <userdefinedname>pTypeAndIdList</userdefinedname>
+      <proto>ResourcesToLoadList *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

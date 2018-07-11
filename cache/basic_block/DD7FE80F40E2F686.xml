@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DD7FE80F40E2F686</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <parent_id>CAEA87C24754C265</parent_id>
+      <address>4651AB</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">53934F6E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000010">AD0CCFB3A7CD80FD</xref>
+        <xref offset="0x00000000000001FF">B0BF86E4770D8CE9</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
