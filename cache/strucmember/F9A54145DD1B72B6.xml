@@ -7,7 +7,7 @@
       <parent_id>9227DEDFECB672BD</parent_id>
       <address>38</address>
       <userdefinedname>field_38_ppRes</userdefinedname>
-      <proto>BYTE **</proto>
+      <proto>ResourceHeapItem *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
