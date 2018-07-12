@@ -6,6 +6,7 @@
       <size>0x000000000000038B</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4D4AB0</address>
+      <proto>signed int __thiscall sub(MainMenuController *this, int a2)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">7096E666</signature>

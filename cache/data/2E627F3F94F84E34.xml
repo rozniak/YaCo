@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>2E627F3F94F84E34</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>66411D3DB4E8C7AA</parent_id>
+      <address>561538</address>
+      <userdefinedname flags="0x00000054">sMenuItemCount_561538</userdefinedname>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>
