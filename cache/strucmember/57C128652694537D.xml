@@ -7,7 +7,7 @@
       <parent_id>5894104DBFF0D566</parent_id>
       <address>34</address>
       <userdefinedname>field_34</userdefinedname>
-      <proto>byte *</proto>
+      <proto>FontUnknown *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>602447ECCE285BB1</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>66411D3DB4E8C7AA</parent_id>
+      <address>563164</address>
+      <userdefinedname flags="0x00000034">aPressBackspace</userdefinedname>
+      <proto>unsigned __int8</proto>
+      <flags>0x5000D400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">28AF6533</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

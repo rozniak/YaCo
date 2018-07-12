@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>FCA9E1325DA2BA3C</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>FF5EA9BE467EC101</parent_id>
+      <address>4336C0</address>
+      <userdefinedname flags="0x00000054">Font::MeasureWidth_4336C0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F7C880B1</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000012" type="nonrepeatable_comment">op1</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000A" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">70DE9DDADD473B17</xref>
+        <xref offset="0x0000000000000013">5EACB264DEAB8E12</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

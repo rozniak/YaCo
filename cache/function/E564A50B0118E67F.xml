@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>E564A50B0118E67F</id>
+    <version>
+      <size>0x0000000000000126</size>
+      <parent_id>89A4B3DD1BD59A74</parent_id>
+      <address>433BD0</address>
+      <proto>unsigned __int8 *__thiscall sub(Font *this, unsigned __int8 *a2, int a3, signed int op2, int a5)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">5026C91A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">766F6907C17B3455</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000014">BF3F12475B81FE4F</xref>
+        <xref offset="0x0000000000000014" size="0x0000000000000025">8554ED77AEC97C75</xref>
+        <xref offset="0x0000000000000039" size="0x0000000000000004">C6B41AF6C540FF1E</xref>
+        <xref offset="0x000000000000003D" size="0x0000000000000034">12FDC726A040A5AA</xref>
+        <xref offset="0x0000000000000071" size="0x000000000000000A">B9E417F448A3893F</xref>
+        <xref offset="0x000000000000007B" size="0x0000000000000004">810470D220002E2D</xref>
+        <xref offset="0x000000000000007F" size="0x0000000000000004">C49C00C4BD9FD93A</xref>
+        <xref offset="0x0000000000000083" size="0x000000000000000A">7BF94EE05D5CA641</xref>
+        <xref offset="0x000000000000008D" size="0x0000000000000004">515451ED977C31B0</xref>
+        <xref offset="0x0000000000000091" size="0x0000000000000004">653E81735B8E1A23</xref>
+        <xref offset="0x0000000000000095" size="0x000000000000000A">0EFF97FE68BA17F3</xref>
+        <xref offset="0x000000000000009F" size="0x0000000000000064">C0F4ECB4A597E52D</xref>
+        <xref offset="0x0000000000000103" size="0x000000000000000E">5F320F3F349F4739</xref>
+        <xref offset="0x0000000000000111" size="0x000000000000000B">29EC33557C60D442</xref>
+        <xref offset="0x000000000000011C" size="0x000000000000000A">8A62148E828278D2</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

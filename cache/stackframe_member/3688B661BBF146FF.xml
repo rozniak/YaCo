@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>2DC98F5BCE253818</id>
+    <id>3688B661BBF146FF</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>2E2E6C3A787B3FF1</parent_id>
-      <address>20</address>
-      <userdefinedname>vramBuffer</userdefinedname>
-      <proto>FontUnknown *</proto>
+      <parent_id>6A901C046C510CC9</parent_id>
+      <address>4</address>
+      <userdefinedname>a2</userdefinedname>
+      <proto>unsigned __int8 *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

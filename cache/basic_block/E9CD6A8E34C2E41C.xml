@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E9CD6A8E34C2E41C</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>02E6EAA26CB82B1C</parent_id>
+      <address>434290</address>
+      <userdefinedname flags="0x00000054">FlyingSlig::nullsub_33</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EB8C5B28</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

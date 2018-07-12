@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>52F65E546EDFF40F</id>
+    <id>093A8978D18D412E</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>5894104DBFF0D566</parent_id>
-      <address>24</address>
-      <userdefinedname>field_24_resource_data</userdefinedname>
-      <proto>Poly_FT4 *</proto>
+      <parent_id>A058FD445C45BC1E</parent_id>
+      <address>8</address>
+      <userdefinedname>field_8_width_array</userdefinedname>
+      <proto>unsigned __int8 *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
