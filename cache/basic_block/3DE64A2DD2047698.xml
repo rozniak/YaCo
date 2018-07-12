@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3DE64A2DD2047698</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>9D9B929340C3070C</parent_id>
+      <address>4D4150</address>
+      <userdefinedname flags="0x00000054">Quicksave_FindSaves_4D4150</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1024FC3E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">struct _finddata_t *</comments>
+        <valueview offset="0000000000000006" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000C" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000011" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000028" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">6EC42BF0CC41FF09</xref>
+        <xref offset="0x0000000000000011">F8138CE856DE108E</xref>
+        <xref offset="0x000000000000001B">D00610A5AD5CDA39</xref>
+        <xref offset="0x0000000000000032">697EDEB9D50CAE92</xref>
+        <xref offset="0x00000000000000CE">5B3FC7455FB7B683</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

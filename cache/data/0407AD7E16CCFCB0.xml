@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>0407AD7E16CCFCB0</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5C931C</address>
+      <userdefinedname flags="0x00000054">sSaveString_5C931C</userdefinedname>
+      <proto>char[32]</proto>
+      <flags>0x5400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

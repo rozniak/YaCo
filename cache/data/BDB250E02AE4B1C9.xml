@@ -7,9 +7,12 @@
       <parent_id>EE9563105A4F2333</parent_id>
       <address>5D1E2C</address>
       <userdefinedname flags="0x00000054">class_0x30_dword_5D1E2C</userdefinedname>
+      <proto>BaseGameObject *</proto>
       <flags>0x20005400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">77836C329600C078</xref>
+      </xrefs>
     </version>
   </data>
 </sigfile>
