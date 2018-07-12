@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>A058FD445C45BC1E</parent_id>
       <address>C</address>
-      <userdefinedname>field_C</userdefinedname>
+      <userdefinedname>field_C_id</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
