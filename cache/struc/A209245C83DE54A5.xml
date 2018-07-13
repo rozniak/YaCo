@@ -3,7 +3,7 @@
   <struc>
     <id>A209245C83DE54A5</id>
     <version>
-      <size>0x0000000000000024</size>
+      <size>0x000000000000002C</size>
       <address>112</address>
       <userdefinedname>File_Font</userdefinedname>
       <signatures/>
@@ -13,12 +13,7 @@
         <xref offset="0x0000000000000004">2AF810EBADE6FCAD</xref>
         <xref offset="0x0000000000000006">4FF135563024E48E</xref>
         <xref offset="0x0000000000000008">D424D7E441401F4E</xref>
-        <xref offset="0x000000000000000C">C1290281B6198958</xref>
-        <xref offset="0x0000000000000010">FE98E30A7D500D88</xref>
-        <xref offset="0x0000000000000014">2883A14D4BD00A61</xref>
-        <xref offset="0x0000000000000018">41FADF9868C9AD6F</xref>
-        <xref offset="0x000000000000001C">C2D080776D56BDA8</xref>
-        <xref offset="0x0000000000000020">B68ACE35F96251DB</xref>
+        <xref offset="0x0000000000000028">4F916DB33225FE04</xref>
       </xrefs>
     </version>
   </struc>
