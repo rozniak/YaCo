@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>5894104DBFF0D566</parent_id>
       <address>20</address>
-      <userdefinedname>field_20_resource</userdefinedname>
+      <userdefinedname>field_20_fnt_poly_block_ptr</userdefinedname>
       <proto>BYTE **</proto>
       <flags>0x25500400</flags>
       <signatures/>

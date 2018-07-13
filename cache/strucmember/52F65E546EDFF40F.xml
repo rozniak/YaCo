@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>5894104DBFF0D566</parent_id>
       <address>24</address>
-      <userdefinedname>field_24_resource_data</userdefinedname>
+      <userdefinedname>field_24_fnt_poly_array</userdefinedname>
       <proto>Poly_FT4 *</proto>
       <flags>0x25500400</flags>
       <signatures/>
