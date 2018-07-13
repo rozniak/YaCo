@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B5AB3CFD78327B89</id>
+    <version>
+      <size>0x0000000000000017</size>
+      <parent_id>77CF39C215D99764</parent_id>
+      <address>4AA600</address>
+      <userdefinedname flags="0x00000054">Scrab::sub_4AA600</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">AC89CD27</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000006" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">3753F0E831CDA92C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
