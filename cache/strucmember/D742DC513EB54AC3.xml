@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>D742DC513EB54AC3</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>175AF8AF7DD72C88</parent_id>
+      <address>100</address>
+      <userdefinedname>field_100_ban_stdoor_8001</userdefinedname>
+      <proto>BYTE **</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

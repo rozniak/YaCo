@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>C25DF822F0B95A46</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>B71F16F18B3A7A9B</parent_id>
+      <address>55165C</address>
+      <userdefinedname flags="0x00000034">newFrame</userdefinedname>
+      <proto>__int16[6]</proto>
+      <flags>0x1000D400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

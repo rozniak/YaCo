@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>6E0F7B5FAE6CF9C1</id>
+    <id>F762B9AB2B2D6513</id>
     <version>
-      <size>0x0000000000000200</size>
+      <size>0x0000000000000038</size>
       <parent_id>175AF8AF7DD72C88</parent_id>
-      <address>2C</address>
-      <userdefinedname>field_2C</userdefinedname>
-      <proto>Poly_G3[16]</proto>
+      <address>120</address>
+      <userdefinedname>field_120_font</userdefinedname>
+      <proto>Font</proto>
       <flags>0x60000400</flags>
       <signatures/>
       <xrefs>
-        <xref offset="0x0000000000000000">7D74D265594DC5EF</xref>
+        <xref offset="0x0000000000000000">5894104DBFF0D566</xref>
       </xrefs>
     </version>
   </strucmember>

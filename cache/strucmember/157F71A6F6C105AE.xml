@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>157F71A6F6C105AE</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>175AF8AF7DD72C88</parent_id>
+      <address>FC</address>
+      <userdefinedname>field_FC_ban_abeintro_131</userdefinedname>
+      <proto>BYTE **</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>
