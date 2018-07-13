@@ -6,7 +6,7 @@
       <size>0x0000000000000008</size>
       <parent_id>2CF7469864E21009</parent_id>
       <address>433630</address>
-      <userdefinedname flags="0x00000054">Font::433630</userdefinedname>
+      <userdefinedname flags="0x00000054">Font::MeasureWidth_433630</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">F5ADD204</signature>
       </signatures>

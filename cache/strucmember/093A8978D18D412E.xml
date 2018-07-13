@@ -7,7 +7,7 @@
       <parent_id>A058FD445C45BC1E</parent_id>
       <address>8</address>
       <userdefinedname>field_8_width_array</userdefinedname>
-      <proto>unsigned __int8 *</proto>
+      <proto>FontCharInfo *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
