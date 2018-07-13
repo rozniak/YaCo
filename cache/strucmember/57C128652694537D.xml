@@ -6,8 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>5894104DBFF0D566</parent_id>
       <address>34</address>
-      <userdefinedname>field_34</userdefinedname>
-      <proto>FontUnknown *</proto>
+      <userdefinedname>field_34_font_context</userdefinedname>
+      <proto>Font_Context *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

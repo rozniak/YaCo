@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
-  <strucmember>
-    <id>A74B206162C7F6FC</id>
+  <data>
+    <id>8D3BB569C89EDE07</id>
     <version>
       <size>0x0000000000000008</size>
-      <parent_id>A058FD445C45BC1E</parent_id>
-      <userdefinedname>field_0</userdefinedname>
+      <parent_id>C20A50ED207F83C2</parent_id>
+      <address>BAF5D0</address>
+      <userdefinedname flags="0x00000034">xy</userdefinedname>
       <proto>PSX_RECT</proto>
-      <flags>0x60000400</flags>
+      <flags>0x6000D400</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">8227E9463E7DE6BD</xref>
       </xrefs>
     </version>
-  </strucmember>
+  </data>
 </sigfile>

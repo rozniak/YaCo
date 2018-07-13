@@ -6,8 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>2E2E6C3A787B3FF1</parent_id>
       <address>20</address>
-      <userdefinedname>vramBuffer</userdefinedname>
-      <proto>FontUnknown *</proto>
+      <userdefinedname>fontContext</userdefinedname>
+      <proto>Font_Context *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
