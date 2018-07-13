@@ -7,6 +7,7 @@
       <parent_id>462514B1CCB27266</parent_id>
       <address>14</address>
       <userdefinedname>xy</userdefinedname>
+      <proto>_DWORD</proto>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

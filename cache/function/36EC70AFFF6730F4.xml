@@ -6,7 +6,7 @@
       <size>0x0000000000000093</size>
       <parent_id>E6B3CE382A0B99D8</parent_id>
       <address>495A60</address>
-      <proto>void __cdecl sub(int xy, int wh)</proto>
+      <proto>void __cdecl sub(_DWORD xy, int wh)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">940E7618</signature>
