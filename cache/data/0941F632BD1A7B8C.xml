@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>0941F632BD1A7B8C</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>B71F16F18B3A7A9B</parent_id>
+      <address>5525B0</address>
+      <userdefinedname flags="0x000000B4">dword_5525B0</userdefinedname>
+      <flags>0x20009400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

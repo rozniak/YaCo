@@ -3,12 +3,12 @@
   <data>
     <id>95422C148DDF0BD1</id>
     <version>
-      <size>0x0000000000000001</size>
+      <size>0x0000000000000004</size>
       <parent_id>4245AE39ED2DAC61</parent_id>
       <address>AB49F4</address>
-      <userdefinedname flags="0x00000054">sHeapEnd_AB49F4</userdefinedname>
-      <proto>BYTE</proto>
-      <flags>0x5400</flags>
+      <userdefinedname flags="0x00000054">sResources_Pending_Loading_AB49F4</userdefinedname>
+      <proto>_WORD</proto>
+      <flags>0x20005400</flags>
       <signatures/>
       <xrefs/>
     </version>
