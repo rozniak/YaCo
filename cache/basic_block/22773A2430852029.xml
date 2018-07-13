@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>22773A2430852029</id>
+    <version>
+      <size>0x0000000000000048</size>
+      <parent_id>A9BA84142EBA4531</parent_id>
+      <address>427030</address>
+      <userdefinedname flags="0x00000054">DeathFadeOut::ctor_427030</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">198EABAE</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000016" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001C" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000024" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002D" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000036" operand="00000000">stack</valueview>
+        <valueview offset="000000000000003A" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">61DAE47D4E16EE2B</xref>
+        <xref offset="0x0000000000000028">3D98EE220B1CC6A9</xref>
+        <xref offset="0x000000000000003A">41791728DA48104A</xref>
+        <xref offset="0x0000000000000048">29D1A8A055F2A27D</xref>
+        <xref offset="0x000000000000004E">AE33D2A6DC018740</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

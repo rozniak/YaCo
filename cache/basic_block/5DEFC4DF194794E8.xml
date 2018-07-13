@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5DEFC4DF194794E8</id>
+    <version>
+      <size>0x0000000000000059</size>
+      <parent_id>5F3BEDC4D6E45EC2</parent_id>
+      <address>4A41E0</address>
+      <userdefinedname flags="0x00000054">Scrab::sub_4A41E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E2A0B8F4</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000002E" type="nonrepeatable_comment">modeMask</comments>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">a8</comments>
+        <comments offset="000000000000003A" type="nonrepeatable_comment">hitY</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">hitX</comments>
+        <comments offset="000000000000003C" type="nonrepeatable_comment">Y2</comments>
+        <comments offset="0000000000000043" type="nonrepeatable_comment">X2</comments>
+        <comments offset="0000000000000046" type="nonrepeatable_comment">Y1</comments>
+        <comments offset="0000000000000047" type="nonrepeatable_comment">X1</comments>
+        <comments offset="0000000000000048" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000003" operand="00000001">stack</valueview>
+        <valueview offset="000000000000002F" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000048" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000048">8506D0AD7E05103B</xref>
+        <xref offset="0x000000000000004E">3F7FD1F514461C58</xref>
+        <xref offset="0x0000000000000059">FDE5590681E639C0</xref>
+        <xref offset="0x0000000000000088">19493410CED062D4</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

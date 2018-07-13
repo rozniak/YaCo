@@ -6,7 +6,7 @@
       <size>0x0000000000000043</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4DBE00</address>
-      <proto>void __cdecl sub(const char *a1, int a2, int a3, __int16 a4, __int16 a5)</proto>
+      <proto>void __cdecl sub(const char *pFileName, int type, int resourceId, __int16 loadMode, __int16 bDontLoad)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">1DD7741E</signature>

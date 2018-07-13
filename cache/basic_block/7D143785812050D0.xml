@@ -6,7 +6,7 @@
       <size>0x0000000000000008</size>
       <parent_id>152712765A304532</parent_id>
       <address>4DBE70</address>
-      <userdefinedname flags="0x00000054">ResourceManager::sub_4DBE70</userdefinedname>
+      <userdefinedname flags="0x00000054">ResourceManager::LoadResourcesFromList_4DBE70</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">ED68ED7E</signature>
       </signatures>

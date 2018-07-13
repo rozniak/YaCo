@@ -7,11 +7,11 @@
       <parent_id>17670BE13C02D998</parent_id>
       <address>5C3118</address>
       <userdefinedname flags="0x000000B4">dword_5C3118</userdefinedname>
-      <proto>DynamicArray *</proto>
+      <proto>Camera *</proto>
       <flags>0x20009400</flags>
       <signatures/>
       <xrefs>
-        <xref offset="0x0000000000000000">B8B514EA2CF0C67C</xref>
+        <xref offset="0x0000000000000000">06E1361F4C21AEC3</xref>
       </xrefs>
     </version>
   </data>

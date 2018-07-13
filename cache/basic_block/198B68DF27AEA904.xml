@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>198B68DF27AEA904</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>B080466D12344622</parent_id>
+      <address>427120</address>
+      <userdefinedname flags="0x00000054">DeathFadeOut::dtor_427120</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">DE81552819F97827</xref>
+        <xref offset="0x00000000FFFDD027">DE81552819F97827</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
