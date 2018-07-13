@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>6D9D28126888992B</parent_id>
       <address>10</address>
-      <userdefinedname>var_18</userdefinedname>
+      <userdefinedname>filesArraySize</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
