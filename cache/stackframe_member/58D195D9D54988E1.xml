@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>83D18016702C1E35</id>
+    <id>58D195D9D54988E1</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>55FC92B0BAAF61AD</parent_id>
-      <address>5C</address>
-      <userdefinedname>polyOffset</userdefinedname>
-      <flags>0x20000400</flags>
+      <parent_id>F0440EBE3E296AED</parent_id>
+      <address>C</address>
+      <userdefinedname>text</userdefinedname>
+      <proto>char *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

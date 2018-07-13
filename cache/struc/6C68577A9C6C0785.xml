@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>6C68577A9C6C0785</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>111</address>
+      <userdefinedname>Font_AtlasEntry</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">03B15A469A945FF8</xref>
+        <xref offset="0x0000000000000001">12B175E35A9E4693</xref>
+        <xref offset="0x0000000000000002">FA923AA89D285089</xref>
+        <xref offset="0x0000000000000003">0F288518BB07D79D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>6A901C046C510CC9</parent_id>
       <address>4</address>
-      <userdefinedname>a2</userdefinedname>
+      <userdefinedname>text</userdefinedname>
       <proto>unsigned __int8 *</proto>
       <flags>0x25500400</flags>
       <signatures/>

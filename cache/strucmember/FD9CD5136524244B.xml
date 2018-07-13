@@ -6,8 +6,8 @@
       <size>0x0000000000000004</size>
       <parent_id>45D7BC70B024F2E0</parent_id>
       <address>8</address>
-      <userdefinedname>field_8_character_array</userdefinedname>
-      <proto>FontCharInfo *</proto>
+      <userdefinedname>field_8_atlas_array</userdefinedname>
+      <proto>Font_AtlasEntry *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

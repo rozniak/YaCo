@@ -6,7 +6,7 @@
       <size>0x0000000000000010</size>
       <parent_id>8B495A3165F6C65E</parent_id>
       <address>5BC5C8</address>
-      <userdefinedname flags="0x00000054">sFont1VRAM_5BC5C8</userdefinedname>
+      <userdefinedname flags="0x00000054">sFont1Context_5BC5C8</userdefinedname>
       <proto>Font_Context</proto>
       <flags>0x60005400</flags>
       <signatures/>
