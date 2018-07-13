@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7677E7CBF8F53A38</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>6D12A0B6952595DC</parent_id>
+      <address>4AA120</address>
+      <userdefinedname flags="0x00000054">Scrab::tsub_4AA120</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">C9B8D42E192DA657</xref>
+        <xref offset="0x00000000FFF59604">C9B8D42E192DA657</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

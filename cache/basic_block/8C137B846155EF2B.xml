@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8C137B846155EF2B</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>B10333F3B9E5A4AC</parent_id>
+      <address>4A34D0</address>
+      <userdefinedname flags="0x00000054">Scrab::tnullsub_34</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EB8C5B28</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

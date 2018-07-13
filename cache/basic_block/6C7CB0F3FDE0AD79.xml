@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>6C7CB0F3FDE0AD79</id>
+    <version>
+      <size>0x0000000000000037</size>
+      <parent_id>CEBBA9AC77D84A4D</parent_id>
+      <address>4A9BE0</address>
+      <userdefinedname flags="0x00000054">Scrab::tsub_4A9BE0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E4D4C751</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001F" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">op1</comments>
+        <valueview offset="0000000000000018" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">C734FC332925BCCA</xref>
+        <xref offset="0x0000000000000018">9C1A46F22680D304</xref>
+        <xref offset="0x0000000000000021">5EACB264DEAB8E12</xref>
+        <xref offset="0x0000000000000037">1310827D49763E03</xref>
+        <xref offset="0x000000000000003F">DFBDBC2C3C9ED524</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
