@@ -6,9 +6,10 @@
       <size>0x0000000000000002</size>
       <parent_id>A209245C83DE54A5</parent_id>
       <address>6</address>
-      <userdefinedname>field_6</userdefinedname>
+      <userdefinedname>field_6_palette_size</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
+      <nonrepeatable_headercomment>always 16</nonrepeatable_headercomment>
       <xrefs/>
     </version>
   </strucmember>
