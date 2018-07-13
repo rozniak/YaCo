@@ -3,12 +3,15 @@
   <strucmember>
     <id>A74B206162C7F6FC</id>
     <version>
-      <size>0x0000000000000004</size>
+      <size>0x0000000000000008</size>
       <parent_id>A058FD445C45BC1E</parent_id>
       <userdefinedname>field_0</userdefinedname>
-      <flags>0x20000400</flags>
+      <proto>PSX_RECT</proto>
+      <flags>0x60000400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">8227E9463E7DE6BD</xref>
+      </xrefs>
     </version>
   </strucmember>
 </sigfile>

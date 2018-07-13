@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>1105F1F4AE677F00</id>
+    <version>
+      <size>0x00000000000000C7</size>
+      <parent_id>89A4B3DD1BD59A74</parent_id>
+      <address>433400</address>
+      <proto>signed __int16 __thiscall sub(FontUnknown *a1, int resourceID)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">A64D96D5</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A488668CDB3B3603</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000006D">557F4E2B41E667B9</xref>
+        <xref offset="0x000000000000006D" size="0x0000000000000012">23102E858C41A5BE</xref>
+        <xref offset="0x000000000000007F" size="0x0000000000000010">A06D791D6CC10E0C</xref>
+        <xref offset="0x000000000000008F" size="0x0000000000000011">48B3C874A8C32009</xref>
+        <xref offset="0x00000000000000A0" size="0x0000000000000005">5AEE15067DC1A1AC</xref>
+        <xref offset="0x00000000000000A5" size="0x0000000000000011">C14462370CCB4371</xref>
+        <xref offset="0x00000000000000B6" size="0x0000000000000011">010B70DD838DAADF</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>
