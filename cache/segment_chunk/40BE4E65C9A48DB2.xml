@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <segment_chunk>
+    <id>40BE4E65C9A48DB2</id>
+    <version>
+      <size>0x0000000000010000</size>
+      <parent_id>4B375E5B2429B50E</parent_id>
+      <address>C20000</address>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x00000000000015C0">9E33B3E3A28168B0</xref>
+        <xref offset="0x00000000000015C4">8998936AA0E2AA78</xref>
+        <xref offset="0x00000000000015E0">504890377E5CBC85</xref>
+        <xref offset="0x0000000000001DE0">340CABF424CC45D6</xref>
+        <xref offset="0x00000000000025E0">DAD3621455557733</xref>
+        <xref offset="0x00000000000075E4">CF8BEA5D5C0460F9</xref>
+        <xref offset="0x00000000000075E8">51A6E774B806E999</xref>
+        <xref offset="0x0000000000007600">FD1F2D3A4F35ED14</xref>
+        <xref offset="0x0000000000007604">C736A978CC2F6B62</xref>
+        <xref offset="0x0000000000007608">D243C48AD7DB3BFE</xref>
+        <xref offset="0x000000000000760C">D4387595533E592F</xref>
+        <xref offset="0x0000000000007610">3227638D499197D8</xref>
+        <xref offset="0x0000000000007614">79DCA98EB33357CD</xref>
+        <xref offset="0x0000000000007618">75C7FDF98E7CB991</xref>
+        <xref offset="0x000000000000761C">EED1872946CDC37E</xref>
+        <xref offset="0x0000000000007620">FEE9D4AA4A12BF51</xref>
+        <xref offset="0x0000000000007624">19E22ED423A9FAD0</xref>
+        <xref offset="0x0000000000007628">3F0D5BE29309B354</xref>
+        <xref offset="0x000000000000762C">D330175B7D355ED1</xref>
+        <xref offset="0x0000000000007630">648FED8911F27F84</xref>
+        <xref offset="0x0000000000007634">6DBD9B5966DA0137</xref>
+        <xref offset="0x0000000000007640">A125DDFE56557712</xref>
+        <xref offset="0x0000000000007641">1573091C27A66D5B</xref>
+        <xref offset="0x000000000000D038">0D20AE6EAF36D026</xref>
+        <xref offset="0x000000000000D03C">CB308A3117B94BD2</xref>
+        <xref offset="0x000000000000D04C">6C385F4A05AB435D</xref>
+        <xref offset="0x000000000000D060">71B0A65F6B7AEEE8</xref>
+        <xref offset="0x000000000000D080">55EB123F6FA246B6</xref>
+      </xrefs>
+    </version>
+  </segment_chunk>
+</sigfile>

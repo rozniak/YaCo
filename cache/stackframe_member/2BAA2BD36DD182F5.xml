@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>2BAA2BD36DD182F5</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>0B6C21360A0BD51C</parent_id>
+      <address>24</address>
+      <userdefinedname>pBitmap</userdefinedname>
+      <proto>Bitmap *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

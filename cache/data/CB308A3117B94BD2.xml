@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>CB308A3117B94BD2</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>40BE4E65C9A48DB2</parent_id>
+      <address>C2D03C</address>
+      <userdefinedname flags="0x00000054">sNumRenderedPrims_C2D03C</userdefinedname>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

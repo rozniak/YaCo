@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D8147CBCA81F8536</id>
+    <version>
+      <size>0x0000000000000025</size>
+      <parent_id>06731323AFBF8392</parent_id>
+      <address>4F4C01</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">DB36F0E3</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="000000000000000D" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000018" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000020" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000025">3A1DCFA295B7E2D3</xref>
+        <xref offset="0x00000000FFFFFFFD">156F67FEE9756897</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

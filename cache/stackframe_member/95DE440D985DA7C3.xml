@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>95DE440D985DA7C3</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>101D4C6B16167FDC</parent_id>
+      <address>8</address>
+      <userdefinedname>a2</userdefinedname>
+      <proto>RECT *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

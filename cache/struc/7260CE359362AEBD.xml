@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>7260CE359362AEBD</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>A2</address>
+      <userdefinedname>Bitmap</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">6C0CAF3248EA4785</xref>
+        <xref offset="0x0000000000000004">9DE1DB1D3996F2CE</xref>
+        <xref offset="0x0000000000000008">242822A1127F28C8</xref>
+        <xref offset="0x000000000000000C">F22F6E8EA7F4049F</xref>
+        <xref offset="0x0000000000000010">82069E06159C6C79</xref>
+        <xref offset="0x0000000000000014">B120B966F2E6C0A9</xref>
+        <xref offset="0x0000000000000015">BA302DD80CB4629B</xref>
+        <xref offset="0x0000000000000016">C2F0246B80C766E4</xref>
+        <xref offset="0x0000000000000018">F8E17DDEECFB3E20</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

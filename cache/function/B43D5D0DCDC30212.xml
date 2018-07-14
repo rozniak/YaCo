@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>B43D5D0DCDC30212</id>
+    <version>
+      <size>0x000000000000002F</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F4C80</address>
+      <proto>int __cdecl sub(Bitmap *a1, RECT *a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">6D6D1ACA</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">FAC017CEE7BAA16C</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">5EB5335797067B79</xref>
+        <xref offset="0x0000000000000009" size="0x0000000000000013">E6584F1F2289C7CE</xref>
+        <xref offset="0x000000000000001C" size="0x0000000000000013">A8970363BD73BB40</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>
