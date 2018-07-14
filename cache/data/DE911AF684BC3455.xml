@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>DE911AF684BC3455</id>
+    <version>
+      <size>0x00000000000000F0</size>
+      <parent_id>66411D3DB4E8C7AA</parent_id>
+      <address>561700</address>
+      <userdefinedname flags="0x00000054">sLevelSelectEntries_561700</userdefinedname>
+      <proto>LevelSelectEntry[15]</proto>
+      <flags>0x60005400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">AB941945DE054066</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>
