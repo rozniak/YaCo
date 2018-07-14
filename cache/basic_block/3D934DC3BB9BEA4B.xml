@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3D934DC3BB9BEA4B</id>
+    <version>
+      <size>0x0000000000000082</size>
+      <parent_id>385A9A4CC0869FA6</parent_id>
+      <address>413330</address>
+      <userdefinedname flags="0x000000D4">FartMachine::dtor_413330</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">3782F95F</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000053" type="nonrepeatable_comment">this</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000029" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000036" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000049" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000059" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000065" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000072" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">B0A331FF4BD017ED</xref>
+        <xref offset="0x000000000000001D">12679788898FDE1C</xref>
+        <xref offset="0x0000000000000029">83733319CF2FEC26</xref>
+        <xref offset="0x000000000000003E">749D2D8472D1FA73</xref>
+        <xref offset="0x000000000000004E">051A1FF91B5991C1</xref>
+        <xref offset="0x000000000000005E">50947FD2180F9D61</xref>
+        <xref offset="0x000000000000006D">7243AC4F7040C99A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

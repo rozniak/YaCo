@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <function>
-    <id>3A663617C7881EDA</id>
+    <id>D25AAF8CC2952608</id>
     <version>
       <size>0x000000000000000A</size>
       <parent_id>89A4B3DD1BD59A74</parent_id>
-      <address>4333E0</address>
+      <address>433360</address>
       <proto>void __cdecl sub()</proto>
-      <flags>0x4440</flags>
+      <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">7BB512F9</signature>
       </signatures>
       <xrefs>
-        <xref offset="0x00000000FFFFFFFF">84D10327B8841202</xref>
-        <xref offset="0x0000000000000000" size="0x000000000000000A">D5734A90FE25EA34</xref>
+        <xref offset="0x00000000FFFFFFFF">3D6E65AAFF2A5ED1</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000A">BDE618FC488E4C74</xref>
       </xrefs>
     </version>
   </function>

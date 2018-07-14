@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>051A1FF91B5991C1</id>
+    <version>
+      <size>0x0000000000000033</size>
+      <parent_id>3A0B03018106FE82</parent_id>
+      <address>433540</address>
+      <userdefinedname flags="0x00000054">Font::sub_433540</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">882E7D47</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000027" type="nonrepeatable_comment">ppRes</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001A">77429F30F029EF3D</xref>
+        <xref offset="0x0000000000000028">67FAE2E5F687E3DD</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

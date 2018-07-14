@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>71487BBE9BCE8AD0</id>
+    <version>
+      <size>0x000000000000005F</size>
+      <parent_id>264C1E36AFCAB81A</parent_id>
+      <address>4CEF30</address>
+      <userdefinedname flags="0x00000054">MainMenuController::dtor_4CEF30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B4D6AF48</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001B" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001F" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000038" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">36036FAE38B8287F</xref>
+        <xref offset="0x000000000000001F">D3A5DE691E8991DF</xref>
+        <xref offset="0x000000000000002B">83733319CF2FEC26</xref>
+        <xref offset="0x0000000000000040">749D2D8472D1FA73</xref>
+        <xref offset="0x000000000000005F">D4A8636BF93DF042</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

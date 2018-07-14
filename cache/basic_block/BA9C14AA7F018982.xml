@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>BA9C14AA7F018982</id>
+    <version>
+      <size>0x0000000000000069</size>
+      <parent_id>BC99571B31AAFBCB</parent_id>
+      <address>46AF00</address>
+      <userdefinedname flags="0x00000054">Text::dtor_46AF00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">90B7C744</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000023" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000029" type="nonrepeatable_comment">pItemToRemove</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000023" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002A" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000040" operand="00000000">stack</valueview>
+        <valueview offset="000000000000004C" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000059" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">6C246F1D4F12DE75</xref>
+        <xref offset="0x000000000000001D">05FF6EFE006F5203</xref>
+        <xref offset="0x0000000000000023">3D87C9AABF487B21</xref>
+        <xref offset="0x0000000000000032">237DACCE6FBAB1A1</xref>
+        <xref offset="0x0000000000000045">051A1FF91B5991C1</xref>
+        <xref offset="0x0000000000000054">F2E3983094434FEB</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

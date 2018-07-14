@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5FF5E62CCA5E256D</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>D566E02CB696C87E</parent_id>
+      <address>433320</address>
+      <userdefinedname flags="0x00000054">static_font1context_ctor_nullsub_47</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EB8C5B28</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

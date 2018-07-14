@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1642D6C28C922A45</id>
+    <version>
+      <size>0x0000000000000058</size>
+      <parent_id>FD7F7AF91C6B53EF</parent_id>
+      <address>47B7E0</address>
+      <userdefinedname flags="0x000000D4">StatsSign::sub_47B7E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">AF0F9998</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000023" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000029" type="nonrepeatable_comment">pItemToRemove</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000023" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002A" operand="00000000">stack</valueview>
+        <valueview offset="000000000000003D" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000004F" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">AB1E09EFBE9792D1</xref>
+        <xref offset="0x000000000000001D">58B51CE9419B2674</xref>
+        <xref offset="0x0000000000000023">3D87C9AABF487B21</xref>
+        <xref offset="0x0000000000000032">237DACCE6FBAB1A1</xref>
+        <xref offset="0x000000000000003D">83733319CF2FEC26</xref>
+        <xref offset="0x000000000000004A">749D2D8472D1FA73</xref>
+        <xref offset="0x000000000000004F">B1E62C7E5600DD9A</xref>
+        <xref offset="0x0000000000000058">022B433F117D5B3B</xref>
+        <xref offset="0x0000000000000062">0C652440A0CDFC2F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
