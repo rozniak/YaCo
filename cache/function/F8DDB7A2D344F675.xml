@@ -6,7 +6,7 @@
       <size>0x0000000000000145</size>
       <parent_id>07F329875772FE58</parent_id>
       <address>47B600</address>
-      <proto>BaseGameObject *__thiscall sub(_DWORD this, int a2, BaseGameObject_VTable_Union *a3)</proto>
+      <proto>BaseGameObject *__thiscall sub(StatsSign *this, int a2, BaseGameObject_VTable_Union *a3)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">D78E004B</signature>
