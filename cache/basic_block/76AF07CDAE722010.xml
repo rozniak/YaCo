@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>76AF07CDAE722010</id>
+    <version>
+      <size>0x0000000000000012</size>
+      <parent_id>5013B17DC9F7A635</parent_id>
+      <address>4CEA07</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">22951C6D</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">a1</comments>
+        <valueview offset="0000000000000001" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000B" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000001">70534ECDCE42DEF3</xref>
+        <xref offset="0x0000000000000006">557F4E2B41E667B9</xref>
+        <xref offset="0x000000000000000B">374E3FF325A1A3FC</xref>
+        <xref offset="0x0000000000000012">8B13891D3E2D28B8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

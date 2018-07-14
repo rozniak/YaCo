@@ -6,7 +6,7 @@
       <size>0x00000000000000C7</size>
       <parent_id>89A4B3DD1BD59A74</parent_id>
       <address>433400</address>
-      <proto>signed __int16 __thiscall sub(FontUnknown *a1, int resourceID)</proto>
+      <proto>void __thiscall sub(Font_Context *this, int resourceID)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">A64D96D5</signature>
