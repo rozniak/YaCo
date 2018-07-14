@@ -6,6 +6,7 @@
       <size>0x0000000000000006</size>
       <parent_id>8164EFBB7F31C63F</parent_id>
       <address>433510</address>
+      <userdefinedname flags="0x00000054">Font::dtor_433510</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">CF1C55CE</signature>
       </signatures>

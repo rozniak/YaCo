@@ -6,7 +6,6 @@
       <size>0x000000000000000A</size>
       <parent_id>3A663617C7881EDA</parent_id>
       <address>4333E0</address>
-      <userdefinedname flags="0x00000034">unknown_libname_4</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">7BB512F9</signature>
       </signatures>
