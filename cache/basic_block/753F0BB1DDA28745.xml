@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>753F0BB1DDA28745</id>
+    <version>
+      <size>0x000000000000001F</size>
+      <parent_id>A06D28968F9515BD</parent_id>
+      <address>47FC40</address>
+      <userdefinedname flags="0x00000054">MusicController::Create_47FC40</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">16D51321</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000016" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">2B3A9A19B6148A3D</xref>
+        <xref offset="0x0000000000000016">2D4D4792D57078FE</xref>
+        <xref offset="0x000000000000001F">D8B39288C2165B7E</xref>
+        <xref offset="0x0000000000000031">1FBC0079A38869D4</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

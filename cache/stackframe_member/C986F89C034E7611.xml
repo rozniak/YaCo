@@ -6,7 +6,7 @@
       <size>0x0000000000000006</size>
       <parent_id>3F40BFB114E3CC8D</parent_id>
       <address>10</address>
-      <userdefinedname>filesIter</userdefinedname>
+      <userdefinedname>fileSectionsArrayIter</userdefinedname>
       <proto>DynamicArrayIter</proto>
       <flags>0x60000400</flags>
       <signatures/>

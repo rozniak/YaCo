@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A8806313EC039EB6</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>ADBECFAD3CBF0ED9</parent_id>
+      <address>4CB480</address>
+      <userdefinedname flags="0x000000D4">SND_4CB480</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F0D70CD7</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000004">5A2735A6E8F236C5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
