@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>BEA05CA26A488F62</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>06B2FB58459F68F5</parent_id>
+      <address>4020A4</address>
+      <userdefinedname flags="0x00000054">SND_CallBack_4020A4</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">6AE3FC2CA485E4DB</xref>
+        <xref offset="0x00000000000C80EC">6AE3FC2CA485E4DB</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

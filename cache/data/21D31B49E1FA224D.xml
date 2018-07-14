@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>21D31B49E1FA224D</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5CA230</address>
+      <userdefinedname flags="0x00000054">sSoundEntry_5CA230</userdefinedname>
+      <proto>SoundEntry *</proto>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">1ACDBBFF51A5CCD8</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>

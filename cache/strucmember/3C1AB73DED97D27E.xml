@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>3C1AB73DED97D27E</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>1ACDBBFF51A5CCD8</parent_id>
+      <address>4</address>
+      <userdefinedname>field_4_pDSoundBuffer</userdefinedname>
+      <proto>LPDIRECTSOUNDBUFFER</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>
