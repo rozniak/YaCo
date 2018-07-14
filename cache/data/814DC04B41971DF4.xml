@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>814DC04B41971DF4</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5C1BEE</address>
+      <userdefinedname flags="0x00000054">sEnableCheatLevelSelect_5C1BEE</userdefinedname>
+      <flags>0x10005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>
