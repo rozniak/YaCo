@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>51F3D8FF99A7B00A</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>B71F16F18B3A7A9B</parent_id>
+      <address>55510C</address>
+      <userdefinedname flags="0x00000054">sInputKey_GameSpeak5_55510C</userdefinedname>
+      <proto>InputCommands</proto>
+      <flags>0x20805400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

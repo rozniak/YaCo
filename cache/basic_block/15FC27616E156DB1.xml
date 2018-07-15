@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>15FC27616E156DB1</id>
+    <version>
+      <size>0x0000000000000061</size>
+      <parent_id>1BBFBEB8A73660AE</parent_id>
+      <address>44BB50</address>
+      <userdefinedname flags="0x000000D4">Abe::vsub_44BB50</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">3EFB5145</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000038" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">CA231CA609988ADC</xref>
+        <xref offset="0x000000000000001E">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000002A">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000038">D8A28DFE547A3378</xref>
+        <xref offset="0x000000000000003D">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000044">083309D836D38CFB</xref>
+        <xref offset="0x0000000000000061">6AFC94752EB46AB0</xref>
+        <xref offset="0x000000000000006E">F36C61B3EB0E598D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -6,6 +6,7 @@
       <size>0x0000000000000184</size>
       <parent_id>6AC3B5E1C82E804B</parent_id>
       <address>455090</address>
+      <proto>__int16 __thiscall sub(Abe *this)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">86134F5F</signature>
