@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>4EDD81FEA36157F0</id>
+    <version>
+      <size>0x00000000000000B0</size>
+      <parent_id>07F329875772FE58</parent_id>
+      <address>47EFD0</address>
+      <proto>__int16 __fastcall sub(MusicController *a1)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">A9968392</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">32AA03AE194F3383</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000010">ADD62BEBD1C47CA3</xref>
+        <xref offset="0x0000000000000010" size="0x0000000000000005">7F9C1FB638F6D18F</xref>
+        <xref offset="0x0000000000000015" size="0x0000000000000007">B9E3E759B6460082</xref>
+        <xref offset="0x000000000000001C" size="0x0000000000000017">360D03FBCDF009EB</xref>
+        <xref offset="0x0000000000000033" size="0x000000000000000B">61FD28C1E760C7C4</xref>
+        <xref offset="0x000000000000003E" size="0x0000000000000009">15E85B8BE925358B</xref>
+        <xref offset="0x0000000000000047" size="0x0000000000000011">91F849AB320BA21C</xref>
+        <xref offset="0x0000000000000058" size="0x0000000000000015">300C6C9963D073F1</xref>
+        <xref offset="0x000000000000006D" size="0x000000000000000F">3A656CB06AA175FC</xref>
+        <xref offset="0x000000000000007C" size="0x0000000000000009">82DD5EC03FE9D3E8</xref>
+        <xref offset="0x0000000000000085" size="0x0000000000000011">E44B09E818582F61</xref>
+        <xref offset="0x0000000000000096" size="0x0000000000000018">03895E998B5C64F7</xref>
+        <xref offset="0x00000000000000AE" size="0x0000000000000002">A92B2DEF37B1DD5F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

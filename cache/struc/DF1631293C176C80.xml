@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>DF1631293C176C80</id>
+    <version>
+      <size>0x000000000000005A</size>
+      <address>ED</address>
+      <userdefinedname>MusicController</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">059A958E1C98F739</xref>
+        <xref offset="0x0000000000000020">58023A171A28892D</xref>
+        <xref offset="0x0000000000000022">8BBFD84ED7EC37D0</xref>
+        <xref offset="0x0000000000000024">BF6D5040C85AA718</xref>
+        <xref offset="0x0000000000000026">E0E5D4AD387A0AAD</xref>
+        <xref offset="0x0000000000000028">162CC11CBB9238FC</xref>
+        <xref offset="0x000000000000002C">BF6EB98E18A04107</xref>
+        <xref offset="0x000000000000002E">C747D04BA9685025</xref>
+        <xref offset="0x0000000000000030">C86B968174DEFD34</xref>
+        <xref offset="0x0000000000000034">976E2191BD0BB6C3</xref>
+        <xref offset="0x0000000000000038">DBDAF4E090FC88A2</xref>
+        <xref offset="0x000000000000003C">73BF227188A0119A</xref>
+        <xref offset="0x0000000000000040">31369E598563A508</xref>
+        <xref offset="0x0000000000000042">A5F8FD8294CF3B47</xref>
+        <xref offset="0x0000000000000044">9466EB1CA71CB313</xref>
+        <xref offset="0x0000000000000048">E8BC6564867BCEA7</xref>
+        <xref offset="0x000000000000004C">B4F3084DBE41DA38</xref>
+        <xref offset="0x000000000000004E">AA378BA3AE34471E</xref>
+        <xref offset="0x0000000000000050">DCBA18D0F66A2375</xref>
+        <xref offset="0x0000000000000052">9D17EC842B56ECAF</xref>
+        <xref offset="0x0000000000000054">BBEAE501DC9AE3F3</xref>
+        <xref offset="0x0000000000000058">EDDD86B34CB69CD1</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

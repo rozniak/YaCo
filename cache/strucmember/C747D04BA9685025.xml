@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>C747D04BA9685025</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>DF1631293C176C80</parent_id>
+      <address>2E</address>
+      <userdefinedname>gap2E</userdefinedname>
+      <proto>_BYTE[2]</proto>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>
