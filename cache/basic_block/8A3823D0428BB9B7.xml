@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8A3823D0428BB9B7</id>
+    <version>
+      <size>0x0000000000000007</size>
+      <parent_id>4C93778C140C4F73</parent_id>
+      <address>4950F0</address>
+      <userdefinedname flags="0x00000054">Game_End_Frame_4950F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">005F4739</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">1D50CB2C2B948A5E</xref>
+        <xref offset="0x0000000000000011">562C3E0F8C1DD14C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
