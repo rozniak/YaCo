@@ -6,7 +6,7 @@
       <size>0x0000000000000061</size>
       <parent_id>1BBFBEB8A73660AE</parent_id>
       <address>44BB50</address>
-      <userdefinedname flags="0x000000D4">Abe::vsub_44BB50</userdefinedname>
+      <userdefinedname flags="0x000000D4">Abe::vsub_Kill_44BB50</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">3EFB5145</signature>
       </signatures>

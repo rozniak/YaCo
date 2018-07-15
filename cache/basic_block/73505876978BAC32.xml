@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>73505876978BAC32</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>0F1B029377349DF9</parent_id>
+      <address>4DC0F0</address>
+      <userdefinedname flags="0x00000054">BaseGameObject::vnullsub_4DC0F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EB8C5B28</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>
