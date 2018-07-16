@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <address>113</address>
       <userdefinedname>Event</userdefinedname>
-      <flags>0x2200000</flags>
+      <flags>0x2220000</flags>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000000">DF964AEADF8C76B4</xref>

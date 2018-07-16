@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>436CB5967EF1FC99</id>
+    <version>
+      <size>0x0000000000000053</size>
+      <parent_id>7FC510E53A1C7529</parent_id>
+      <address>4A1510</address>
+      <userdefinedname flags="0x000000D4">Explosion::Update_4A1510</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E3A71830</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001D" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">index</comments>
+        <comments offset="0000000000000025" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000026" type="nonrepeatable_comment">index</comments>
+        <comments offset="000000000000002D" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000002E" type="nonrepeatable_comment">index</comments>
+        <comments offset="0000000000000045" type="nonrepeatable_comment">switch 7 cases </comments>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">B8D5EAE304E00DC1</xref>
+        <xref offset="0x0000000000000020">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000028">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000030">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000053">751997A86AE6D917</xref>
+        <xref offset="0x00000000000003DA">8A790C1680FA242B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
