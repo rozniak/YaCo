@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <enum_member>
+    <id>B3EFE64748F87D50</id>
+    <version>
+      <size>0x0000000000000000</size>
+      <parent_id>8C9E0A2D20D6BCBC</parent_id>
+      <address>E</address>
+      <userdefinedname>kEventMudokonComfort</userdefinedname>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </enum_member>
+</sigfile>

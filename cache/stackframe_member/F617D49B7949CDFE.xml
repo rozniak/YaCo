@@ -7,9 +7,12 @@
       <parent_id>D5E08D150AEC9E7C</parent_id>
       <address>4</address>
       <userdefinedname>index</userdefinedname>
-      <flags>0x10000400</flags>
+      <proto>Event</proto>
+      <flags>0x18800400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">8C9E0A2D20D6BCBC</xref>
+      </xrefs>
     </version>
   </stackframe_member>
 </sigfile>
