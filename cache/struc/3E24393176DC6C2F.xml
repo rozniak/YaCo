@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>3E24393176DC6C2F</id>
+    <version>
+      <size>0x0000000000000058</size>
+      <address>117</address>
+      <userdefinedname>EventsArray</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">CEC0599E0CD4E257</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
