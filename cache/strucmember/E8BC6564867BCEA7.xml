@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>DF1631293C176C80</parent_id>
       <address>48</address>
-      <userdefinedname>dword48</userdefinedname>
+      <userdefinedname>field_48_last_music_frame</userdefinedname>
       <proto>_DWORD</proto>
       <flags>0x20000400</flags>
       <signatures/>
