@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>AF223393C6F96BF7</id>
+    <version>
+      <size>0x000000000000002C</size>
+      <parent_id>DFB99A5BD5FBC5B7</parent_id>
+      <address>474460</address>
+      <userdefinedname flags="0x000000D4">Mudokon::sub_474460</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0886ADDC</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">index</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">6655FD8D217684CB</xref>
+        <xref offset="0x000000000000002C">C25EF4A9E130488D</xref>
+        <xref offset="0x000000000000003E">5983DC59B50C42A8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>855FC612172D8AD9</id>
+    <version>
+      <size>0x00000000000000B6</size>
+      <parent_id>E18851BDEDBFF90A</parent_id>
+      <address>43A1E0</address>
+      <userdefinedname flags="0x000000D4">FlyingSlig::sub_43A1E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EA529DD5</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">max</comments>
+        <comments offset="0000000000000020" type="nonrepeatable_comment">min</comments>
+        <comments offset="0000000000000032" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">op1</comments>
+        <comments offset="000000000000003F" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000040" type="nonrepeatable_comment">op1</comments>
+        <comments offset="0000000000000053" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000054" type="nonrepeatable_comment">op1</comments>
+        <comments offset="0000000000000066" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000067" type="nonrepeatable_comment">op1</comments>
+        <comments offset="000000000000007A" type="nonrepeatable_comment">op2</comments>
+        <comments offset="000000000000007B" type="nonrepeatable_comment">op1</comments>
+        <comments offset="000000000000008B" type="nonrepeatable_comment">op2</comments>
+        <comments offset="000000000000008C" type="nonrepeatable_comment">op1</comments>
+        <comments offset="00000000000000A1" type="nonrepeatable_comment">op2</comments>
+        <comments offset="00000000000000A2" type="nonrepeatable_comment">op1</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000060" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000098" operand="00000000">stack</valueview>
+        <valueview offset="00000000000000A8" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">9C17ABAB05B2376B</xref>
+        <xref offset="0x0000000000000027">356D927FB6203A85</xref>
+        <xref offset="0x0000000000000034">D1D19EDDC579D410</xref>
+        <xref offset="0x0000000000000041">9B0F66E70F397C2F</xref>
+        <xref offset="0x0000000000000055">9B0F66E70F397C2F</xref>
+        <xref offset="0x0000000000000068">9B0F66E70F397C2F</xref>
+        <xref offset="0x000000000000007C">9B0F66E70F397C2F</xref>
+        <xref offset="0x000000000000008D">9B0F66E70F397C2F</xref>
+        <xref offset="0x00000000000000A3">9B0F66E70F397C2F</xref>
+        <xref offset="0x00000000000000B6">41A1867F49A7BE78</xref>
+        <xref offset="0x00000000000000BA">9DEBD93B16DCB3E2</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

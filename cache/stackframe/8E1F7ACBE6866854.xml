@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe>
+    <id>8E1F7ACBE6866854</id>
+    <version>
+      <size>0x0000000000000028</size>
+      <parent_id>5B47502309E447D2</parent_id>
+      <address>424180</address>
+      <userdefinedname>$ F424180</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x000000000000000C">53F34F0D0D5B6C9F</xref>
+        <xref offset="0x0000000000000010">8CC26F0B7EDAEBCE</xref>
+        <xref offset="0x0000000000000012">2CF88793B33BA38A</xref>
+        <xref offset="0x0000000000000014">FB9FA28D5DC458ED</xref>
+        <xref offset="0x0000000000000016">ED4E11BF79FF50E5</xref>
+        <xref offset="0x0000000000000018">A58A99192E8BC0C2</xref>
+        <xref offset="0x0000000000000020">EF73A8F9DE3C860E</xref>
+      </xrefs>
+      <attribute key="stack_lvars">0x00000024</attribute>
+      <attribute key="stack_regvars">0x00000000</attribute>
+      <attribute key="stack_args">0x00000000</attribute>
+    </version>
+  </stackframe>
+</sigfile>

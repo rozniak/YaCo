@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3F406B3DFEF7A650</id>
+    <version>
+      <size>0x0000000000000031</size>
+      <parent_id>0B407FE3E78517F5</parent_id>
+      <address>427780</address>
+      <userdefinedname flags="0x00000054">FallingItem::vsub_427780</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">6789981A</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">idx</comments>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">8437C9BE904443CE</xref>
+        <xref offset="0x0000000000000020">C8E58FE39E0106B2</xref>
+        <xref offset="0x0000000000000031">C021967818EC3A06</xref>
+        <xref offset="0x0000000000000035">237853182D128B04</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

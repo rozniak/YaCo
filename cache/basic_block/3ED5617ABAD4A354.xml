@@ -11,8 +11,8 @@
         <signature algo="crc32" method="invariants">57F3D80E</signature>
       </signatures>
       <xrefs>
-        <xref offset="0x000000000000000D">E48ABB4CC16A4B85</xref>
-        <xref offset="0x000000000000005A">FA52761810B2BC6E</xref>
+        <xref offset="0x000000000000000D">ABD2A34AD073AB3D</xref>
+        <xref offset="0x000000000000005A">3A28A31F2881E553</xref>
       </xrefs>
     </version>
   </basic_block>

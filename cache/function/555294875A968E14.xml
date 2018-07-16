@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>555294875A968E14</id>
+    <version>
+      <size>0x00000000000001EE</size>
+      <parent_id>89A4B3DD1BD59A74</parent_id>
+      <address>43E5D0</address>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B46FD0D3</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">482163EB91AC2992</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000040">82BF704A1452F48F</xref>
+        <xref offset="0x0000000000000040" size="0x0000000000000014">E9A906DC26D2A47C</xref>
+        <xref offset="0x0000000000000054" size="0x000000000000000C">388F65221FDD1E31</xref>
+        <xref offset="0x0000000000000060" size="0x000000000000000A">BFC36C71B98F9C12</xref>
+        <xref offset="0x000000000000006A" size="0x000000000000000A">0FFA41B264AD8310</xref>
+        <xref offset="0x0000000000000074" size="0x0000000000000013">8808B8AE52B12A8F</xref>
+        <xref offset="0x0000000000000087" size="0x0000000000000025">A855F27B3CD6502E</xref>
+        <xref offset="0x00000000000000AC" size="0x0000000000000043">7CA9C10D9D2C227D</xref>
+        <xref offset="0x00000000000000EF" size="0x0000000000000008">341C17907107EE51</xref>
+        <xref offset="0x00000000000000F7" size="0x000000000000000D">11E107BEBAE4FFFD</xref>
+        <xref offset="0x0000000000000104" size="0x0000000000000007">C1F79270226149F0</xref>
+        <xref offset="0x000000000000010B" size="0x0000000000000052">3C00B980E4EAF5C9</xref>
+        <xref offset="0x000000000000015D" size="0x0000000000000039">44C6A84651B87B54</xref>
+        <xref offset="0x0000000000000196" size="0x0000000000000042">C476CF4E7FCEC57C</xref>
+        <xref offset="0x00000000000001D8" size="0x0000000000000016">0390AAD0AF9AC1A2</xref>
+        <xref offset="0x0000000000100DA0" size="0x000000000000000B">93D138097AF2D248</xref>
+        <xref offset="0x0000000000100DAB" size="0x000000000000000B">9E5B4BF2CDDB2418</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>50081BE41B59EB7A</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>FCEF59B9ED0B8F98</parent_id>
+      <address>4192B0</address>
+      <userdefinedname flags="0x000000D4">NakedSlig::vsub_4192B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B4105E5F</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000009" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000009">741FDDEDF1EDC46F</xref>
+        <xref offset="0x0000000000000014">404D3BABEBB9974F</xref>
+        <xref offset="0x00000000000001DE">7C57B5E633D2695A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

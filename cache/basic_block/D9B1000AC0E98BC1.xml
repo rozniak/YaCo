@@ -10,10 +10,14 @@
       <signatures>
         <signature algo="crc32" method="invariants">BC73FC88</signature>
       </signatures>
+      <offsets>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">index</comments>
+      </offsets>
       <xrefs>
-        <xref offset="0x000000000000000A">C734FC332925BCCA</xref>
-        <xref offset="0x0000000000000019">F90F41C69967397A</xref>
-        <xref offset="0x000000000000002B">E27E3E5530390C92</xref>
+        <xref offset="0x000000000000000A">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000019">EE7FD21DBC6B0E40</xref>
+        <xref offset="0x000000000000002B">3D506539B8EB4B80</xref>
       </xrefs>
     </version>
   </basic_block>

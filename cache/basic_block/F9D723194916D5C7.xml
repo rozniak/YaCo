@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F9D723194916D5C7</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>B4EE458907B20A9F</parent_id>
+      <address>45A360</address>
+      <userdefinedname flags="0x000000D4">Abe::State_45A360</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">57F3D80E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000D">DD34B123D89A7756</xref>
+        <xref offset="0x0000000000000080">9C3FE5E7252E2043</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

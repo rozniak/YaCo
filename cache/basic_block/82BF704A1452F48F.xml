@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>82BF704A1452F48F</id>
+    <version>
+      <size>0x0000000000000040</size>
+      <parent_id>555294875A968E14</parent_id>
+      <address>43E5D0</address>
+      <userdefinedname flags="0x000000D4">SlapLock::vsub_43E5D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">3BFE39C5</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000025" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000019" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002B" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">0FFADF096A240703</xref>
+        <xref offset="0x0000000000000019">83733319CF2FEC26</xref>
+        <xref offset="0x0000000000000026">8F6B08FEDBE09CD7</xref>
+        <xref offset="0x0000000000000040">04851C1E94AB354B</xref>
+        <xref offset="0x00000000000001D8">83BE7B4A549A4C47</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

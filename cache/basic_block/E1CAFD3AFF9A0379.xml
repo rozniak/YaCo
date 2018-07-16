@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E1CAFD3AFF9A0379</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>769B900F42D8A588</parent_id>
+      <address>4437D0</address>
+      <userdefinedname flags="0x000000D4">Glukkon::sub_4437D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">57F3D80E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000011">0E876AE683D63731</xref>
+        <xref offset="0x00000000000000C3">E140C131B4F9E522</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

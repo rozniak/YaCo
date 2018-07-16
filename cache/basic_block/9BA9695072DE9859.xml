@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9BA9695072DE9859</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>3C2E2296257F4C25</parent_id>
+      <address>498623</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">CF83AF7F</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="repeatable_comment">jumptable 0049834A case 6</comments>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">index</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">8D9F5EFDAA9ECD4D</xref>
+        <xref offset="0x0000000000000009">6655FD8D217684CB</xref>
+        <xref offset="0x000000000000001B">F9B6CACF490B5372</xref>
+        <xref offset="0x0000000000000021">1B43F77FD405F0EB</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

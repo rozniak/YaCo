@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>D5E08D150AEC9E7C</parent_id>
       <address>8</address>
-      <userdefinedname>arg_4</userdefinedname>
+      <userdefinedname>a2</userdefinedname>
       <proto>BaseGameObject *</proto>
       <flags>0x25500400</flags>
       <signatures/>

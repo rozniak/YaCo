@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>518CF62953BB2E4B</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>BFC7EEA0637AE142</parent_id>
+      <address>476EA0</address>
+      <userdefinedname flags="0x000000D4">Mudokon::vsub_476EA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">670C826B</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">A989090F456F124B</xref>
+        <xref offset="0x0000000000000060">F09FD5866818AB13</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

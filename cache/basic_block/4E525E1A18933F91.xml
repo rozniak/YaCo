@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4E525E1A18933F91</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>9C90FD60C9684744</parent_id>
+      <address>419680</address>
+      <userdefinedname flags="0x000000D4">NakedSlig::vsub_419680</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">670C826B</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000013">6029568C18D474AC</xref>
+        <xref offset="0x0000000000000093">A7630A6E0993494B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

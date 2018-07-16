@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3EA047EB18DBB35C</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>C7369F8D52AEC5F2</parent_id>
+      <address>4AD0E0</address>
+      <userdefinedname flags="0x00000054">ScreenShake::vsub_4AD0E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C7A7BCAE</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000A">BE2CDF8884A0444E</xref>
+        <xref offset="0x000000000000001C">25B17B36F436FA5D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

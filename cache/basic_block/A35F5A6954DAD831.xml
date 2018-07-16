@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A35F5A6954DAD831</id>
+    <version>
+      <size>0x000000000000003C</size>
+      <parent_id>7140358EA1B635D0</parent_id>
+      <address>453D00</address>
+      <userdefinedname flags="0x000000D4">Abe::State_453D00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9094DBC4</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">index</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">index</comments>
+        <comments offset="0000000000000018" type="nonrepeatable_comment">op2</comments>
+        <comments offset="000000000000001F" type="nonrepeatable_comment">op1</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">6655FD8D217684CB</xref>
+        <xref offset="0x000000000000000E">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000020">9B0F66E70F397C2F</xref>
+        <xref offset="0x0000000000000032">DB1062ECD400952C</xref>
+        <xref offset="0x000000000000003C">CD3E34B4EB2CBB9D</xref>
+        <xref offset="0x0000000000000052">48B90546FF9A29CB</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

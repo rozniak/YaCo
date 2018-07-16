@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>13902BD6BBBB9F2A</id>
+    <version>
+      <size>0x00000000000000AA</size>
+      <parent_id>E18851BDEDBFF90A</parent_id>
+      <address>43A2DB</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">5C9DC494</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000067" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000068" type="nonrepeatable_comment">index</comments>
+        <comments offset="000000000000006F" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000070" type="nonrepeatable_comment">index</comments>
+        <valueview offset="0000000000000006" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001B" operand="00000001">stack</valueview>
+        <valueview offset="000000000000003B" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000045" operand="00000001">stack</valueview>
+        <valueview offset="000000000000007E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000092" operand="00000001">offset-off32</valueview>
+        <valueview offset="00000000000000A2" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000005A">C1D472C0C67FECB2</xref>
+        <xref offset="0x0000000000000062">08C6C34847DA1856</xref>
+        <xref offset="0x000000000000006A">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000072">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000079">B1708254FD2DA9E8</xref>
+        <xref offset="0x000000000000007E">3419A8166456AF72</xref>
+        <xref offset="0x0000000000000092">F9F0B5F97D6F27BE</xref>
+        <xref offset="0x00000000000000A2">3419A8166456AF72</xref>
+        <xref offset="0x00000000000000AA">DA9231C459DC0532</xref>
+        <xref offset="0x00000000000000AF">45C5E736041B9C20</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

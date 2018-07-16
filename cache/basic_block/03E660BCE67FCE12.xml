@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>03E660BCE67FCE12</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>F53DFCFB478DA4D0</parent_id>
+      <address>456BC0</address>
+      <userdefinedname flags="0x000000D4">Abe::State_456BC0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CA58BADA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">093164750FE37376</xref>
+        <xref offset="0x0000000000000026">92254AC2111A9114</xref>
+        <xref offset="0x0000000000000042">7A9894A21E2B3082</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

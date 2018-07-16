@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>7FA67E48FC9ED15C</id>
+    <version>
+      <size>0x0000000000000090</size>
+      <parent_id>06D8235EC68AC44D</parent_id>
+      <address>44FFC0</address>
+      <proto>int __thiscall sub(Abe *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">3E0E6418</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">3B20AB4CCA027580</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000027">4C24D4225A4F573D</xref>
+        <xref offset="0x0000000000000027" size="0x0000000000000014">1C8D4466CEEB3DDD</xref>
+        <xref offset="0x000000000000003B" size="0x0000000000000006">A25C6EBD0D43F89C</xref>
+        <xref offset="0x0000000000000041" size="0x0000000000000013">E82F2C059DE48C5B</xref>
+        <xref offset="0x0000000000000054" size="0x000000000000001F">8458B67DBE7702D9</xref>
+        <xref offset="0x0000000000000073" size="0x0000000000000014">9376AF4976FA9E01</xref>
+        <xref offset="0x0000000000000087" size="0x0000000000000007">26090187A63889C7</xref>
+        <xref offset="0x000000000000008E" size="0x0000000000000002">BF8A357B7983734F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

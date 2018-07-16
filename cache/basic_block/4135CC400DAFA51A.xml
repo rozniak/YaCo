@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4135CC400DAFA51A</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>51D39F12116A0DF0</parent_id>
+      <address>409460</address>
+      <userdefinedname flags="0x000000D4">GlukkonPanic::vsub_409460</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C7A7BCAE</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000D">04A7DCCC4623B506</xref>
+        <xref offset="0x000000000000002D">F5DBE43FD3CD74B0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

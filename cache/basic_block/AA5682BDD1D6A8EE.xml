@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>AA5682BDD1D6A8EE</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>6B813AD88F00BF8D</parent_id>
+      <address>48C6F0</address>
+      <userdefinedname flags="0x000000D4">Paramite::sub_48C6F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">57F3D80E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000D">DB6C14B915D2DC57</xref>
+        <xref offset="0x000000000000004E">B823F676861CF40E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

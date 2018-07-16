@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>997E1C28D769C883</id>
+    <version>
+      <size>0x0000000000000059</size>
+      <parent_id>3C2E2296257F4C25</parent_id>
+      <address>4985BF</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">FA551C8C</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="repeatable_comment">jumptable 0049834A case 5</comments>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">index</comments>
+        <comments offset="0000000000000016" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000017" type="nonrepeatable_comment">op1</comments>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">op2</comments>
+        <comments offset="0000000000000034" type="nonrepeatable_comment">op1</comments>
+        <valueview offset="000000000000004B" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">8D9F5EFDAA9ECD4D</xref>
+        <xref offset="0x0000000000000009">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000018">9B0F66E70F397C2F</xref>
+        <xref offset="0x0000000000000035">9B0F66E70F397C2F</xref>
+        <xref offset="0x000000000000004B">FDA710D9B7860CA4</xref>
+        <xref offset="0x0000000000000059">53E120D801220804</xref>
+        <xref offset="0x00000000000008BA">562D01F5B66D2870</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

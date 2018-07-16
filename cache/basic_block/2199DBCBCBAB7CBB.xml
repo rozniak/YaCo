@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>2199DBCBCBAB7CBB</id>
+    <version>
+      <size>0x0000000000000034</size>
+      <parent_id>7627780FFC010D4D</parent_id>
+      <address>476270</address>
+      <userdefinedname flags="0x000000D4">Mudokon::vsub_476270</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E50C0899</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000021" type="nonrepeatable_comment">switch 136 cases </comments>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000000E" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">7BC56F246B449EF0</xref>
+        <xref offset="0x0000000000000034">17A5C49ED842A323</xref>
+        <xref offset="0x00000000000007D9">20EE091A51AE75D6</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

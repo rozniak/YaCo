@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B8FE89EB7E644E54</id>
+    <version>
+      <size>0x0000000000000045</size>
+      <parent_id>507ACCBB65CCC8A0</parent_id>
+      <address>4A46CE</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">C27A83D6</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="repeatable_comment">jumptable 004A460E cases 15,107,112</comments>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">index</comments>
+        <valueview offset="0000000000000014" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000003D" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000014">205361C068D341E4</xref>
+        <xref offset="0x000000000000001E">FDA710D9B7860CA4</xref>
+        <xref offset="0x000000000000003D">1ADA5D2FFFDE9F49</xref>
+        <xref offset="0x0000000000000045">EEDB33ADA9657750</xref>
+        <xref offset="0x0000000000000055">659EC7D5014E91D5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>BAAEB47F178DDB96</id>
+    <version>
+      <size>0x000000000000019E</size>
+      <parent_id>6AC3B5E1C82E804B</parent_id>
+      <address>4521C0</address>
+      <proto>void __thiscall sub(Abe *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">7D353E45</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A95A0A0F4FFF9291</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000011">B5D920FAC227B10E</xref>
+        <xref offset="0x0000000000000011" size="0x0000000000000012">7511D65E11C8387D</xref>
+        <xref offset="0x0000000000000023" size="0x0000000000000005">25A1A70B068131EA</xref>
+        <xref offset="0x0000000000000028" size="0x000000000000001B">A3DA0178EF873563</xref>
+        <xref offset="0x0000000000000043" size="0x0000000000000029">7AFE34E57495B6C2</xref>
+        <xref offset="0x000000000000006C" size="0x0000000000000029">8B8939110A4A5006</xref>
+        <xref offset="0x0000000000000095" size="0x000000000000002A">0CBF824046731173</xref>
+        <xref offset="0x00000000000000BF" size="0x000000000000001B">A1EB8DF2BA53EAC6</xref>
+        <xref offset="0x00000000000000DA" size="0x000000000000000A">43BFEC2F3284601A</xref>
+        <xref offset="0x00000000000000E4" size="0x0000000000000013">7E97E8ED90830AD6</xref>
+        <xref offset="0x00000000000000F7" size="0x000000000000000F">CC08ACABA6721F4F</xref>
+        <xref offset="0x0000000000000106" size="0x000000000000000D">0DE0C0AF564B526D</xref>
+        <xref offset="0x0000000000000113" size="0x000000000000006A">B15C995043FD9904</xref>
+        <xref offset="0x000000000000017D" size="0x000000000000000D">55012D81A99DA1E3</xref>
+        <xref offset="0x000000000000018A" size="0x0000000000000012">4CC8F36F34396B87</xref>
+        <xref offset="0x000000000000019C" size="0x0000000000000002">9849FF2DFFC40EE0</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

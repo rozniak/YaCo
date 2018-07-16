@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A6A41BE4E4185649</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>4CCF2D4641214411</parent_id>
+      <address>4BCA70</address>
+      <userdefinedname flags="0x000000D4">Slig::sub_4BCA70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">8E2E7B36</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000003">769FFA8A4338F86C</xref>
+        <xref offset="0x000000000000000D">5C5A9A8083ED7DCB</xref>
+        <xref offset="0x0000000000000014">79FB94DDBD06AD67</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

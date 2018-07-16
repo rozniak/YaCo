@@ -11,16 +11,18 @@
         <signature algo="crc32" method="invariants">E4D4C751</signature>
       </signatures>
       <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">index</comments>
         <comments offset="000000000000001F" type="nonrepeatable_comment">op2</comments>
         <comments offset="0000000000000020" type="nonrepeatable_comment">op1</comments>
         <valueview offset="0000000000000018" operand="00000001">offset-off32</valueview>
       </offsets>
       <xrefs>
-        <xref offset="0x0000000000000006">C734FC332925BCCA</xref>
+        <xref offset="0x0000000000000006">6655FD8D217684CB</xref>
         <xref offset="0x0000000000000018">9C1A46F22680D304</xref>
-        <xref offset="0x0000000000000021">5EACB264DEAB8E12</xref>
-        <xref offset="0x0000000000000037">1310827D49763E03</xref>
-        <xref offset="0x000000000000003F">DFBDBC2C3C9ED524</xref>
+        <xref offset="0x0000000000000021">9B0F66E70F397C2F</xref>
+        <xref offset="0x0000000000000037">84168328C8081596</xref>
+        <xref offset="0x000000000000003F">7C6BC72463828143</xref>
       </xrefs>
     </version>
   </basic_block>

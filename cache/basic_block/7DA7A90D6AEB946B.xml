@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7DA7A90D6AEB946B</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>B14E5D77DDEE1D51</parent_id>
+      <address>414B20</address>
+      <userdefinedname flags="0x00000054">NakedSligButton::vsub_414B20</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CEBD018E</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">idx</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">C8E58FE39E0106B2</xref>
+        <xref offset="0x0000000000000011">5E156FB6F57024AD</xref>
+        <xref offset="0x0000000000000015">C8902CE8F0B553A0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

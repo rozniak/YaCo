@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>57444ACB429E9818</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>A0217399CC5F224B</parent_id>
+      <address>4B6A30</address>
+      <userdefinedname flags="0x000000D4">Slig::tsub_4B6A30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C4217939</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">index</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">6655FD8D217684CB</xref>
+        <xref offset="0x000000000000001B">B7173E0446A8B92D</xref>
+        <xref offset="0x000000000000002C">4859E61E471AC7F9</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

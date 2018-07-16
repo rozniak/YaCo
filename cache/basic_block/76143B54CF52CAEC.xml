@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>76143B54CF52CAEC</id>
+    <version>
+      <size>0x000000000000008B</size>
+      <parent_id>666C019D5E0B3E81</parent_id>
+      <address>4484F0</address>
+      <userdefinedname flags="0x000000D4">Grenade::sub_4484F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5F16D545</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000070" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000076" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000077" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000078" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000079" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000007A" type="nonrepeatable_comment">a2</comments>
+        <valueview offset="0000000000000007" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000070" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">D8A28DFE547A3378</xref>
+        <xref offset="0x0000000000000013">DEE95F37FB12FF11</xref>
+        <xref offset="0x0000000000000070">83733319CF2FEC26</xref>
+        <xref offset="0x000000000000007C">CED07154CC6B3121</xref>
+        <xref offset="0x000000000000008B">EC3D3FF3A22FDDD6</xref>
+        <xref offset="0x00000000000000C1">04CA8EA517BFEEA1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>195A068C7A0022F2</id>
+    <version>
+      <size>0x0000000000000021</size>
+      <parent_id>64E84AB365FD01EF</parent_id>
+      <address>4B6800</address>
+      <userdefinedname flags="0x000000D4">Slig::tsub_4B6800</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">DE365A7F</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">index</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">6655FD8D217684CB</xref>
+        <xref offset="0x0000000000000010">B678FE1337A5A51E</xref>
+        <xref offset="0x0000000000000021">6F717665DDB6265A</xref>
+        <xref offset="0x000000000000003B">0DD991D90A33F80D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
