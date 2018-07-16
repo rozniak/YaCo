@@ -8,6 +8,7 @@
       <address>40F780</address>
       <signatures/>
       <xrefs>
+        <xref offset="0x0000000000000004">ADE5A0379B01075E</xref>
         <xref offset="0x0000000000000008">DFEE7401B8BB86A1</xref>
         <xref offset="0x000000000000000C">F1FFEA458FBD0F27</xref>
         <xref offset="0x0000000000000010">D334D2C097DAC738</xref>
