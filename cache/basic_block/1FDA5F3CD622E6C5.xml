@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1FDA5F3CD622E6C5</id>
+    <version>
+      <size>0x0000000000000027</size>
+      <parent_id>76D87C9C9D687198</parent_id>
+      <address>40ED70</address>
+      <userdefinedname flags="0x00000054">ScreenManager::sub_40ED70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">06D3EBDA</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">this</comments>
+        <comments offset="0000000000000013" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">this</comments>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000001E" type="nonrepeatable_comment">this</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">39E2A7F722BA64BD</xref>
+        <xref offset="0x000000000000000E">39E2A7F722BA64BD</xref>
+        <xref offset="0x0000000000000017">39E2A7F722BA64BD</xref>
+        <xref offset="0x0000000000000020">39E2A7F722BA64BD</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
