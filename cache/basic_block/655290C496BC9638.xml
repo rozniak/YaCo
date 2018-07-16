@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>655290C496BC9638</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <parent_id>27551CBD31A5DD5E</parent_id>
+      <address>440200</address>
+      <userdefinedname flags="0x000000D4">Glukkon::sub_440200</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">3D41B1EA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">1ADA5D2FFFDE9F49</xref>
+        <xref offset="0x000000000000000A">A8C2F43CC51A457B</xref>
+        <xref offset="0x0000000000000018">7F26B8326C68A9E1</xref>
+        <xref offset="0x00000000000000D1">BEC10DD550E62DDC</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>E4CD231D4EAF950F</parent_id>
       <address>8</address>
-      <userdefinedname>arg_0</userdefinedname>
+      <userdefinedname>eventType</userdefinedname>
       <proto>Event</proto>
       <flags>0x18800400</flags>
       <signatures/>

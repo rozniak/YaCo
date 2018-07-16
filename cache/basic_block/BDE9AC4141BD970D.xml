@@ -6,7 +6,7 @@
       <size>0x000000000000001D</size>
       <parent_id>C8E58FE39E0106B2</parent_id>
       <address>422C00</address>
-      <userdefinedname flags="0x00000054">GetEvent_422C00</userdefinedname>
+      <userdefinedname flags="0x00000054">Event_Get_422C00</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">56E8DEEB</signature>
       </signatures>

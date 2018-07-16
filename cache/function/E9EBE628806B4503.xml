@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>E9EBE628806B4503</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>422DF0</address>
+      <proto>BaseGameObject **__cdecl sub(BaseGameObject *pObj)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">411783E3</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">3468284D2CED0389</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">300F373BE73507A4</xref>
+        <xref offset="0x0000000000000009" size="0x0000000000000005">00986DB751691D91</xref>
+        <xref offset="0x000000000000000E" size="0x0000000000000004">5C3BA3499529E084</xref>
+        <xref offset="0x0000000000000012" size="0x0000000000000006">9B4E3B52B688E32A</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000006">818F495608C26D2C</xref>
+        <xref offset="0x000000000000001E" size="0x0000000000000007">FE8B179C9F65E8A4</xref>
+        <xref offset="0x0000000000000025" size="0x0000000000000001">92990F7D754D8A46</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

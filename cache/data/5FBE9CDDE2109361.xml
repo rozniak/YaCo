@@ -6,9 +6,9 @@
       <size>0x0000000000000002</size>
       <parent_id>8B495A3165F6C65E</parent_id>
       <address>5BC1D4</address>
-      <userdefinedname flags="0x000000B4">word_5BC1D4</userdefinedname>
+      <userdefinedname flags="0x00000054">sEventsToUse_5BC1D4</userdefinedname>
       <proto>__int16</proto>
-      <flags>0x10009400</flags>
+      <flags>0x10005400</flags>
       <signatures/>
       <xrefs/>
     </version>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9FF4E412ABDADBBD</id>
+    <version>
+      <size>0x0000000000000013</size>
+      <parent_id>0F4540486AE83C22</parent_id>
+      <address>435990</address>
+      <userdefinedname flags="0x000000D4">FlyingSlig::sub_435990</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CE12639A</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">1ADA5D2FFFDE9F49</xref>
+        <xref offset="0x0000000000000009">48F68DD026A4C03C</xref>
+        <xref offset="0x0000000000000013">34F65480B10352D3</xref>
+        <xref offset="0x000000000000001C">F4A91B71BC0E0FD6</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

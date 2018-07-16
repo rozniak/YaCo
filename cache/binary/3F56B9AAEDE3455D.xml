@@ -13,6 +13,7 @@
         <xref offset="0x0000000000150000">4B375E5B2429B50E</xref>
         <xref offset="0x000000000083F448">904BC599EAD3A7CF</xref>
       </xrefs>
+      <attribute key="format">Portable executable for 80386 (PE)</attribute>
     </version>
   </binary>
 </sigfile>

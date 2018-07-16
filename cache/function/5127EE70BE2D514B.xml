@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>5127EE70BE2D514B</id>
+    <version>
+      <size>0x00000000000000DA</size>
+      <parent_id>89A4B3DD1BD59A74</parent_id>
+      <address>436730</address>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">4A5F87B4</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">FD535B81EEC2C543</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000016">FE5FE6744E3D0634</xref>
+        <xref offset="0x0000000000000016" size="0x000000000000000C">9C9E7B9C1B24DD6A</xref>
+        <xref offset="0x0000000000000022" size="0x000000000000000A">AB251C343AD12AD8</xref>
+        <xref offset="0x000000000000002C" size="0x000000000000000C">A0D49DB00A1B46AE</xref>
+        <xref offset="0x0000000000000038" size="0x000000000000000E">A112201DC508AF44</xref>
+        <xref offset="0x0000000000000046" size="0x0000000000000024">B65287E6FB81B553</xref>
+        <xref offset="0x000000000000006A" size="0x000000000000000E">19AE1A2B774DC75C</xref>
+        <xref offset="0x0000000000000078" size="0x000000000000000A">16B77CF547770B3C</xref>
+        <xref offset="0x0000000000000082" size="0x000000000000000A">9C9D5623C36EAD43</xref>
+        <xref offset="0x000000000000008C" size="0x0000000000000014">CB5CB5898B4C5570</xref>
+        <xref offset="0x00000000000000A0" size="0x0000000000000002">BC99EF5FC1B3C796</xref>
+        <xref offset="0x00000000000000A2" size="0x0000000000000007">1A4145FDB7EAA1C6</xref>
+        <xref offset="0x00000000000000A9" size="0x0000000000000014">532E3D9753F68567</xref>
+        <xref offset="0x00000000000000BD" size="0x0000000000000002">B3BB2EF022FDF1B2</xref>
+        <xref offset="0x00000000000000BF" size="0x0000000000000007">5229FC91DE12AF9E</xref>
+        <xref offset="0x00000000000000C6" size="0x000000000000000E">46E92049BCE4050B</xref>
+        <xref offset="0x00000000000000D4" size="0x0000000000000006">747060FA49C25ACF</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

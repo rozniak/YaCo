@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>03C264E60366E6B6</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>A42E09C930479EAF</parent_id>
+      <address>422D70</address>
+      <userdefinedname flags="0x00000054">Events_Reset_422D70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">643811B8</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">8013427343CFF115</xref>
+        <xref offset="0x000000000000000C">6741A7BD0BEAD636</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

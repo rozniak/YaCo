@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0CD7DE074D6E0147</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>E0E7D7D18E6E4E68</parent_id>
+      <address>4C2830</address>
+      <userdefinedname flags="0x000000D4">Slog::sub_4C2830</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0D00A99E</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000005" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">D8A28DFE547A3378</xref>
+        <xref offset="0x0000000000000011">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x000000000000001F">D8A28DFE547A3378</xref>
+        <xref offset="0x0000000000000024">F11B2D4D6DF6A12D</xref>
+        <xref offset="0x0000000000000032">A625B0BB5B23884D</xref>
+        <xref offset="0x000000000000003E">F7A02CF4F7A8C1D1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

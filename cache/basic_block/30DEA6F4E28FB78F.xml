@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>30DEA6F4E28FB78F</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>65D6DBD9ABE5847E</parent_id>
+      <address>430920</address>
+      <userdefinedname flags="0x000000D4">Fleech::sub_430920</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B50A6F21</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000023" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000023">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000028">0C4B91B73FB67A24</xref>
+        <xref offset="0x0000000000000032">4E4971EB09CE43FC</xref>
+        <xref offset="0x0000000000000036">A47D90993CF11361</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

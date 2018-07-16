@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>300F373BE73507A4</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>E9EBE628806B4503</parent_id>
+      <address>422DF0</address>
+      <userdefinedname flags="0x00000054">Event_Cancel_For_Obj_422DF0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E86BAA8C</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">429BFBB755B2B67B</xref>
+        <xref offset="0x0000000000000009">00986DB751691D91</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
