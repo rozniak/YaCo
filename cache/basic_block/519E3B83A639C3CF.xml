@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>519E3B83A639C3CF</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>9ED9848860DCF83D</parent_id>
+      <address>4814A0</address>
+      <userdefinedname flags="0x00000054">Map::sub_4814A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">A2072A2F</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">E87C41202830EA5B</xref>
+        <xref offset="0x000000000000004D">16A72A1EB94A2AC1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

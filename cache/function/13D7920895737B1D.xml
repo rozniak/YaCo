@@ -6,7 +6,7 @@
       <size>0x0000000000000107</size>
       <parent_id>064082DEBD40CCC3</parent_id>
       <address>4DB4B0</address>
-      <proto>int __thiscall sub(Path *this, __int16 a2, __int16 a3, __int16 a4, __int16 a5, unsigned __int16 a6)</proto>
+      <proto>int __thiscall sub(Path *this, __int16 x1, __int16 y1, __int16 x2, __int16 y2, unsigned __int16 a6)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">C3D8DA33</signature>

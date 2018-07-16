@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E298689184102828</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>995756EB2FCF6945</parent_id>
+      <address>401BE0</address>
+      <userdefinedname flags="0x000000D4">j_MusicController::sub_47FB00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">D4D79944BEE8A460</xref>
+        <xref offset="0x000000000007DF20">D4D79944BEE8A460</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -6,7 +6,7 @@
       <size>0x0000000000000016</size>
       <parent_id>13D7920895737B1D</parent_id>
       <address>4DB4B0</address>
-      <userdefinedname flags="0x00000054">Path::sub_4DB4B0</userdefinedname>
+      <userdefinedname flags="0x00000054">Path::CheckCamChange_4DB4B0</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">183DC23E</signature>
       </signatures>

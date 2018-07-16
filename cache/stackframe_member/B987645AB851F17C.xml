@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>B987645AB851F17C</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>BF31717220CD8FF3</parent_id>
+      <address>10</address>
+      <userdefinedname>arg_4</userdefinedname>
+      <proto>BaseAliveGameObject *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>
