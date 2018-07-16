@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>BE307B4FB4F3EBF6</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>4E9762E16051EBB1</parent_id>
+      <address>4932E0</address>
+      <userdefinedname flags="0x00000054">DDV_Play_Impl_4932E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0A7266C0</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001B">EB4DEB4D9A424826</xref>
+        <xref offset="0x000000000000087B">9A60C76927D1BAE5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

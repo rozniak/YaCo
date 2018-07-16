@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>492D7802008053E3</id>
+    <version>
+      <size>0x0000000000000012</size>
+      <parent_id>9337C7D647823191</parent_id>
+      <address>4EAB80</address>
+      <userdefinedname flags="0x00000054">DDV_4EAB80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F89A4B27</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">size_t</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">BE47CD8DE2DD5C02</xref>
+        <xref offset="0x0000000000000012">6ED6F22CC2A00D48</xref>
+        <xref offset="0x000000000000001F">5E54167D2CC5079D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

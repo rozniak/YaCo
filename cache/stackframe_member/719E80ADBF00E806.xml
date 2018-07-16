@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>719E80ADBF00E806</id>
+    <version>
+      <size>0x000000000000006C</size>
+      <parent_id>1A0CAC01E3E470FA</parent_id>
+      <address>140</address>
+      <userdefinedname>surfaceDesc</userdefinedname>
+      <proto>DDSURFACEDESC</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">B46B234109AA8C9D</xref>
+      </xrefs>
+    </version>
+  </stackframe_member>
+</sigfile>
