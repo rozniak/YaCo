@@ -6,7 +6,7 @@
       <size>0x0000000000000100</size>
       <parent_id>17670BE13C02D998</parent_id>
       <address>5C9D30</address>
-      <userdefinedname flags="0x00000054">sDisabledKeys_5C9D30</userdefinedname>
+      <userdefinedname flags="0x00000054">sUnknownKeysAry_5C9D30</userdefinedname>
       <proto>char[256]</proto>
       <flags>0x5400</flags>
       <signatures/>
