@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>AAC267A236E2548A</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>3688CD291CBCCDBC</parent_id>
+      <address>BD1870</address>
+      <userdefinedname flags="0x00000054">sInputCallbackFunc_BD1870</userdefinedname>
+      <proto>int (*)(void)</proto>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

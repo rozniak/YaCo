@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8A60A0D1833E026E</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>2BA6FEBAE020592C</parent_id>
+      <address>47F910</address>
+      <userdefinedname flags="0x00000054">MusicController::sub_47F910</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0DED8DC2</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="000000000000000B" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000010" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">A15364FA6A6E3798</xref>
+        <xref offset="0x000000000000001A">2944564F8C1C950D</xref>
+        <xref offset="0x0000000000000022">9D6ED1F35AB4B47F</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

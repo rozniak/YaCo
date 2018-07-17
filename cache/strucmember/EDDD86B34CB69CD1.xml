@@ -6,7 +6,7 @@
       <size>0x0000000000000002</size>
       <parent_id>DF1631293C176C80</parent_id>
       <address>58</address>
-      <userdefinedname>word58</userdefinedname>
+      <userdefinedname>field_58_flags</userdefinedname>
       <proto>_WORD</proto>
       <flags>0x10000400</flags>
       <signatures/>
