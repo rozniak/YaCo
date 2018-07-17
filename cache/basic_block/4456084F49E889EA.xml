@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4456084F49E889EA</id>
+    <version>
+      <size>0x0000000000000012</size>
+      <parent_id>A2E543DC360D59C1</parent_id>
+      <address>422530</address>
+      <userdefinedname flags="0x000000D4">ElectricWall::vsub_422530</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9341F1A7</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000007" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000007">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000012">04AE2FC5414F0B17</xref>
+        <xref offset="0x000000000000004F">8EADED0B25BE83ED</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
