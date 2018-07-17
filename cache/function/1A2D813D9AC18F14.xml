@@ -6,6 +6,7 @@
       <size>0x0000000000000327</size>
       <parent_id>6AC3B5E1C82E804B</parent_id>
       <address>460280</address>
+      <proto>MMRESULT __cdecl sub(float *pX1, float *pY1, float *pX2, float *pY2, DWORD *pButtons)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">93AC853C</signature>

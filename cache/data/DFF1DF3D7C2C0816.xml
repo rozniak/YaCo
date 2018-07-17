@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>DFF1DF3D7C2C0816</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5C2EDC</address>
+      <userdefinedname flags="0x00000054">sJoystickCapFlags_5C2EDC</userdefinedname>
+      <proto>int</proto>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>228960B51364D434</id>
+    <id>D92D69ED9459C869</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>CCCDE8AE6BA92806</parent_id>
-      <address>20</address>
-      <userdefinedname>pButtons</userdefinedname>
-      <proto>int</proto>
-      <flags>0x20000400</flags>
+      <parent_id>85B41AE8A088EAC9</parent_id>
+      <address>C</address>
+      <userdefinedname>buttons</userdefinedname>
+      <proto>DWORD *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>
