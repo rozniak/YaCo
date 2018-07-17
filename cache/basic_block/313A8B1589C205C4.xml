@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>313A8B1589C205C4</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>72BE81D17051803B</parent_id>
+      <address>4D6E90</address>
+      <userdefinedname flags="0x00000054">Factory_TrainDoor_4D6E90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">8FF330D3B391DBCC</xref>
+        <xref offset="0x0000000000000033">5E71F704B3819D34</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

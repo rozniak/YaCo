@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9777B1BBA7A99A9A</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>F1F98CB146C7E4EC</parent_id>
+      <address>4FDC80</address>
+      <userdefinedname flags="0x00000054">MIDI_UpdatePlayer_4FDC80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E0B4E46C</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">A5AD8D7C252C9F31</xref>
+        <xref offset="0x0000000000000009">0BA5124A3D29363F</xref>
+        <xref offset="0x000000000000005D">89F2678D11E508EC</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>DBCDB948D15ACA03</id>
+    <version>
+      <size>0x00000000000000D5</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4F0CB0</address>
+      <proto>LPDIRECTDRAWSURFACE __cdecl sub(int width, int height, int bSetUnknownCaps)</proto>
+      <flags>0x400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">C268D05B</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">78D15E15159F1494</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000035">56BDE50DFD5AA758</xref>
+        <xref offset="0x0000000000000035" size="0x0000000000000009">4161A430523BF0B1</xref>
+        <xref offset="0x000000000000003E" size="0x0000000000000008">903346C2B970A308</xref>
+        <xref offset="0x0000000000000046" size="0x000000000000002E">DFAFD83DB535BABC</xref>
+        <xref offset="0x0000000000000074" size="0x000000000000000B">7D9A1C997A8CBDC5</xref>
+        <xref offset="0x000000000000007F" size="0x0000000000000009">CBD2A47731FC9907</xref>
+        <xref offset="0x0000000000000088" size="0x000000000000001E">4BBCDBCEB929D73F</xref>
+        <xref offset="0x00000000000000A6" size="0x0000000000000008">52DE382133767B8D</xref>
+        <xref offset="0x00000000000000AE" size="0x0000000000000021">F675AD3728166EA1</xref>
+        <xref offset="0x00000000000000D0" size="0x0000000000000005">9CE4DD88BF70F5C2</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

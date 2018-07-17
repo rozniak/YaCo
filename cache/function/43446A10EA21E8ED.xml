@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>43446A10EA21E8ED</id>
+    <version>
+      <size>0x0000000000000039</size>
+      <parent_id>06D8235EC68AC44D</parent_id>
+      <address>449C10</address>
+      <proto>void __thiscall sub(_DWORD *this, int a2, int pGameObj)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">11DD69D0</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">F72493A700B14EA0</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000039">9ACA7DCAB72E3843</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

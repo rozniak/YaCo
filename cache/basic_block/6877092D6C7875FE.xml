@@ -10,8 +10,8 @@
         <signature algo="crc32" method="invariants">C97390B8</signature>
       </signatures>
       <xrefs>
-        <xref offset="0x000000000000000B">8BCA14C935D4EEE2</xref>
-        <xref offset="0x0000000000000014">D4AA0AC89C129596</xref>
+        <xref offset="0x000000000000000B">A7904E046AA921FC</xref>
+        <xref offset="0x0000000000000014">28125BAA451ECF9F</xref>
       </xrefs>
     </version>
   </basic_block>

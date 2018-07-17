@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7D94629DC1F3CBC0</id>
+    <version>
+      <size>0x000000000000003C</size>
+      <parent_id>941FD39CEBCF6B34</parent_id>
+      <address>4949F0</address>
+      <userdefinedname flags="0x00000054">Game_Main_4949F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">7DDC2DF9</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">char *</comments>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">int</comments>
+        <comments offset="000000000000001B" type="nonrepeatable_comment">void *</comments>
+        <comments offset="0000000000000025" type="nonrepeatable_comment">pFilter</comments>
+        <valueview offset="000000000000001B" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000025" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">F0D238E940019CF8</xref>
+        <xref offset="0x000000000000000A">43630B81BD7FD0AC</xref>
+        <xref offset="0x0000000000000010">43630B81BD7FD0AC</xref>
+        <xref offset="0x0000000000000016">E91F765D7118EDF3</xref>
+        <xref offset="0x000000000000001B">FCF5526FF0BE60CC</xref>
+        <xref offset="0x0000000000000020">EC925B9F66D56D6A</xref>
+        <xref offset="0x0000000000000025">02E30208BDFE9D1C</xref>
+        <xref offset="0x000000000000002A">4F7311FA25F3F3C0</xref>
+        <xref offset="0x0000000000000032">DC4AC054DF75C286</xref>
+        <xref offset="0x000000000005E1C0">31147C0DFA1045C4</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

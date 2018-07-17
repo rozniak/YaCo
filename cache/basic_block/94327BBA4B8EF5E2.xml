@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>94327BBA4B8EF5E2</id>
+    <version>
+      <size>0x000000000000005B</size>
+      <parent_id>9F9BD26E21709A86</parent_id>
+      <address>4153C0</address>
+      <userdefinedname flags="0x00000054">DDCheat_ctor_4153C0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">30082EF4</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000001C" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="000000000000001D" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000032" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000036" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000056" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">6A6CBA9518FC66A7</xref>
+        <xref offset="0x0000000000000023">1C46890AE2D81161</xref>
+        <xref offset="0x0000000000000036">F4836EAD2ECCCA4D</xref>
+        <xref offset="0x0000000000000056">041A0C51689B45EF</xref>
+        <xref offset="0x000000000000005B">71489AEE5716A410</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>01CF3AF197BFE49F</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>DC2F20DEDD047295</parent_id>
+      <address>4</address>
+      <userdefinedname>ppRes</userdefinedname>
+      <proto>BYTE **</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

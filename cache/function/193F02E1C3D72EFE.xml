@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>193F02E1C3D72EFE</id>
+    <version>
+      <size>0x0000000000000083</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F2230</address>
+      <proto>void __cdecl sub(Bitmap *pBmp, int x, int y, unsigned int fgColour, int bgColour, LPCSTR lpString)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B42935B4</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">50405C77A9F85BA0</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000001A">12B3CC63D76FC818</xref>
+        <xref offset="0x000000000000001A" size="0x0000000000000009">43300D8127358936</xref>
+        <xref offset="0x0000000000000023" size="0x0000000000000060">5801D309DB10D2EA</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

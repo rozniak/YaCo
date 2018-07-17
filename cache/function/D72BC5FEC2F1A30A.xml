@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>D72BC5FEC2F1A30A</id>
+    <version>
+      <size>0x0000000000000057</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4F0170</address>
+      <proto>void __cdecl sub(IDirectDrawSurface *pSourceSurface, LPRECT pRect, IDirectDrawSurface *pTargetSurface, LPRECT pRect_1, int bltFlags)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BA6DBF78</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">537A1AACA41DC33F</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000002E">2B06F29BB1C53780</xref>
+        <xref offset="0x000000000000002E" size="0x0000000000000005">76A97C47F533CE9A</xref>
+        <xref offset="0x0000000000000033" size="0x0000000000000024">749CE0194131EBF6</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

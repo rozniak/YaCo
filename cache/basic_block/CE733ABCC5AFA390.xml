@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>CE733ABCC5AFA390</id>
+    <version>
+      <size>0x00000000000000C1</size>
+      <parent_id>322A86C19FE7F945</parent_id>
+      <address>424930</address>
+      <userdefinedname flags="0x00000054">BaseAnimatedWithPhysicsGameObject::ctor_424930</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">8A8F5225</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000F" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000020" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000003E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000051" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">1C46890AE2D81161</xref>
+        <xref offset="0x000000000000000F">E032F0703FF01B61</xref>
+        <xref offset="0x0000000000000020">38E82AF66BA9CF1F</xref>
+        <xref offset="0x000000000000003E">B5DD9600592F367E</xref>
+        <xref offset="0x0000000000000051">B5DD9600592F367E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

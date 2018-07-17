@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>C6F9506017DAA044</id>
+    <version>
+      <size>0x00000000000000B1</size>
+      <parent_id>07F329875772FE58</parent_id>
+      <address>4804E0</address>
+      <proto>void __thiscall sub(Map *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">C4DACF0D</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">01C80263A769BF98</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000026">BA13120AC720A0EC</xref>
+        <xref offset="0x0000000000000026" size="0x0000000000000006">21DE3EA11AE5ADF8</xref>
+        <xref offset="0x000000000000002C" size="0x0000000000000009">C37DC9A27014D10C</xref>
+        <xref offset="0x0000000000000035" size="0x000000000000000C">BA5F198E2807ACA2</xref>
+        <xref offset="0x0000000000000041" size="0x0000000000000008">35B1072334BFEECB</xref>
+        <xref offset="0x0000000000000049" size="0x0000000000000006">87169C6BF0057290</xref>
+        <xref offset="0x000000000000004F" size="0x0000000000000016">2A3754C146306DD7</xref>
+        <xref offset="0x0000000000000065" size="0x0000000000000006">3F1B81AD0AFB8CA2</xref>
+        <xref offset="0x000000000000006B" size="0x0000000000000014">F1204BC0C7A73AB6</xref>
+        <xref offset="0x000000000000007F" size="0x0000000000000010">0266B60D7F6298D7</xref>
+        <xref offset="0x000000000000008F" size="0x0000000000000022">8A09D670145CADB4</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>BCFF66E0A4D45CDE</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>512AD49375EF427A</parent_id>
+      <address>14</address>
+      <userdefinedname>pCollisionInfo</userdefinedname>
+      <proto>CollisionInfo *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>219FD7EED0F5121A</id>
+    <version>
+      <size>0x0000000000000031</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>421820</address>
+      <proto>BaseGameObject *__thiscall sub(GameSpeak *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">B2BF4255</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">8BE65CBAE93AB38D</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000031">D2D07ACB5A90F788</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

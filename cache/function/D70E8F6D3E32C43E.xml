@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>D70E8F6D3E32C43E</id>
+    <version>
+      <size>0x000000000000005F</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F58E0</address>
+      <proto>const PSX_DISPENV *__cdecl sub(const PSX_DISPENV *pDispEnv)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">8169BED1</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">DF0C707B33C13EF3</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000A">2D50E17E4C6A3CE3</xref>
+        <xref offset="0x000000000000000A" size="0x000000000000000B">3110219C5D4BE1D2</xref>
+        <xref offset="0x0000000000000015" size="0x0000000000000006">61E3565EA45E00B8</xref>
+        <xref offset="0x000000000000001B" size="0x000000000000000D">07FC58874BD9CEF3</xref>
+        <xref offset="0x0000000000000028" size="0x000000000000000C">B264E532C92C9481</xref>
+        <xref offset="0x0000000000000034" size="0x0000000000000008">333C9F5FFFC278F7</xref>
+        <xref offset="0x000000000000003C" size="0x0000000000000004">E65A12EC972CF56F</xref>
+        <xref offset="0x0000000000000040" size="0x0000000000000002">7A5FB467E5DE8F81</xref>
+        <xref offset="0x0000000000000042" size="0x0000000000000009">BC19A6DE5368F860</xref>
+        <xref offset="0x000000000000004B" size="0x0000000000000009">C4FA4EB4893BA3F5</xref>
+        <xref offset="0x0000000000000054" size="0x0000000000000007">6A301B83B56C997F</xref>
+        <xref offset="0x000000000000005B" size="0x0000000000000004">3D5B7D66708F532F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

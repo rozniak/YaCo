@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>235177CF4C00B282</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>5D9F084463993543</parent_id>
+      <address>4C</address>
+      <userdefinedname>pSnd</userdefinedname>
+      <proto>SoundEntry *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

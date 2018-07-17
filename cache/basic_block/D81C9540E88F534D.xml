@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D81C9540E88F534D</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>E9189755D84E579F</parent_id>
+      <address>421870</address>
+      <userdefinedname flags="0x00000054">GameSpeak::dtor_421870</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">2EFCDC500607ECA7</xref>
+        <xref offset="0x000000000000000F">F9FC05A75D14E754</xref>
+        <xref offset="0x0000000000000018">1534CEE243FFF2B1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

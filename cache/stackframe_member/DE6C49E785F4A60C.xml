@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>DE6C49E785F4A60C</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <parent_id>D379568C72CB9220</parent_id>
+      <userdefinedname>msg</userdefinedname>
+      <proto>struct tagMSG</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">A28E471B5080A59C</xref>
+      </xrefs>
+    </version>
+  </stackframe_member>
+</sigfile>

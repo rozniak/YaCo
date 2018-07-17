@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>C7D1E70536EFCD1B</id>
+    <version>
+      <size>0x00000000000000BA</size>
+      <parent_id>07F329875772FE58</parent_id>
+      <address>4803F0</address>
+      <proto>int __thiscall sub(Map *this, __int16 a2, __int16 a3, __int16 a4, __int16 a5, __int16 a6, __int16 a7)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">4DC932AE</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">3A59A2E52300E657</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000033">595008E78A08CE5B</xref>
+        <xref offset="0x0000000000000033" size="0x0000000000000009">283C0F040D2C760D</xref>
+        <xref offset="0x000000000000003C" size="0x0000000000000002">F6EAEDD62D05EE61</xref>
+        <xref offset="0x000000000000003E" size="0x000000000000007C">01CDDE6D6A5CC271</xref>
+        <xref offset="0x00000000000C05B0" size="0x000000000000000B">AFC5C3EA2B89D010</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

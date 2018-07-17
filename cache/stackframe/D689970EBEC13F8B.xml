@@ -6,13 +6,14 @@
       <size>0x000000000000000A</size>
       <parent_id>DE1EA1B29F0BA718</parent_id>
       <address>40B730</address>
+      <userdefinedname>$ F40B730</userdefinedname>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000008">C6AFE372F6D6F8EA</xref>
       </xrefs>
       <attribute key="stack_lvars">0x00000004</attribute>
       <attribute key="stack_regvars">0x00000000</attribute>
-      <attribute key="stack_args">0x00000004</attribute>
+      <attribute key="stack_args">0x00000000</attribute>
     </version>
   </stackframe>
 </sigfile>

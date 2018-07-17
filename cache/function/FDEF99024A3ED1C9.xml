@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>FDEF99024A3ED1C9</id>
+    <version>
+      <size>0x00000000000000CE</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F30A0</address>
+      <proto>LPVOID __cdecl sub(int always3)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">81377EA1</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">71A2F43E413DEBF4</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000011">BCB6103013C6AD7E</xref>
+        <xref offset="0x0000000000000011" size="0x0000000000000009">41D54AC53CD8851B</xref>
+        <xref offset="0x000000000000001A" size="0x0000000000000007">18AB7BA4387F0160</xref>
+        <xref offset="0x0000000000000021" size="0x000000000000000B">25F20EA69565FF35</xref>
+        <xref offset="0x000000000000002C" size="0x0000000000000003">B1203792A9D889AE</xref>
+        <xref offset="0x000000000000002F" size="0x0000000000000020">96ECF3A0FB352D33</xref>
+        <xref offset="0x000000000000004F" size="0x0000000000000007">E2826601E60AE180</xref>
+        <xref offset="0x0000000000000056" size="0x0000000000000009">52B2E37D61D33D96</xref>
+        <xref offset="0x000000000000005F" size="0x0000000000000035">C88059C9A06A952A</xref>
+        <xref offset="0x0000000000000094" size="0x0000000000000008">E0F7B3C03C902BD2</xref>
+        <xref offset="0x000000000000009C" size="0x0000000000000007">63CC2E9723228F04</xref>
+        <xref offset="0x00000000000000A3" size="0x0000000000000005">87C4035DC061B370</xref>
+        <xref offset="0x00000000000000A8" size="0x0000000000000011">5CED2CDDA013EA07</xref>
+        <xref offset="0x00000000000000B9" size="0x0000000000000010">A7C26BAC746B3740</xref>
+        <xref offset="0x00000000000000C9" size="0x0000000000000005">FFEC82C2C324998A</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

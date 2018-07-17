@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>CA7AFB9348AD1D4B</id>
+    <version>
+      <size>0x0000000000000007</size>
+      <parent_id>2A043E8EEA331F75</parent_id>
+      <address>45F240</address>
+      <userdefinedname flags="0x00000054">Input::UnsetDemoPlaying_45F240</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">229F92D1</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

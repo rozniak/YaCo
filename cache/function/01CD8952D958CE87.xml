@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>01CD8952D958CE87</id>
+    <version>
+      <size>0x00000000000000D1</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F5980</address>
+      <proto>void __cdecl sub(const PSX_DRAWENV *pDrawEnv)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">76D29EA7</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">22B6AC5934178C83</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">1A923B24628906C7</xref>
+        <xref offset="0x0000000000000009" size="0x000000000000001D">E6F5BFD9B4E19A22</xref>
+        <xref offset="0x0000000000000026" size="0x0000000000000019">850FC76238F8E475</xref>
+        <xref offset="0x000000000000003F" size="0x000000000000003E">FD45A63827B15DB7</xref>
+        <xref offset="0x000000000000007D" size="0x0000000000000054">5A23A469C7CFB163</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

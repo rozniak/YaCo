@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>25DC855075A895AB</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>22B6AC5934178C83</parent_id>
+      <address>8</address>
+      <userdefinedname>pDrawEnv</userdefinedname>
+      <proto>const PSX_DRAWENV *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

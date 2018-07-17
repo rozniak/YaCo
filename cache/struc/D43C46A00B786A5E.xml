@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>D43C46A00B786A5E</id>
+    <version>
+      <size>0x0000000000000040</size>
+      <address>AA</address>
+      <userdefinedname>PSX_DR_ENV</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">A8D67A23BDEFB701</xref>
+        <xref offset="0x0000000000000004">F1D60C6D9D2A4866</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

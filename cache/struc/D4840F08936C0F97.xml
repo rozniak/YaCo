@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>D4840F08936C0F97</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <address>FA</address>
+      <userdefinedname>CreditsController</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">EA08DB606A894718</xref>
+        <xref offset="0x0000000000000020">7F89FD2C28006A58</xref>
+        <xref offset="0x0000000000000024">3885E1096350D92A</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

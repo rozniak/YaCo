@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>961738FB599BFE6D</id>
+    <version>
+      <size>0x00000000000008F0</size>
+      <address>B2</address>
+      <userdefinedname>PSX_Display</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">AD1DCF1D71860F50</xref>
+        <xref offset="0x0000000000000002">F572FD2D27C7CC49</xref>
+        <xref offset="0x0000000000000004">9DE9EBC48848B75A</xref>
+        <xref offset="0x0000000000000006">51E229517E3AB7EB</xref>
+        <xref offset="0x0000000000000008">739E62D5D3E83A29</xref>
+        <xref offset="0x000000000000000A">FE2673A40D88D924</xref>
+        <xref offset="0x000000000000000C">F16A21E85486490C</xref>
+        <xref offset="0x000000000000000E">5563E7240C1FB5A2</xref>
+        <xref offset="0x0000000000000010">25DAC2A066D5A5BA</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

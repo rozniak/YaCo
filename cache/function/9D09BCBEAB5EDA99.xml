@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>9D09BCBEAB5EDA99</id>
+    <version>
+      <size>0x0000000000000070</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F5E20</address>
+      <proto>signed int __cdecl sub(PSX_RECT *rect, BYTE *pData)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">7E99A3ED</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">3ED88BC15A5D79B2</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000024">82F9F33BC4CF443B</xref>
+        <xref offset="0x0000000000000024" size="0x0000000000000024">80AD07C8B1E5C074</xref>
+        <xref offset="0x0000000000000048" size="0x0000000000000028">41CB8D08444B50D5</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>A5DA152D941C597F</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>FC645387C0DB3769</parent_id>
+      <address>9C</address>
+      <userdefinedname>fps</userdefinedname>
+      <proto>float</proto>
+      <flags>0x80000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>3E8AF9EF467A14F2</id>
+    <version>
+      <size>0x000000000000005D</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4EDEC0</address>
+      <proto>int __cdecl sub(UINT uDelay, int (*pTimerCallBack)(void))</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">6EAEB52B</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">E7144E15BAE82550</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">DF51626E2926CC3F</xref>
+        <xref offset="0x0000000000000009" size="0x0000000000000011">D7D61EB05413474B</xref>
+        <xref offset="0x000000000000001A" size="0x0000000000000009">385EE928FD2FF720</xref>
+        <xref offset="0x0000000000000023" size="0x000000000000002B">EFEE5380B8DE31D8</xref>
+        <xref offset="0x000000000000004E" size="0x0000000000000005">64C98AB99358A69D</xref>
+        <xref offset="0x0000000000000053" size="0x000000000000000A">18FC4437906A55C1</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

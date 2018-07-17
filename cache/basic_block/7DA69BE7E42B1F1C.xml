@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7DA69BE7E42B1F1C</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>9A3F4DE0B73DA9E7</parent_id>
+      <address>41DDF0</address>
+      <userdefinedname flags="0x00000054">PSX_Display_Render_OT_41DDF0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">7684BE51</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000E">C0AC2354B92FA8C8</xref>
+        <xref offset="0x00000000000000B6">CD71BB3907D9258E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

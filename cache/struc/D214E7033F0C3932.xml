@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>D214E7033F0C3932</id>
+    <version>
+      <size>0x0000000000000044</size>
+      <address>A9</address>
+      <userdefinedname>InputObject</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E21C2A08F07F19BA</xref>
+        <xref offset="0x0000000000000030">DBF00AAC949F60D3</xref>
+        <xref offset="0x0000000000000034">E8685BF0AD9A9D6C</xref>
+        <xref offset="0x0000000000000038">7B493F91E11D79CD</xref>
+        <xref offset="0x000000000000003A">7D51867BA5FC7EF8</xref>
+        <xref offset="0x000000000000003C">09CB373A38C371CF</xref>
+        <xref offset="0x0000000000000040">02BF9C31E1D9B81F</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

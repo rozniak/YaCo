@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>88801C8C45920600</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <parent_id>D8B86AD238EF4F73</parent_id>
+      <address>4F6170</address>
+      <userdefinedname flags="0x00000054">PSX_VSync_4F6170</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C7D95154</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000012" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000001">00CCD1C1ECF1BF57</xref>
+        <xref offset="0x0000000000000008">F1F98CB146C7E4EC</xref>
+        <xref offset="0x000000000000000D">DB2F5563E1DDD8D4</xref>
+        <xref offset="0x0000000000000012">2D4AA0DE229678FB</xref>
+        <xref offset="0x000000000000001C">A281171E6BCFE8A1</xref>
+        <xref offset="0x0000000000000024">F66CB38256B210BE</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>9C34A033F32CA761</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>867AEA9E07CB833F</parent_id>
+      <address>421BD0</address>
+      <proto>BaseGameObject *__thiscall sub(CheatController *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">5C8779D6</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">415829CD2FDC3F5E</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000026">5445678F9A088EAD</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

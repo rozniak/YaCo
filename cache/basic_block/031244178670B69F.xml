@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>031244178670B69F</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>8A68E51616D4499A</parent_id>
+      <address>4DA6E0</address>
+      <userdefinedname flags="0x00000054">Factory_KillUnsavedMudokons_4DA6E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">EEBC65B3E8478316</xref>
+        <xref offset="0x0000000000000038">798CA53E4FA46EA6</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

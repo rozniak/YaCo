@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>2D50E17E4C6A3CE3</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>D70E8F6D3E32C43E</parent_id>
+      <address>4F58E0</address>
+      <userdefinedname flags="0x00000054">PSX_PutDispEnv_4F58E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F4C4F5BF</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">F790FE1B1DA5EC9B</xref>
+        <xref offset="0x000000000000000A">A1F569924999FDFF</xref>
+        <xref offset="0x000000000000001B">65099088337D35F3</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

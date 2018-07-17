@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>D50BE9E5451DE919</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <parent_id>71A2F43E413DEBF4</parent_id>
+      <address>4</address>
+      <userdefinedname>Rect</userdefinedname>
+      <proto>tagRECT</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">BE55A78254244CD5</xref>
+      </xrefs>
+    </version>
+  </stackframe_member>
+</sigfile>

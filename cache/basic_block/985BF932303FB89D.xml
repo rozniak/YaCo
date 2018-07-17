@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>985BF932303FB89D</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>CF664FE000BA707B</parent_id>
+      <address>4D9030</address>
+      <userdefinedname flags="0x00000054">Factory_AbeStart_4D9030</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">DD6CB5B9497E0F93</xref>
+        <xref offset="0x00000000000000B3">619DCDB617591C10</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

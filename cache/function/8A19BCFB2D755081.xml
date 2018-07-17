@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>8A19BCFB2D755081</id>
+    <version>
+      <size>0x00000000000001C2</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4EEFF0</address>
+      <proto>signed int __cdecl sub(SoundEntry *pSnd, int sampleLength, int sampleRate, int bitsPerSample, int flags)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">C7B503B7</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">82A954FB732B59FD</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000010">33C4B7D51B1ED01C</xref>
+        <xref offset="0x0000000000000010" size="0x000000000000000B">9499DEBA64174451</xref>
+        <xref offset="0x000000000000001B" size="0x000000000000000C">3394BBBE59E922CD</xref>
+        <xref offset="0x0000000000000027" size="0x0000000000000024">507845E3D1C0E25F</xref>
+        <xref offset="0x000000000000004B" size="0x000000000000009E">267E6E094C768FD9</xref>
+        <xref offset="0x00000000000000E9" size="0x000000000000003C">88A10BC4124286F0</xref>
+        <xref offset="0x0000000000000125" size="0x0000000000000017">381F34385A3EBA13</xref>
+        <xref offset="0x000000000000013C" size="0x000000000000002C">989CD8EEFEF719F2</xref>
+        <xref offset="0x0000000000000168" size="0x0000000000000022">66465C33D23BDA3A</xref>
+        <xref offset="0x000000000000018A" size="0x0000000000000005">F400C8C7A5E49285</xref>
+        <xref offset="0x000000000000018F" size="0x000000000000000B">13A4B03C3AFF3D2E</xref>
+        <xref offset="0x000000000000019A" size="0x000000000000000A">0016C7289537FEA5</xref>
+        <xref offset="0x00000000000001A4" size="0x000000000000001E">3B0798940A1C6B6F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

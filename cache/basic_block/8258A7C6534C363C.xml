@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8258A7C6534C363C</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>F4B943EBDDADD6C1</parent_id>
+      <address>4F98D0</address>
+      <userdefinedname flags="0x00000054">PSX_Pal_Conversion_4F98D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C3CBE228</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">C9EF28BB541F7B43</xref>
+        <xref offset="0x000000000000000C">43B482C45DE65D34</xref>
+        <xref offset="0x0000000000000080">9F67809A2F1D2EB3</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

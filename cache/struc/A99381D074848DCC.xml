@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>A99381D074848DCC</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <address>99</address>
+      <userdefinedname>CollisionInfo</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">6B3E76B890070712</xref>
+        <xref offset="0x0000000000000004">88C07FF1E3D97E87</xref>
+        <xref offset="0x0000000000000006">9878A9838BC24F94</xref>
+        <xref offset="0x0000000000000008">7DB77F2A13D25D3A</xref>
+        <xref offset="0x000000000000000A">7836CE6FE94B861A</xref>
+        <xref offset="0x000000000000000C">B2AB032FE152C212</xref>
+        <xref offset="0x0000000000000010">9E6A689B68C7BEAA</xref>
+        <xref offset="0x0000000000000014">BB1275EADD3EBAF7</xref>
+        <xref offset="0x0000000000000018">E8A409F71AA89E31</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

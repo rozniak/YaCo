@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>3E4F259B79F8939E</id>
+    <version>
+      <size>0x0000000000000158</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>416000</address>
+      <proto>void __thiscall sub(DDCheat *pDDCheat)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">7BD63DB8</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">E762298187A22326</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000023">CB9284D88D4B9AB9</xref>
+        <xref offset="0x0000000000000023" size="0x0000000000000008">5288151140FF9EBE</xref>
+        <xref offset="0x000000000000002B" size="0x0000000000000004">F501196B20E333EE</xref>
+        <xref offset="0x000000000000002F" size="0x0000000000000006">6EE3114C463DFDC1</xref>
+        <xref offset="0x0000000000000035" size="0x0000000000000005">A93A305DBBA67FE6</xref>
+        <xref offset="0x000000000000003A" size="0x000000000000001E">4991EDA0D7BFCC7A</xref>
+        <xref offset="0x0000000000000058" size="0x000000000000000D">4AFFB81A85A7AA93</xref>
+        <xref offset="0x0000000000000065" size="0x0000000000000006">4265B692C0D3025D</xref>
+        <xref offset="0x000000000000006B" size="0x0000000000000006">366620A0131FABC5</xref>
+        <xref offset="0x0000000000000071" size="0x000000000000001B">248CFC06FCF085C4</xref>
+        <xref offset="0x000000000000008C" size="0x0000000000000006">FEA385DC688BAC9D</xref>
+        <xref offset="0x0000000000000092" size="0x000000000000004D">B12FA841B532DDB7</xref>
+        <xref offset="0x00000000000000DF" size="0x0000000000000024">940067558C76BAA9</xref>
+        <xref offset="0x0000000000000103" size="0x0000000000000006">120F335B735FBD83</xref>
+        <xref offset="0x0000000000000109" size="0x000000000000004F">232974508CAF52CB</xref>
+        <xref offset="0x00000000001282D0" size="0x000000000000000B">F6D1DDEF0648642E</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

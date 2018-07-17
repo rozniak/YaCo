@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>7351C6A8D3CFADD2</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>07F329875772FE58</parent_id>
+      <address>480DD0</address>
+      <proto>DynamicArray *__thiscall sub(Camera *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">5E468615</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">0F8DE206B1567244</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000001B">5C5B0E711799127D</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

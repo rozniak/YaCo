@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>6EC5E322345F11B9</id>
+    <version>
+      <size>0x0000000000000017</size>
+      <parent_id>AF725544623998BE</parent_id>
+      <address>4D9AA0</address>
+      <userdefinedname flags="0x00000054">Factory_BirdPortal_4D9AA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">45642221</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000017">1D541CA93322AF91</xref>
+        <xref offset="0x0000000000000068">30F65760B0A55B58</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

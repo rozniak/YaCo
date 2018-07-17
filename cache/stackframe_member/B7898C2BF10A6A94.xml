@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>B7898C2BF10A6A94</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>512AD49375EF427A</parent_id>
+      <address>18</address>
+      <userdefinedname>pPathRes</userdefinedname>
+      <proto>void *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -14,8 +14,8 @@
         <valueview offset="0000000000000001" operand="00000001">stack</valueview>
       </offsets>
       <xrefs>
-        <xref offset="0x0000000000000009">F5207C9262458A5B</xref>
-        <xref offset="0x0000000000000023">996A8617C1238EA3</xref>
+        <xref offset="0x0000000000000009">4CFECB8658C06B7D</xref>
+        <xref offset="0x0000000000000023">2C905AF4DB778608</xref>
       </xrefs>
     </version>
   </basic_block>

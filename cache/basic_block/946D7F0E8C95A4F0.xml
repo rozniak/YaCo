@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>946D7F0E8C95A4F0</id>
+    <version>
+      <size>0x0000000000000015</size>
+      <parent_id>26EA77E713062217</parent_id>
+      <address>4F3710</address>
+      <userdefinedname flags="0x00000054">VGA_CopyToFront_4F3710</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">840018FF</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">pRect</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">pBmp</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">B3A11AB516657C36</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

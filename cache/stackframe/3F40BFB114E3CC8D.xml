@@ -6,6 +6,7 @@
       <size>0x000000000000001C</size>
       <parent_id>A946CE0F8A69C105</parent_id>
       <address>464CE0</address>
+      <userdefinedname>$ F464CE0</userdefinedname>
       <signatures/>
       <xrefs>
         <xref offset="0x0000000000000010">C986F89C034E7611</xref>

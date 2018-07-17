@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>68E21772FE352E56</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>C06EE17838A50715</parent_id>
+      <address>4D84F0</address>
+      <userdefinedname flags="0x00000054">Factory_BackgroundAnimation_4D84F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">AD674F447BCA08B8</xref>
+        <xref offset="0x0000000000000033">EF61BBF843E7FB5A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A90F0C15F8F0D818</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>B36AA3738EADA3D8</parent_id>
+      <address>418A90</address>
+      <userdefinedname flags="0x00000054">CreditsController::dtor_418A90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">2F1B9664</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000006" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">9531B8AC3C72B7E1</xref>
+        <xref offset="0x0000000000000006">AFE68675840BDE99</xref>
+        <xref offset="0x000000000000000F">2449A24D15AAC89E</xref>
+        <xref offset="0x00000000FFFEB6AD">2449A24D15AAC89E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

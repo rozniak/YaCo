@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>BD7B0E1416929DE8</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>62EC5B53E0819144</parent_id>
+      <address>14</address>
+      <userdefinedname>pCmdLineNotUsed</userdefinedname>
+      <proto>const char *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

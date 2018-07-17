@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>EB3B7E37F8BF7B3F</id>
+    <version>
+      <size>0x0000000000000027</size>
+      <parent_id>61B7A07A652A11F9</parent_id>
+      <address>4DD050</address>
+      <userdefinedname flags="0x00000054">DebugFont_Flush_4DD050</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">AAA29D9D</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">char *</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">int</comments>
+        <comments offset="0000000000000016" type="nonrepeatable_comment">idx</comments>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000005" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000010" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">CFBD9026565C3298</xref>
+        <xref offset="0x0000000000000005">6686F5F6DC1B53A0</xref>
+        <xref offset="0x000000000000000B">2694B7983A88FB2F</xref>
+        <xref offset="0x0000000000000010">CFBD9026565C3298</xref>
+        <xref offset="0x0000000000000017">5156EA7FE7A4973C</xref>
+        <xref offset="0x000000000000001F">6686F5F6DC1B53A0</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

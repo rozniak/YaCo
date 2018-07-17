@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0BE8531C2AE0BD12</id>
+    <version>
+      <size>0x0000000000000015</size>
+      <parent_id>AB61FB0359DA0C13</parent_id>
+      <address>4D79F0</address>
+      <userdefinedname flags="0x00000054">Factory_SligSpawner_4D79F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D69EF601</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000015">018F3240F6B22CC5</xref>
+        <xref offset="0x000000000000003E">7A8154ABC0A90E2B</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

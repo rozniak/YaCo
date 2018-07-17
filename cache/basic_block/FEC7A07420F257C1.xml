@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>FEC7A07420F257C1</id>
+    <version>
+      <size>0x0000000000000031</size>
+      <parent_id>CCA2A143E9086317</parent_id>
+      <address>4F2D80</address>
+      <userdefinedname flags="0x00000054">Error_WarningMessageBox_4F2D80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">81D13709</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">va_list</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">char *</comments>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">char *</comments>
+        <comments offset="000000000000001D" type="nonrepeatable_comment">uType</comments>
+        <comments offset="0000000000000024" type="nonrepeatable_comment">lpText</comments>
+        <comments offset="0000000000000029" type="nonrepeatable_comment">hWnd</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000A" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000014" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001F" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000024" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000002A" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">B40A34268A5F7E8D</xref>
+        <xref offset="0x000000000000000F">EF151EDE4FFA9771</xref>
+        <xref offset="0x0000000000000014">891B0FEA21497F4F</xref>
+        <xref offset="0x000000000000001F">0E8FBD86961D6159</xref>
+        <xref offset="0x0000000000000024">B40A34268A5F7E8D</xref>
+        <xref offset="0x000000000000002A">CD93857B892B2F13</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

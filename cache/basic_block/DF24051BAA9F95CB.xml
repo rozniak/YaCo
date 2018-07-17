@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DF24051BAA9F95CB</id>
+    <version>
+      <size>0x0000000000000015</size>
+      <parent_id>74287211FC00A873</parent_id>
+      <address>4D8D80</address>
+      <userdefinedname flags="0x00000054">Factory_ChantSuppressor_4D8D80</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D69EF601</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000015">89E7C4C237BF5807</xref>
+        <xref offset="0x0000000000000041">DC54605D61D5D820</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

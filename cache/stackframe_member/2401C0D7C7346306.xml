@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>2401C0D7C7346306</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>EC9E616377CD3361</parent_id>
+      <address>C</address>
+      <userdefinedname>bShowVRam</userdefinedname>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

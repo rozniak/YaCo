@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>CD95E873CE427089</id>
+    <version>
+      <size>0x0000000000000152</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>41DC30</address>
+      <proto>int __thiscall sub(PSX_Display *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">0723EE0D</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">59BD3F52F868FBE9</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000152">95CEE029DD8AD2A8</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

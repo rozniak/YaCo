@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>79CA45F01BBE7657</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>235B6301AA017327</parent_id>
+      <address>60</address>
+      <userdefinedname>wParam</userdefinedname>
+      <proto>WPARAM</proto>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

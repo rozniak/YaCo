@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>FC9C0CB5DA5A9229</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>E7144E15BAE82550</parent_id>
+      <address>8</address>
+      <userdefinedname>pTimerCallBack</userdefinedname>
+      <proto>int (*)(void)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>C866281B2C636265</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>EC</address>
+      <userdefinedname>OtItem</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">793316D35BDE5CDC</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

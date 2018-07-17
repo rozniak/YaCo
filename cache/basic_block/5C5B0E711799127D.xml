@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5C5B0E711799127D</id>
+    <version>
+      <size>0x000000000000001B</size>
+      <parent_id>7351C6A8D3CFADD2</parent_id>
+      <address>480DD0</address>
+      <userdefinedname flags="0x000000D4">Camera::ctor_480DD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5E468615</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">startingSize</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000005">2F346FAB21241C85</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

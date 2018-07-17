@@ -15,10 +15,10 @@
         <valueview offset="0000000000000016" operand="00000001">offset-off32</valueview>
       </offsets>
       <xrefs>
-        <xref offset="0x0000000000000002">2B3A9A19B6148A3D</xref>
+        <xref offset="0x0000000000000002">30011796F79B9DB9</xref>
         <xref offset="0x0000000000000016">2D4D4792D57078FE</xref>
-        <xref offset="0x000000000000001F">D8B39288C2165B7E</xref>
-        <xref offset="0x0000000000000031">1FBC0079A38869D4</xref>
+        <xref offset="0x000000000000001F">3196D1FDEE2BF6DD</xref>
+        <xref offset="0x0000000000000031">3EC8DFBED4179C4D</xref>
       </xrefs>
     </version>
   </basic_block>

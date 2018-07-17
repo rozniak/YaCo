@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>07D99BA31936E874</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>CEBE3AFB66194F64</parent_id>
+      <address>4EEF60</address>
+      <userdefinedname flags="0x00000054">SND_InitVolumeTable_4EEF60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">836ADEDE</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000007" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000C" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">BAC0F2B2C7CC79EB</xref>
+        <xref offset="0x000000000000000C">C7DBDD7CF94CC2A2</xref>
+        <xref offset="0x0000000000000014">4C600EBDDFD0DD15</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

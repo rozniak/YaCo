@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>42E23183B5C36ACD</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>F4EF5F45811AD528</parent_id>
+      <address>4D9120</address>
+      <userdefinedname flags="0x00000054">Factory_ParamiteWeb_4D9120</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">5D25460EA63FEB50</xref>
+        <xref offset="0x0000000000000033">4CEBF803F48A391D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

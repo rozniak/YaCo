@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5604483519DF9C4F</id>
+    <version>
+      <size>0x000000000000002B</size>
+      <parent_id>3032615D2BB68670</parent_id>
+      <address>4F0F60</address>
+      <userdefinedname flags="0x00000054">DD_mode_blt2_4F0F60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">1B1077B1</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000F" type="nonrepeatable_comment">pFn</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">a1</comments>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000A" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000F" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001B" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">9820A956AB3B6F65</xref>
+        <xref offset="0x0000000000000016">9EC438456A4224A2</xref>
+        <xref offset="0x000000000000002B">51620922633E6B4C</xref>
+        <xref offset="0x00000000000000AF">07D61DC3A31830CD</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

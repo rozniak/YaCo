@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E2DB6E5353B9B6BF</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>D151550C5ECF5310</parent_id>
+      <address>4F3170</address>
+      <userdefinedname flags="0x00000054">VGA_Shutdown_4F3170</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">FE5C7053</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">BA0A6A5EEF99AF79</xref>
+        <xref offset="0x000000000000000D">94FA6C181BC6DB93</xref>
+        <xref offset="0x000000000000004C">BEE618294256EE5E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

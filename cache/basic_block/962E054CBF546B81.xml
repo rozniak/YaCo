@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>962E054CBF546B81</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>681343D5506951D1</parent_id>
+      <address>4DAF20</address>
+      <userdefinedname flags="0x00000054">Factory_SlapLock_4DAF20</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">E2157DA260EFCD34</xref>
+        <xref offset="0x0000000000000033">C9C535948D4F09C8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

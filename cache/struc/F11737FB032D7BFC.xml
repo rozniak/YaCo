@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>F11737FB032D7BFC</id>
+    <version>
+      <size>0x0000000000000470</size>
+      <address>B3</address>
+      <userdefinedname>PSX_Display_Buffer</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">AAE78BC3E05A5E5A</xref>
+        <xref offset="0x000000000000005C">141F812B310DF5BF</xref>
+        <xref offset="0x0000000000000070">FD54C34012B38C7A</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

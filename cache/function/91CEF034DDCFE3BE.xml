@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>91CEF034DDCFE3BE</id>
+    <version>
+      <size>0x0000000000000029</size>
+      <parent_id>E6B3CE382A0B99D8</parent_id>
+      <address>495470</address>
+      <proto>bool __cdecl sub(CHAR driveLetter)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BFA53397</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">38BDB0CE9D820772</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000029">5C5FBB57AB768FD0</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

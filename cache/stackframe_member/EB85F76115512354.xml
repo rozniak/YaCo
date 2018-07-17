@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>EB85F76115512354</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>46511BAE91BD9F74</parent_id>
+      <address>4</address>
+      <userdefinedname>forceSystemMemorySurfaces</userdefinedname>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>C99A66042D035F08</id>
+    <version>
+      <size>0x000000000000003F</size>
+      <parent_id>E49E5BF85F8FEFE1</parent_id>
+      <address>40AC20</address>
+      <proto>void __cdecl sub(DynamicArray *pAnimations)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">9E90C7FF</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">8E17D9F7FAEC434D</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">DD627E44350B0CB2</xref>
+        <xref offset="0x0000000000000009" size="0x0000000000000006">868613EAB67740D8</xref>
+        <xref offset="0x000000000000000F" size="0x000000000000000E">8E22AF9F9FC31AA6</xref>
+        <xref offset="0x000000000000001D" size="0x0000000000000006">EA05E47D7448BC41</xref>
+        <xref offset="0x0000000000000023" size="0x0000000000000009">7BFA075318842C85</xref>
+        <xref offset="0x000000000000002C" size="0x000000000000000A">EA3388DF0E509643</xref>
+        <xref offset="0x0000000000000036" size="0x0000000000000006">165608AA7B877282</xref>
+        <xref offset="0x000000000000003C" size="0x0000000000000003">19DAF589843E6EF8</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

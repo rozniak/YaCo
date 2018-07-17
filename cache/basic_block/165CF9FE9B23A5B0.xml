@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>165CF9FE9B23A5B0</id>
+    <version>
+      <size>0x0000000000000005</size>
+      <parent_id>FCF5526FF0BE60CC</parent_id>
+      <address>4954B0</address>
+      <userdefinedname flags="0x00000054">Game_ExitGame_4954B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC40CA13</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000">83A9506793134256</xref>
+        <xref offset="0x0000000000064B60">83A9506793134256</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

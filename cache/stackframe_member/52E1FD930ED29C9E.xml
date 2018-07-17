@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>52E1FD930ED29C9E</id>
+    <version>
+      <size>0x0000000000000400</size>
+      <parent_id>D0889E509FA1F9AF</parent_id>
+      <address>4</address>
+      <userdefinedname>buffer</userdefinedname>
+      <proto>char[1024]</proto>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

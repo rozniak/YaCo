@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>79FA4813922B2EF0</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>B0C5E13B66073023</parent_id>
+      <address>4DA2B0</address>
+      <userdefinedname flags="0x00000054">Factory_FartMachine_4DA2B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47A73DBA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">4A386EBC1F275C06</xref>
+        <xref offset="0x0000000000000039">EB293457FA506D9C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>064AF57B6955F60B</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>3513DA986177A5F0</parent_id>
+      <address>4D9440</address>
+      <userdefinedname flags="0x00000054">Factory_FlyingSligSpawner_4D9440</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47A73DBA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">FA0F9F786D6FFAAA</xref>
+        <xref offset="0x0000000000000036">4A3545EDBC04D0D1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

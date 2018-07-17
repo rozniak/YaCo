@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>BE55A78254244CD5</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <address>14</address>
+      <userdefinedname>tagRECT</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">9D7FE7F2C7E4F5CF</xref>
+        <xref offset="0x0000000000000004">6D6BDAD9B653E320</xref>
+        <xref offset="0x0000000000000008">72FD0C7631CF0167</xref>
+        <xref offset="0x000000000000000C">8DE0C5907D4317BF</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

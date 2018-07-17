@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>CE7B7A607D5BF884</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>464EA0</address>
+      <proto>void __thiscall sub(ResourceManager_FileRecord_1C *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">2B54CFB7</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000000" size="0x0000000000000008">EC59519DE2AF2678</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

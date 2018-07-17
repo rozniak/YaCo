@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>BCB6103013C6AD7E</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>FDEF99024A3ED1C9</parent_id>
+      <address>4F30A0</address>
+      <userdefinedname flags="0x00000054">VGA_BuffLockPtr_4F30A0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">22E1DD03</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">6287520B36D75C7C</xref>
+        <xref offset="0x0000000000000011">AC81AE39DB41D3F9</xref>
+        <xref offset="0x00000000000000C9">711C28A6475DDEC1</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

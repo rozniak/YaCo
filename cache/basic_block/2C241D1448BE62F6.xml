@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>2C241D1448BE62F6</id>
+    <version>
+      <size>0x000000000000001E</size>
+      <parent_id>162A26FCE9DE5EE9</parent_id>
+      <address>4F4DB0</address>
+      <userdefinedname flags="0x00000054">VGA_Convert_Colour_4F4DB0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5AA2AFFB</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000C" type="nonrepeatable_comment">b</comments>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">g</comments>
+        <comments offset="000000000000000E" type="nonrepeatable_comment">r</comments>
+        <comments offset="0000000000000014" type="nonrepeatable_comment">pBmp</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000008" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000F">17363F02BDB2D795</xref>
+        <xref offset="0x0000000000000015">92EACDC76AA78109</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

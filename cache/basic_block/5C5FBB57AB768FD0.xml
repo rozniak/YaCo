@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5C5FBB57AB768FD0</id>
+    <version>
+      <size>0x0000000000000029</size>
+      <parent_id>91CEF034DDCFE3BE</parent_id>
+      <address>495470</address>
+      <userdefinedname flags="0x000000D4">Is_Cd_Rom_Drive_495470</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">BFA53397</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000012" type="nonrepeatable_comment">lpRootPathName</comments>
+        <valueview offset="0000000000000001" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000006" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000A" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000E" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000013" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000017" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000001">3795332AF5DAEEF0</xref>
+        <xref offset="0x0000000000000017">CDEF4F80AA7A009E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

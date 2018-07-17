@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4F7AE777C426E45B</id>
+    <version>
+      <size>0x0000000000000017</size>
+      <parent_id>EF2F5A2844DF73CA</parent_id>
+      <address>4F31F0</address>
+      <userdefinedname flags="0x00000054">VGA_FullScreenSet_4F31F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F3C0C333</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">1D7957FE89B90FA4</xref>
+        <xref offset="0x0000000000000017">714FB788C08F4A4E</xref>
+        <xref offset="0x00000000000000B9">48856507219B942A</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

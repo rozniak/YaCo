@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5445678F9A088EAD</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>9C34A033F32CA761</parent_id>
+      <address>421BD0</address>
+      <userdefinedname flags="0x00000054">CheatController::ctor_421BD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5C8779D6</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000001" type="nonrepeatable_comment">resourceArraySize</comments>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">bAddToObjectList</comments>
+        <valueview offset="0000000000000010" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">1C46890AE2D81161</xref>
+        <xref offset="0x0000000000000010">AB5D103019B4F32E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

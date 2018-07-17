@@ -10,10 +10,10 @@
         <signature algo="crc32" method="invariants">699083FD</signature>
       </signatures>
       <xrefs>
-        <xref offset="0x0000000000000002">04F4244DEE4005F5</xref>
-        <xref offset="0x000000000000000A">C087A6E251DE37AB</xref>
-        <xref offset="0x000000000000000F">52DB8193B78C0F78</xref>
-        <xref offset="0x00000000FFF3917A">52DB8193B78C0F78</xref>
+        <xref offset="0x0000000000000002">35EE0F4091D1683F</xref>
+        <xref offset="0x000000000000000A">5848AF3C68174295</xref>
+        <xref offset="0x000000000000000F">32A394FA769F06C0</xref>
+        <xref offset="0x00000000FFF3917A">32A394FA769F06C0</xref>
       </xrefs>
     </version>
   </basic_block>

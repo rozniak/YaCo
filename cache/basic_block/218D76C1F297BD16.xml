@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>218D76C1F297BD16</id>
+    <version>
+      <size>0x0000000000000068</size>
+      <parent_id>8E528BD705145E95</parent_id>
+      <address>4CA1F0</address>
+      <userdefinedname flags="0x00000054">SND_Init_4CA1F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F04FC2C8</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000033" type="nonrepeatable_comment">void *</comments>
+        <comments offset="0000000000000042" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000044" type="nonrepeatable_comment">a1</comments>
+        <valueview offset="000000000000000A" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000033" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000053" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000005D" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000001">DF31A984ECAF376F</xref>
+        <xref offset="0x000000000000000A">70C047CE553299D5</xref>
+        <xref offset="0x000000000000000F">44DFD0C408E37825</xref>
+        <xref offset="0x0000000000000018">E319648BD2C953AF</xref>
+        <xref offset="0x000000000000001F">5EA031A824331E4F</xref>
+        <xref offset="0x0000000000000024">5AA0FD74E45213F9</xref>
+        <xref offset="0x000000000000002E">814943A5474E7595</xref>
+        <xref offset="0x0000000000000033">06B2FB58459F68F5</xref>
+        <xref offset="0x0000000000000038">5DAE0D1AA12B6AA2</xref>
+        <xref offset="0x000000000000003D">6C9F473C4E866C3A</xref>
+        <xref offset="0x0000000000000046">B0640A401FFC0FAB</xref>
+        <xref offset="0x0000000000000053">830B806F3F6AB397</xref>
+        <xref offset="0x000000000000005D">9025444564CF5478</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

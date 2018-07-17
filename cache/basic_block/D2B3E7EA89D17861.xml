@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D2B3E7EA89D17861</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>023BA6BC18E07FD9</parent_id>
+      <address>4D9F50</address>
+      <userdefinedname flags="0x00000054">Factory_MovieHandStone_4D9F50</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">7F280964A2E7E62A</xref>
+        <xref offset="0x0000000000000027">550A7C9B1FA8DD99</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

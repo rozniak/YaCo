@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>EE5749EC092E98D2</id>
+    <version>
+      <size>0x0000000000000068</size>
+      <parent_id>0E2452969482996E</parent_id>
+      <address>4EEA00</address>
+      <userdefinedname flags="0x00000054">SND_Init_WaveFormatEx_4EEA00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B816C117</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000009" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000023" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

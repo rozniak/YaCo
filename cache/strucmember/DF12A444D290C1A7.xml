@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>DF12A444D290C1A7</id>
+    <version>
+      <size>0x0000000000000020</size>
+      <parent_id>88A0ED8B0A3BDB89</parent_id>
+      <address>2C</address>
+      <userdefinedname>field_2C_event_buffer</userdefinedname>
+      <proto>byte[32]</proto>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9926ED02C0B06311</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>83A9506793134256</parent_id>
+      <address>4FA010</address>
+      <userdefinedname flags="0x00000054">PSX_EMU_VideoDeAlloc_4FA010</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">70E080CC</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">8CF8AC37FE1DA89B</xref>
+        <xref offset="0x0000000000000009">FB0DB9377FD8DF7F</xref>
+        <xref offset="0x000000000000003A">7ECC2E7AECA26E8D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

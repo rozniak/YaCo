@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8EC775608DB293B5</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>2AA27DB6E887D833</parent_id>
+      <address>4F8A60</address>
+      <userdefinedname flags="0x00000054">Poly_Set_SemiTrans_4F8A60</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D509334E</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000006" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">43FB73784490370A</xref>
+        <xref offset="0x000000000000001F">48203AC53D98D815</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

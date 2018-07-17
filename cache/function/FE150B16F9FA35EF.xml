@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>FE150B16F9FA35EF</id>
+    <version>
+      <size>0x000000000000001E</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>415500</address>
+      <proto>void *__thiscall sub(DDCheat *this, char a2)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BC7AE39A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">48AF690ED6B66CB6</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000F">416D5CBE7CA22DB1</xref>
+        <xref offset="0x000000000000000F" size="0x0000000000000009">2F1105E1AAB11FDD</xref>
+        <xref offset="0x0000000000000018" size="0x0000000000000006">4428D5D469000095</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

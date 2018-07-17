@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>1B7BDFE15DEF0279</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>881E09F6D3320998</parent_id>
+      <address>4DA670</address>
+      <userdefinedname flags="0x00000054">Factory_GlukkonSwitch_4DA670</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">E1E1D97DCFEC5379</xref>
+        <xref offset="0x0000000000000033">13E3ABB43C4BB25D</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>F0D238E940019CF8</id>
+    <version>
+      <size>0x000000000000003A</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F2BF0</address>
+      <proto>signed int __cdecl sub(char unknown)</proto>
+      <flags>0x400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">A659BEA1</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">46511BAE91BD9F74</xref>
+        <xref offset="0xFFFFFFFFFFFFF950" size="0x0000000000000009">DED8E07FB559CE13</xref>
+        <xref offset="0xFFFFFFFFFFFFF959" size="0x0000000000000024">7DE2906117621258</xref>
+        <xref offset="0xFFFFFFFFFFFFF97D" size="0x0000000000000004">1ED0E3DA99D30186</xref>
+        <xref offset="0xFFFFFFFFFFFFF981" size="0x0000000000000021">588C230CDC4019FA</xref>
+        <xref offset="0xFFFFFFFFFFFFF9A2" size="0x000000000000000A">AA8CAB8B72DF4C47</xref>
+        <xref offset="0xFFFFFFFFFFFFF9AC" size="0x0000000000000003">24BE62DCEB197BBC</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">79F4078053AAD050</xref>
+        <xref offset="0x0000000000000009" size="0x000000000000001D">6C0EC4B26807F0C2</xref>
+        <xref offset="0x0000000000000026" size="0x0000000000000014">F665A0BC4AAE1B54</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>30FF4016CBFE6093</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>4E240B272BBFF3FD</parent_id>
+      <address>4DAF90</address>
+      <userdefinedname flags="0x00000054">Factory_GlukkonPanic_4DAF90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">6D97D23A9C3D240B</xref>
+        <xref offset="0x0000000000000033">6C4337839233E427</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

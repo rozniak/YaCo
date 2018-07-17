@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>F309961156DCBD55</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>BC0C50E02D74DE2E</parent_id>
+      <address>8</address>
+      <userdefinedname>pRect</userdefinedname>
+      <proto>PSX_RECT *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3A3CEEB52790FCFE</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>E448133811296B0B</parent_id>
+      <address>4189F0</address>
+      <userdefinedname flags="0x000000D4">Collisions::dtor_4189F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">6C734A3C</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000002" type="nonrepeatable_comment">void *</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">5B4A0E315E17485C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

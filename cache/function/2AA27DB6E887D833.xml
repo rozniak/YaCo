@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>2AA27DB6E887D833</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4F8A60</address>
+      <proto>void __cdecl sub(PrimHeader *pPrim, int bSemiTrans)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">5953907A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">280E159AD08340BC</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000C">8EC775608DB293B5</xref>
+        <xref offset="0x000000000000000C" size="0x0000000000000013">6564E39F24439625</xref>
+        <xref offset="0x000000000000001F" size="0x0000000000000013">BDC6739AE6D6C9BB</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

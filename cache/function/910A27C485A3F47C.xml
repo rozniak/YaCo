@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>910A27C485A3F47C</id>
+    <version>
+      <size>0x0000000000000041</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4FA9C0</address>
+      <proto>int __cdecl sub(int padNum)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">402A340A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">E82C682AB3014738</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000009">9AA761E8040C42CC</xref>
+        <xref offset="0x0000000000000009" size="0x000000000000001F">586E02AD897093A6</xref>
+        <xref offset="0x0000000000000028" size="0x0000000000000009">A20009FCF9CF0442</xref>
+        <xref offset="0x0000000000000031" size="0x0000000000000007">AA175E61C1F2949E</xref>
+        <xref offset="0x0000000000000038" size="0x0000000000000006">AF29799FE9FDF3A4</xref>
+        <xref offset="0x000000000000003E" size="0x0000000000000003">1D16E53D74E0BFB5</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

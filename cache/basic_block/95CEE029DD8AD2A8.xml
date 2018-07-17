@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>95CEE029DD8AD2A8</id>
+    <version>
+      <size>0x0000000000000152</size>
+      <parent_id>CD95E873CE427089</parent_id>
+      <address>41DC30</address>
+      <userdefinedname flags="0x00000054">PSX_Display::ctor_41DC30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">0723EE0D</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">mode</comments>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">mode</comments>
+        <comments offset="0000000000000048" type="nonrepeatable_comment">mode</comments>
+        <comments offset="0000000000000053" type="nonrepeatable_comment">h</comments>
+        <comments offset="0000000000000058" type="nonrepeatable_comment">w</comments>
+        <comments offset="000000000000005D" type="nonrepeatable_comment">y</comments>
+        <comments offset="000000000000005E" type="nonrepeatable_comment">x</comments>
+        <comments offset="0000000000000082" type="nonrepeatable_comment">otBufferSize</comments>
+        <comments offset="0000000000000083" type="nonrepeatable_comment">otBuffer</comments>
+        <comments offset="0000000000000095" type="nonrepeatable_comment">otBufferSize</comments>
+        <comments offset="0000000000000096" type="nonrepeatable_comment">otBuffer</comments>
+        <comments offset="00000000000000AA" type="nonrepeatable_comment">a5</comments>
+        <comments offset="00000000000000AB" type="nonrepeatable_comment">a4</comments>
+        <comments offset="00000000000000AF" type="nonrepeatable_comment">a3</comments>
+        <comments offset="00000000000000B0" type="nonrepeatable_comment">a2</comments>
+        <comments offset="00000000000000B1" type="nonrepeatable_comment">pDrawEnv</comments>
+        <comments offset="00000000000000C2" type="nonrepeatable_comment">h</comments>
+        <comments offset="00000000000000C3" type="nonrepeatable_comment">w</comments>
+        <comments offset="00000000000000C7" type="nonrepeatable_comment">y</comments>
+        <comments offset="00000000000000C8" type="nonrepeatable_comment">x</comments>
+        <comments offset="00000000000000C9" type="nonrepeatable_comment">a1</comments>
+        <comments offset="00000000000000D4" type="nonrepeatable_comment">a1</comments>
+        <comments offset="0000000000000106" type="nonrepeatable_comment">pDispEnv</comments>
+        <comments offset="000000000000010C" type="nonrepeatable_comment">b</comments>
+        <comments offset="000000000000010D" type="nonrepeatable_comment">g</comments>
+        <comments offset="0000000000000112" type="nonrepeatable_comment">r</comments>
+        <comments offset="0000000000000113" type="nonrepeatable_comment">pRect</comments>
+        <comments offset="0000000000000134" type="nonrepeatable_comment">mode</comments>
+        <comments offset="000000000000013A" type="nonrepeatable_comment">mode</comments>
+        <comments offset="0000000000000140" type="nonrepeatable_comment">mode</comments>
+        <valueview offset="000000000000010E" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000114" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000119" operand="00000000">stack</valueview>
+        <valueview offset="000000000000011E" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000125" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">D8B86AD238EF4F73</xref>
+        <xref offset="0x0000000000000012">24937B0A95186EE8</xref>
+        <xref offset="0x0000000000000018">F1BDED64A276C464</xref>
+        <xref offset="0x0000000000000043">83110ABFB6468387</xref>
+        <xref offset="0x0000000000000049">EBA8C4E864360B83</xref>
+        <xref offset="0x000000000000004E">98A3452F3C722D4C</xref>
+        <xref offset="0x000000000000005F">E56B96839BC2EAB2</xref>
+        <xref offset="0x0000000000000071">B9BD3C4990486956</xref>
+        <xref offset="0x0000000000000084">8F4C719F49DFAD1D</xref>
+        <xref offset="0x0000000000000097">8F4C719F49DFAD1D</xref>
+        <xref offset="0x00000000000000B2">5CE2BBA96A7982BE</xref>
+        <xref offset="0x00000000000000CA">EC6C7A9C567CCAA2</xref>
+        <xref offset="0x0000000000000101">01CD8952D958CE87</xref>
+        <xref offset="0x0000000000000107">8C2673BD67C4A5D5</xref>
+        <xref offset="0x000000000000012C">F4CF073E352564A7</xref>
+        <xref offset="0x0000000000000135">1E71719D4AE9A525</xref>
+        <xref offset="0x000000000000013B">D8B86AD238EF4F73</xref>
+        <xref offset="0x0000000000000142">24937B0A95186EE8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>B5C0425D12445D46</id>
+    <version>
+      <size>0x000000000000007E</size>
+      <parent_id>AE26A4DABAB7262C</parent_id>
+      <address>464910</address>
+      <proto>_WORD *__thiscall sub(ResourceManager *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">1CB000B8</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">FD1C72B6EA955617</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000007E">AF395CF2A0EF5AD9</xref>
+        <xref offset="0x00000000000DB5A0" size="0x0000000000000008">9AEB92D331342421</xref>
+        <xref offset="0x00000000000DB5A8" size="0x000000000000000B">321EA957DB8C360D</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

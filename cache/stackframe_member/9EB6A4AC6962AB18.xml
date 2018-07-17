@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>9EB6A4AC6962AB18</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>DC2F20DEDD047295</parent_id>
+      <address>8</address>
+      <userdefinedname>var_4</userdefinedname>
+      <proto>ScreenManager *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F6FE3EF206F94320</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>58ED73EBCF1E270F</parent_id>
+      <address>4EEDD0</address>
+      <userdefinedname flags="0x00000054">SND_Renew_4EEDD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">22E1DD03</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">AF6246E1BA488576</xref>
+        <xref offset="0x000000000000000D">47AC8BEEA7938CCF</xref>
+        <xref offset="0x000000000000002E">36A4C6E910933DE4</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

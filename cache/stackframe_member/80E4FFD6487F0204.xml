@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>80E4FFD6487F0204</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>8E17D9F7FAEC434D</parent_id>
+      <address>C</address>
+      <userdefinedname>pAnimations</userdefinedname>
+      <proto>DynamicArray *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>6DCD10DC956C4BE3</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>7C6160369E1A469D</parent_id>
+      <address>4D9E90</address>
+      <userdefinedname flags="0x00000054">Factory_Hoist_4D9E90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47A73DBA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">FBBFBEFD42A94D6F</xref>
+        <xref offset="0x0000000000000054">8D03ED055AA4F899</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

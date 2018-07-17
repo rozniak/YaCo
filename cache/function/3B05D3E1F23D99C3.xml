@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>3B05D3E1F23D99C3</id>
+    <version>
+      <size>0x0000000000000068</size>
+      <parent_id>E6B3CE382A0B99D8</parent_id>
+      <address>49A630</address>
+      <proto>DynamicArray *__thiscall sub(BaseGameObject *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">BCA55099</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">9BC2A7726D5156ED</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000068">C43F7A3AC36D5D9C</xref>
+        <xref offset="0x00000000000A6980" size="0x0000000000000008">5AB30E9618E87AD0</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>920B1FB904D7DFCE</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>642977059317EC12</parent_id>
+      <address>44B350</address>
+      <userdefinedname flags="0x00000054">Abe::dtor_44B350</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">A5AB1390DFA3B952</xref>
+        <xref offset="0x000000000000000F">2DDBAF17A51E5DAB</xref>
+        <xref offset="0x0000000000000018">9BD6E1D27DA6D310</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

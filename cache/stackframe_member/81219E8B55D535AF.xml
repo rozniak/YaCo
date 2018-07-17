@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>81219E8B55D535AF</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <parent_id>289565867F8B39D0</parent_id>
+      <address>8</address>
+      <userdefinedname>iter</userdefinedname>
+      <proto>DynamicArrayIter</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">776A036A644A34D7</xref>
+      </xrefs>
+    </version>
+  </stackframe_member>
+</sigfile>

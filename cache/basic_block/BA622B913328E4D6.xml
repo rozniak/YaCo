@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>BA622B913328E4D6</id>
+    <version>
+      <size>0x000000000000006F</size>
+      <parent_id>E66E5DFB5879FAB5</parent_id>
+      <address>4EDAB0</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">9276980C</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000005" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000020" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000002B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000035" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000003B" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000043" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000004F" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000060" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000068" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">59B23CF9A4A88EF9</xref>
+        <xref offset="0x0000000000000005">FBFF3BC1DF5B36A5</xref>
+        <xref offset="0x000000000000000B">EC9E5A8270C4B8BC</xref>
+        <xref offset="0x0000000000000020">0273744546B71311</xref>
+        <xref offset="0x000000000000002B">8998936AA0E2AA78</xref>
+        <xref offset="0x0000000000000035">FBFF3BC1DF5B36A5</xref>
+        <xref offset="0x000000000000003B">59B23CF9A4A88EF9</xref>
+        <xref offset="0x0000000000000043">46A1B5E598EBB25E</xref>
+        <xref offset="0x000000000000004F">46A1B5E598EBB25E</xref>
+        <xref offset="0x0000000000000060">86005BE535B479CE</xref>
+        <xref offset="0x0000000000000068">747D8F0694515602</xref>
+        <xref offset="0x000000000000006F">80F080060985DDE3</xref>
+        <xref offset="0x000000000000008E">E1CA3B0B4EA87B45</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

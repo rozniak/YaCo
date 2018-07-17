@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>4BB08FD6BC9278ED</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <address>F3</address>
+      <userdefinedname>Collisions</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">600F5FD04ACCC236</xref>
+        <xref offset="0x0000000000000004">6D8BD56FE9A70AE3</xref>
+        <xref offset="0x0000000000000008">ADEA17D3A1C9EFC3</xref>
+        <xref offset="0x000000000000000C">812B0DEBD2F7C680</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

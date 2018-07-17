@@ -20,10 +20,10 @@
         <valueview offset="000000000000001E" operand="00000001">stack</valueview>
       </offsets>
       <xrefs>
-        <xref offset="0x0000000000000008">34C74FA4BE408B54</xref>
-        <xref offset="0x000000000000002C">55EC6E058BD2C4B0</xref>
-        <xref offset="0x0000000000000038">DA5B424D2067F93E</xref>
-        <xref offset="0x0000000000000061">DE30E24D158C911D</xref>
+        <xref offset="0x0000000000000008">B5A019E90BD510C2</xref>
+        <xref offset="0x000000000000002C">0907EB30A2E7BBCA</xref>
+        <xref offset="0x0000000000000038">4FC8F5B0476763C7</xref>
+        <xref offset="0x0000000000000061">BB7568D5217F2F28</xref>
       </xrefs>
     </version>
   </basic_block>

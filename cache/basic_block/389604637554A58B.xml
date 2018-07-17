@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>389604637554A58B</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>028A26197A403DEC</parent_id>
+      <address>4218D0</address>
+      <userdefinedname flags="0x00000054">GameSpeak::PushEvent_4218D0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">187A5149</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000E">878E965DC8CA818D</xref>
+        <xref offset="0x0000000000000015">B25E130F17E89DA4</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

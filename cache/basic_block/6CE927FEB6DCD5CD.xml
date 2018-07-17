@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>6CE927FEB6DCD5CD</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>53E7247F98BFF331</parent_id>
+      <address>4D9B90</address>
+      <userdefinedname flags="0x00000054">Factory_TrapDoor_4D9B90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">EE5D1895180D094C</xref>
+        <xref offset="0x0000000000000038">ABFAF4A1AD45F485</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

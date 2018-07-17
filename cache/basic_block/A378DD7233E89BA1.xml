@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A378DD7233E89BA1</id>
+    <version>
+      <size>0x0000000000000003</size>
+      <parent_id>83110ABFB6468387</parent_id>
+      <address>4F8800</address>
+      <userdefinedname flags="0x00000054">PSX_ResetGraph_4F8800</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">749D461C</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

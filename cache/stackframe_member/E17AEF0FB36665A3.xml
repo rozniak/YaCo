@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>E17AEF0FB36665A3</id>
+    <version>
+      <size>0x0000000000000060</size>
+      <parent_id>DD19ADA8CEFFA9D6</parent_id>
+      <address>10</address>
+      <userdefinedname>dsCaps</userdefinedname>
+      <proto>DSCAPS</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">39ED04C91A020D24</xref>
+      </xrefs>
+    </version>
+  </stackframe_member>
+</sigfile>

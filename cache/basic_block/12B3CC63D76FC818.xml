@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>12B3CC63D76FC818</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>193F02E1C3D72EFE</parent_id>
+      <address>4F2230</address>
+      <userdefinedname flags="0x00000054">BMP_Draw_String_4F2230</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">983DE7FE</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000007" type="nonrepeatable_comment">pBmp</comments>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000D" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">BA7DB13B47794D39</xref>
+        <xref offset="0x000000000000001A">0A6593281578D486</xref>
+        <xref offset="0x0000000000000023">6AD91A5CAE479374</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

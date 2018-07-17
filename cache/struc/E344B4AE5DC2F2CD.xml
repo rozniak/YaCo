@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>E344B4AE5DC2F2CD</id>
+    <version>
+      <size>0x0000000000000040</size>
+      <address>59</address>
+      <userdefinedname>Quicksave_WorldInfo</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">7C0B268818657E7C</xref>
+        <xref offset="0x0000000000000004">E3B075FF1C6F5C82</xref>
+        <xref offset="0x0000000000000006">F1089CA79B3DC295</xref>
+        <xref offset="0x0000000000000008">18D19E02AE92C389</xref>
+        <xref offset="0x000000000000000A">35F9F0D79817A25C</xref>
+        <xref offset="0x000000000000000C">2902FDF8B23A9B00</xref>
+        <xref offset="0x000000000000000E">5AD8B37E201E7F17</xref>
+        <xref offset="0x0000000000000010">B274C780C35CD71C</xref>
+        <xref offset="0x0000000000000012">F2CFED191EC07338</xref>
+        <xref offset="0x0000000000000014">FFE0AB5CC0ABDD51</xref>
+        <xref offset="0x0000000000000016">BF389321C549FC46</xref>
+        <xref offset="0x0000000000000018">B05648248821854E</xref>
+        <xref offset="0x000000000000002C">AD3003E571D574DF</xref>
+        <xref offset="0x000000000000002D">1A4580B512E3CB8B</xref>
+        <xref offset="0x000000000000002E">7BC5EFD0FE086BAF</xref>
+        <xref offset="0x0000000000000030">A31723C80CC6A9B9</xref>
+        <xref offset="0x0000000000000032">8404E88FD2F5852F</xref>
+        <xref offset="0x0000000000000034">65B5996967F72910</xref>
+        <xref offset="0x0000000000000036">6CD78B69D6DC5C28</xref>
+        <xref offset="0x0000000000000038">7309E3499CAD0DE4</xref>
+        <xref offset="0x000000000000003C">9057FAA0CE58FA50</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

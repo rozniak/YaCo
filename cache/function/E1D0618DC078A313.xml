@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>E1D0618DC078A313</id>
+    <version>
+      <size>0x00000000000000BE</size>
+      <parent_id>B7AD2001E52C57D7</parent_id>
+      <address>418AC0</address>
+      <proto>void __thiscall sub(CreditsController *this)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">FC868799</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">5C7DD3E3752FD306</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000011">EFAA73CF154ECDAE</xref>
+        <xref offset="0x0000000000000011" size="0x0000000000000021">59C62A70813E21CC</xref>
+        <xref offset="0x0000000000000032" size="0x0000000000000006">FCFDC78167051E9C</xref>
+        <xref offset="0x0000000000000038" size="0x000000000000001F">1C6A5B16DF44E23F</xref>
+        <xref offset="0x0000000000000057" size="0x0000000000000026">E44C8E454E380B70</xref>
+        <xref offset="0x000000000000007D" size="0x000000000000000A">3715DF68F95EDAD5</xref>
+        <xref offset="0x0000000000000087" size="0x000000000000001B">B8BE81AD886A2179</xref>
+        <xref offset="0x00000000000000A2" size="0x000000000000001B">6CD532D31B1A5230</xref>
+        <xref offset="0x00000000000000BD" size="0x0000000000000001">224525056CE50E7D</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

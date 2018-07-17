@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>AD6CDD22B632DF62</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>78D15E15159F1494</parent_id>
+      <address>C</address>
+      <userdefinedname>pSurf</userdefinedname>
+      <proto>LPDIRECTDRAWSURFACE</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

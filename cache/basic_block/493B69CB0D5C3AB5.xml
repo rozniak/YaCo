@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>493B69CB0D5C3AB5</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>C1BAFEB1FC9DB153</parent_id>
+      <address>4EE990</address>
+      <userdefinedname flags="0x00000054">SND_SetPrimarySoundBufferFormat_4EE990</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">6AE43EB6</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">9A86E262A821F95D</xref>
+        <xref offset="0x000000000000000C">4AF043B24A3E4C5C</xref>
+        <xref offset="0x0000000000000015">0BB7AFFDFD9F9031</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

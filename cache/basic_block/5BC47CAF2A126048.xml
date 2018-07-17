@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>5BC47CAF2A126048</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <parent_id>C8F6CF9CF03CE7BD</parent_id>
+      <address>4F0790</address>
+      <userdefinedname flags="0x00000054">DD_Shutdown_4F0790</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CF01B297</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">F9E759C7E369A3B5</xref>
+        <xref offset="0x0000000000000010">E226C462513DBC92</xref>
+        <xref offset="0x000000000000009A">A79159AA80283CBB</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

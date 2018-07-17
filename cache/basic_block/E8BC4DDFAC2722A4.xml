@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E8BC4DDFAC2722A4</id>
+    <version>
+      <size>0x000000000000001D</size>
+      <parent_id>F4CF073E352564A7</parent_id>
+      <address>4F5BD0</address>
+      <userdefinedname flags="0x00000054">PSX_ClearImage_4F5BD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">05C58231</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000008" type="nonrepeatable_comment">pBitmap</comments>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">B127F46CF3D2D045</xref>
+        <xref offset="0x000000000000000D">43EB9209141BA8C5</xref>
+        <xref offset="0x000000000000001D">D86F091CEFA31856</xref>
+        <xref offset="0x000000000000016D">36E79E583FA13315</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>BAF84B5F69FE9A87</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>358D8BC574F2E6F6</parent_id>
+      <address>4C9170</address>
+      <userdefinedname flags="0x00000054">Quicksave_LoadActive_4C9170</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">99CAE6BC</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">quicksaveData</comments>
+        <valueview offset="0000000000000005" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">469B5A6A7BDC5FB4</xref>
+        <xref offset="0x0000000000000005">BE4BB921B266A1D5</xref>
+        <xref offset="0x000000000000000A">5D7CC80FB3761784</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

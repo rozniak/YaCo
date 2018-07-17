@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>E1F4C76DFD997F75</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <parent_id>6C021C07E0D7ED78</parent_id>
+      <address>4F31E0</address>
+      <userdefinedname flags="0x00000054">VGA_IsWindowMode_4F31E0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9C22FA6</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">4DCA8D902055B5E8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

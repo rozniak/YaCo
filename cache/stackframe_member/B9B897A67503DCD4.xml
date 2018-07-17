@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>B9B897A67503DCD4</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>140C1A9F03EEEB64</parent_id>
+      <address>C</address>
+      <userdefinedname>pWaveFormat</userdefinedname>
+      <proto>WAVEFORMATEX *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

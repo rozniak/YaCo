@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>FD363F65161B7EE6</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>817AF7591F6BF106</parent_id>
+      <address>14</address>
+      <userdefinedname>lpMem</userdefinedname>
+      <proto>LPVOID</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

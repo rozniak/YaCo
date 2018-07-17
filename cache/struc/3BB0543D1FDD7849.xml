@@ -4,7 +4,7 @@
     <id>3BB0543D1FDD7849</id>
     <version>
       <size>0x0000000000000014</size>
-      <address>FF</address>
+      <address>100</address>
       <userdefinedname>FrameInfoHeader</userdefinedname>
       <signatures/>
       <xrefs>

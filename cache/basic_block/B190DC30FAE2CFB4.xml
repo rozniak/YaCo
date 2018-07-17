@@ -14,8 +14,8 @@
         <comments offset="000000000000000A" type="nonrepeatable_comment">switch 7 cases </comments>
       </offsets>
       <xrefs>
-        <xref offset="0x0000000000000013">0B81A34748BED5C6</xref>
-        <xref offset="0x00000000000001C6">8033DC6F29BFCC48</xref>
+        <xref offset="0x0000000000000013">2E80B8990E6685C0</xref>
+        <xref offset="0x00000000000001C6">96DD01CFFD8F6440</xref>
       </xrefs>
     </version>
   </basic_block>

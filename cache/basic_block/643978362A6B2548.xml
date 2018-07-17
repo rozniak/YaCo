@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>643978362A6B2548</id>
+    <version>
+      <size>0x0000000000000015</size>
+      <parent_id>99B9EF718CEB34AA</parent_id>
+      <address>4D9700</address>
+      <userdefinedname flags="0x00000054">Factory_SligGetPants_4D9700</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">D69EF601</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000015">BAA4196356BFEBFE</xref>
+        <xref offset="0x0000000000000041">438101A307A70A3C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

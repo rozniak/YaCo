@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>E4543F21B1169838</id>
+    <version>
+      <size>0x0000000000000031</size>
+      <parent_id>E6B3CE382A0B99D8</parent_id>
+      <address>494230</address>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">FB1F4839</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A08C10BB826B700A</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000031">91369F45282049B1</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

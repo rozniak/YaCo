@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9608BC0301181678</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>AAD03FFB79390647</parent_id>
+      <address>4DB100</address>
+      <userdefinedname flags="0x00000054">Factory_NakedSligButton_4DB100</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">448ED0FB</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">7628D0953C3A653E</xref>
+        <xref offset="0x0000000000000033">9D7A26993D896F4E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

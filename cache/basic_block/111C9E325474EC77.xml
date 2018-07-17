@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>111C9E325474EC77</id>
+    <version>
+      <size>0x0000000000000003</size>
+      <parent_id>F1BDED64A276C464</parent_id>
+      <address>4FA8F0</address>
+      <userdefinedname flags="0x00000054">PSX_SetVideoMode_4FA8F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">749D461C</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

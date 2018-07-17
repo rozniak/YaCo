@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8D5F0138056868D1</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>C6E8134EBF753D69</parent_id>
+      <address>4DACD0</address>
+      <userdefinedname flags="0x00000054">Factory_MineCar_4DACD0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47A73DBA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">F1FE6280BEB10081</xref>
+        <xref offset="0x0000000000000040">4EA7A36042E81972</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

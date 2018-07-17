@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>741C7673C608E9A2</id>
+    <version>
+      <size>0x0000000000000006</size>
+      <parent_id>AA87287494203C01</parent_id>
+      <address>4FB330</address>
+      <userdefinedname flags="0x00000054">PSX_CdSetDebug_4FB330</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CC8D3923</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

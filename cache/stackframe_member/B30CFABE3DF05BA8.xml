@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>B30CFABE3DF05BA8</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>8D11B28987264846</parent_id>
+      <address>1B0</address>
+      <userdefinedname>hwnd</userdefinedname>
+      <proto>HWND</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

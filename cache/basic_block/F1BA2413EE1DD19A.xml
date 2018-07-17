@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F1BA2413EE1DD19A</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>EC925B9F66D56D6A</parent_id>
+      <address>4F2BA0</address>
+      <userdefinedname flags="0x00000054">Game_SetExitCallBack_4F2BA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5F0529C0</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">6C1C0D85D0949371</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

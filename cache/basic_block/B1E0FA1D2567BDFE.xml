@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B1E0FA1D2567BDFE</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>CCB9AD67984AD3AC</parent_id>
+      <address>40E460</address>
+      <userdefinedname flags="0x00000054">ScreenManager::dtor_40E460</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">C3E55BCF14C969C4</xref>
+        <xref offset="0x000000000000000F">4BBC16F3847B676C</xref>
+        <xref offset="0x0000000000000018">11DBAED2AC3BBAAA</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

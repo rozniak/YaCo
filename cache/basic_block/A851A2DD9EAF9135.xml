@@ -11,9 +11,9 @@
         <signature algo="crc32" method="invariants">ED32C216</signature>
       </signatures>
       <xrefs>
-        <xref offset="0x0000000000000000">E1BC31EE1E929EA1</xref>
-        <xref offset="0x000000000000000A">0E269FBB7D3DB05D</xref>
-        <xref offset="0x0000000000000056">B1F39169B82F7FBF</xref>
+        <xref offset="0x0000000000000000">9061D68FCEBC7F73</xref>
+        <xref offset="0x000000000000000A">30B7A319A4D727DB</xref>
+        <xref offset="0x0000000000000056">B4FBCF1AA1636CB8</xref>
       </xrefs>
     </version>
   </basic_block>

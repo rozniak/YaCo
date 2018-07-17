@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>207CFE6545325859</id>
+    <version>
+      <size>0x0000000000000019</size>
+      <parent_id>8F4C719F49DFAD1D</parent_id>
+      <address>4F6290</address>
+      <userdefinedname flags="0x00000054">PSX_ClearOTag_4F6290</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">24A1B870</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000A" type="nonrepeatable_comment">otBufferSize</comments>
+        <comments offset="000000000000000B" type="nonrepeatable_comment">otBuffer</comments>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000006" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">98BD73D2472E0E35</xref>
+        <xref offset="0x0000000000000019">C8316413973B00C5</xref>
+        <xref offset="0x0000000000000025">F427B31936E92E17</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

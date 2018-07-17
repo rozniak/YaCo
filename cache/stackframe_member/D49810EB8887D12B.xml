@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>D49810EB8887D12B</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>62EC5B53E0819144</parent_id>
+      <address>8</address>
+      <userdefinedname>drive</userdefinedname>
+      <proto>char[2]</proto>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

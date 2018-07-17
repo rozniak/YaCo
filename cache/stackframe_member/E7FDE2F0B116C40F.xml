@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>E7FDE2F0B116C40F</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>FB54876FBE69F389</parent_id>
+      <address>4</address>
+      <userdefinedname>pPoly</userdefinedname>
+      <proto>Poly_G3 *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

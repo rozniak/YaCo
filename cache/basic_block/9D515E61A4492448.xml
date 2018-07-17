@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>9D515E61A4492448</id>
+    <version>
+      <size>0x0000000000000015</size>
+      <parent_id>D70C85CDBBC547E2</parent_id>
+      <address>4F9960</address>
+      <userdefinedname flags="0x00000054">PSX_EMU_SetDispType_4F9960</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">CE445634</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000007" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">C9EF28BB541F7B43</xref>
+        <xref offset="0x0000000000000015">7CAF26F2EE10486A</xref>
+        <xref offset="0x0000000000000119">D34A91299813A853</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>84FF8B3C2CB7017A</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>93DB1D8E83BC60C4</parent_id>
+      <address>460FB0</address>
+      <userdefinedname flags="0x00000054">Path_Format_CameraName_460FB0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">23EAA933</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000028" type="nonrepeatable_comment">char *</comments>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000006" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000B" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000014" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000023" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001B">2EEA31085C04DEF9</xref>
+        <xref offset="0x0000000000000023">2C584CA7DE434275</xref>
+        <xref offset="0x0000000000000029">BE52C5A0E648CF18</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

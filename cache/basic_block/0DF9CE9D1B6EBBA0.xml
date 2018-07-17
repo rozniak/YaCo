@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0DF9CE9D1B6EBBA0</id>
+    <version>
+      <size>0x000000000000000D</size>
+      <parent_id>B70973A40EB8A328</parent_id>
+      <address>4D7D90</address>
+      <userdefinedname flags="0x00000054">Factory_ExpressWell_4D7D90</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">FD76103F</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000002" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000D">A26D6F5B7B9A3DD2</xref>
+        <xref offset="0x0000000000000049">5834304F3AD9F554</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

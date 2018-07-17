@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>79A4369269FADF20</id>
+    <version>
+      <size>0x000000000000000E</size>
+      <parent_id>B3D7A280548A5321</parent_id>
+      <address>4CA280</address>
+      <userdefinedname flags="0x00000054">SND_Shutdown_4CA280</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">E77841F3</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000005" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">0B3636461FA196C7</xref>
+        <xref offset="0x0000000000000005">3F78D81F065D34E8</xref>
+        <xref offset="0x000000000000000E">6626DC7A7DD9AFB1</xref>
+        <xref offset="0x000000000000003D">1E9B4307E347B519</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

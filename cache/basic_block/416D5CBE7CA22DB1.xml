@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>416D5CBE7CA22DB1</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>FE150B16F9FA35EF</parent_id>
+      <address>415500</address>
+      <userdefinedname flags="0x00000054">DDCheat_dtor_415500</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9AC6311</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">450633AD3B9BDC5F</xref>
+        <xref offset="0x000000000000000F">704D4BF36907E6E6</xref>
+        <xref offset="0x0000000000000018">31683A15CA96FBF7</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

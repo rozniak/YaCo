@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>AE9D402C51322BAA</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>55712F18C5DB8E5C</parent_id>
+      <address>2C</address>
+      <userdefinedname>pDispEnv</userdefinedname>
+      <proto>const PSX_DISPENV *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

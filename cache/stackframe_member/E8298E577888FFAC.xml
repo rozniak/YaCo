@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>E8298E577888FFAC</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>53CDD368DE90AE3E</parent_id>
+      <address>4</address>
+      <userdefinedname>otBuffer</userdefinedname>
+      <proto>OtItem *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

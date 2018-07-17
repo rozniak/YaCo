@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A2D9151762DE54A3</id>
+    <version>
+      <size>0x0000000000000003</size>
+      <parent_id>736BE90F55CB6820</parent_id>
+      <address>4FAA20</address>
+      <userdefinedname flags="0x00000054">PSX_ResetCallBack_4FAA20</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">749D461C</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </basic_block>
+</sigfile>

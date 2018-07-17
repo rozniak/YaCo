@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B3235B1E7A975E27</id>
+    <version>
+      <size>0x000000000000001E</size>
+      <parent_id>8D98BC149C4366B3</parent_id>
+      <address>415550</address>
+      <userdefinedname flags="0x00000054">DDCheat_SaveScreenshot_415550</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EFED39E9</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">size_t</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">48C649875D836A57</xref>
+        <xref offset="0x000000000000001E">A3AE7A29F057D05D</xref>
+        <xref offset="0x00000000000001B2">473C9D8207F4E3A2</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

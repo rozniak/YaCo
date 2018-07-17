@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>611B31FB45B6E8D4</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>FB219A3F76506F1A</parent_id>
+      <address>10</address>
+      <userdefinedname>pConverted</userdefinedname>
+      <proto>_WORD *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

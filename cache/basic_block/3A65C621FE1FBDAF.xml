@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>3A65C621FE1FBDAF</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>6D72E558A4117ECE</parent_id>
+      <address>4EFA30</address>
+      <userdefinedname flags="0x000000D4">SND_Free_4EFA30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">5F55D637</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">AF6246E1BA488576</xref>
+        <xref offset="0x000000000000000C">8AAAF53B61048488</xref>
+        <xref offset="0x0000000000000011">0F7175C27B285193</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

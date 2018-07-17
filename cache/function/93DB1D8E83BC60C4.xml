@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>93DB1D8E83BC60C4</id>
+    <version>
+      <size>0x0000000000000032</size>
+      <parent_id>6AC3B5E1C82E804B</parent_id>
+      <address>460FB0</address>
+      <proto>void __cdecl sub(char *pStrBuffer, __int16 levelId, __int16 pathId, __int16 cameraId)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">23EAA933</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">AC0A909D77428994</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000032">84FF8B3C2CB7017A</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

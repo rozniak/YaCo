@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>77DBC54ED98B42E0</id>
+    <version>
+      <size>0x000000000000001C</size>
+      <parent_id>247F74744D18A683</parent_id>
+      <address>4F6A70</address>
+      <userdefinedname flags="0x000000D4">PSX_4F6A70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">78224118</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000006" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000013" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">0D20AE6EAF36D026</xref>
+        <xref offset="0x000000000000001C">A8B3E092F79313B2</xref>
+        <xref offset="0x000000000000027E">0DFDEB31361108E2</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

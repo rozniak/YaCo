@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>15AEB64680A7B4C5</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>08888BFA58D11A67</parent_id>
+      <address>482D40</address>
+      <userdefinedname flags="0x00000054">Game_Free_LoadingIcon_482D40</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">50677E5D</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000000" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000002" type="nonrepeatable_comment">addUseCount</comments>
+        <comments offset="0000000000000004" type="nonrepeatable_comment">resourceID</comments>
+        <comments offset="0000000000000009" type="nonrepeatable_comment">type</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">0907EB30A2E7BBCA</xref>
+        <xref offset="0x000000000000001A">D02DB4993B707E97</xref>
+        <xref offset="0x0000000000000021">EAF00FDB1D42E975</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

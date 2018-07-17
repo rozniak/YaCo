@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>194498B19B3C2167</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>BC9562A03A9F8261</parent_id>
+      <address>4DA730</address>
+      <userdefinedname flags="0x00000054">Factory_Water_4DA730</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47A73DBA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">6F51BF344AAFC3BB</xref>
+        <xref offset="0x0000000000000035">42E9FEC7068E52EF</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

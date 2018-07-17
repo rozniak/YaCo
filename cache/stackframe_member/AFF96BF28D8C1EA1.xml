@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>AFF96BF28D8C1EA1</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>D379568C72CB9220</parent_id>
+      <address>1C</address>
+      <userdefinedname>paintMessageCount</userdefinedname>
+      <proto>unsigned int</proto>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

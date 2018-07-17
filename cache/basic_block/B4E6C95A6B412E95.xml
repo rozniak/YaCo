@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B4E6C95A6B412E95</id>
+    <version>
+      <size>0x000000000000001D</size>
+      <parent_id>0D92BCCB50312210</parent_id>
+      <address>45F040</address>
+      <userdefinedname flags="0x00000054">Input::Update_45F040</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">052B68B9</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000003" type="nonrepeatable_comment">padNum</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000A">910A27C485A3F47C</xref>
+        <xref offset="0x000000000000001D">51A80A1D2AB3A746</xref>
+        <xref offset="0x000000000000009C">554E4F95ECA0D183</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

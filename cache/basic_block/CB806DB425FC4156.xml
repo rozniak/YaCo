@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>CB806DB425FC4156</id>
+    <version>
+      <size>0x000000000000003B</size>
+      <parent_id>25B2EEB0043C3CB4</parent_id>
+      <address>4FE420</address>
+      <userdefinedname flags="0x00000054">PSX_SetDrawEnv_Impl_4FE420</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B34DB8BA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000004" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000008" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000C" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000011" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001B" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001F" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000025" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000029" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000002E" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000034" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000C">DC9579F5FE6DF56C</xref>
+        <xref offset="0x0000000000000015">4E60DB092A148B57</xref>
+        <xref offset="0x000000000000001F">F7353DCAC24E3551</xref>
+        <xref offset="0x0000000000000029">4D5BA7FDC31E2209</xref>
+        <xref offset="0x000000000000002E">51D09AF2C86A9C7E</xref>
+        <xref offset="0x0000000000000034">96EBE2F4A7C856D8</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>FFF41915E6371829</id>
+    <version>
+      <size>0x000000000000001D</size>
+      <parent_id>996AC02C3A7A46F7</parent_id>
+      <address>41DFA0</address>
+      <userdefinedname flags="0x00000054">PSX_Display::PutCurrentDispEnv_41DFA0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">76CBE398</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">pDispEnv</comments>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000016">8C2673BD67C4A5D5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

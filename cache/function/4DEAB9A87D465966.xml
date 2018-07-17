@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>4DEAB9A87D465966</id>
+    <version>
+      <size>0x0000000000000186</size>
+      <parent_id>064082DEBD40CCC3</parent_id>
+      <address>4D8590</address>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">79708B2E</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">5FBB4BD36FD8ACEF</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000014">8F1F4CF02D7D34D0</xref>
+        <xref offset="0x0000000000000014" size="0x000000000000000A">0AE2260F0ADD106D</xref>
+        <xref offset="0x000000000000001E" size="0x000000000000000F">C763091DE05BF0AE</xref>
+        <xref offset="0x000000000000002D" size="0x0000000000000007">409C3A3882B323B4</xref>
+        <xref offset="0x0000000000000034" size="0x0000000000000015">B2BC13BB6C776E4A</xref>
+        <xref offset="0x0000000000000049" size="0x0000000000000010">12D4D78BA342DE73</xref>
+        <xref offset="0x0000000000000059" size="0x0000000000000015">28621674C53ECB8B</xref>
+        <xref offset="0x000000000000006E" size="0x0000000000000010">1052097C71EB815B</xref>
+        <xref offset="0x000000000000007E" size="0x0000000000000015">84062A988EB98307</xref>
+        <xref offset="0x0000000000000093" size="0x0000000000000010">AD5C092F9C9890DB</xref>
+        <xref offset="0x00000000000000A3" size="0x0000000000000015">4AD3886C86ABC7E5</xref>
+        <xref offset="0x00000000000000B8" size="0x0000000000000010">B9815BCE9F9A10D4</xref>
+        <xref offset="0x00000000000000C8" size="0x000000000000000F">050052A97570B4E7</xref>
+        <xref offset="0x00000000000000D7" size="0x0000000000000007">AA86EC52F3614BC7</xref>
+        <xref offset="0x00000000000000DE" size="0x000000000000001D">181C7B88E2039B6C</xref>
+        <xref offset="0x00000000000000FB" size="0x000000000000001D">BDF4080961B35598</xref>
+        <xref offset="0x0000000000000118" size="0x000000000000001D">F1B3D078857E9CF1</xref>
+        <xref offset="0x0000000000000135" size="0x000000000000001D">E3A8082E713D93BE</xref>
+        <xref offset="0x0000000000000152" size="0x0000000000000031">6A5406DD30D854F1</xref>
+        <xref offset="0x0000000000000183" size="0x0000000000000003">3F398A008AF76AAB</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

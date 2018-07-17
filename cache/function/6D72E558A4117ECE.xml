@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>6D72E558A4117ECE</id>
+    <version>
+      <size>0x0000000000000055</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4EFA30</address>
+      <proto>signed int __cdecl sub(SoundEntry *pSnd)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">6853603B</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">F1329276789C13E3</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000000C">3A65C621FE1FBDAF</xref>
+        <xref offset="0x000000000000000C" size="0x0000000000000005">C01E1145A2982C54</xref>
+        <xref offset="0x0000000000000011" size="0x000000000000000F">36FBB39624DB43F5</xref>
+        <xref offset="0x0000000000000020" size="0x000000000000000C">AF292F8177B9761B</xref>
+        <xref offset="0x000000000000002C" size="0x0000000000000007">20F4D2AF3D265A75</xref>
+        <xref offset="0x0000000000000033" size="0x0000000000000009">A3249758FCFE58E9</xref>
+        <xref offset="0x000000000000003C" size="0x0000000000000019">51F25902CEA8E7F5</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

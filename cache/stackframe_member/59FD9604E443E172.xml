@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>59FD9604E443E172</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>6AC26D4050AE2845</parent_id>
+      <address>C</address>
+      <userdefinedname>prim</userdefinedname>
+      <proto>OT_Prim *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

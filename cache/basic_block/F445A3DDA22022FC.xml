@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F445A3DDA22022FC</id>
+    <version>
+      <size>0x0000000000000009</size>
+      <parent_id>3B269BB343384BC9</parent_id>
+      <address>4F2C30</address>
+      <userdefinedname flags="0x00000054">Game_Shutdown_4F2C30</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">70E080CC</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">6C1C0D85D0949371</xref>
+        <xref offset="0x0000000000000009">B24374A32426C1DD</xref>
+        <xref offset="0x0000000000000015">E3EAD72726DE6184</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

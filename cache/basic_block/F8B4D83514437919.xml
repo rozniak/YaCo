@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>F8B4D83514437919</id>
+    <version>
+      <size>0x0000000000000041</size>
+      <parent_id>5D6EA060C58DF0D0</parent_id>
+      <address>480E00</address>
+      <userdefinedname flags="0x00000054">Camera::dtor_480E00</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">70909C05</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000002A" type="nonrepeatable_comment">ppRes</comments>
+        <valueview offset="0000000000000002" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000001B" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000022" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000038" operand="00000000">stack</valueview>
+        <valueview offset="000000000000003C" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000002">3FD4D0E6300D9791</xref>
+        <xref offset="0x000000000000002B">AB8A8230C640484E</xref>
+        <xref offset="0x0000000000000041">12033558F30C7EF5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

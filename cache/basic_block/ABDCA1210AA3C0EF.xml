@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>ABDCA1210AA3C0EF</id>
+    <version>
+      <size>0x000000000000000F</size>
+      <parent_id>8F7C7CAC1F9F5C96</parent_id>
+      <address>4F6540</address>
+      <userdefinedname flags="0x00000054">PSX_DrawOTag_4F6540</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C9E04841</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000000">AC670DA5C6EF61F7</xref>
+        <xref offset="0x000000000000000F">A5C4D7FD5ECEF197</xref>
+        <xref offset="0x000000000000001D">E2BA2B121A973AEC</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

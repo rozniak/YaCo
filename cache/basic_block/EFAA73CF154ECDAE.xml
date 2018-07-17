@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>EFAA73CF154ECDAE</id>
+    <version>
+      <size>0x0000000000000011</size>
+      <parent_id>E1D0618DC078A313</parent_id>
+      <address>418AC0</address>
+      <userdefinedname flags="0x00000054">CreditsController::Update_418AC0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">84552483</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">FDA710D9B7860CA4</xref>
+        <xref offset="0x0000000000000011">096A42C5E492ADFC</xref>
+        <xref offset="0x00000000000000BD">9B08F835A8D86E00</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

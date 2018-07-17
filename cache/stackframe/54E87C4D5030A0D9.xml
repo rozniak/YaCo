@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe>
+    <id>54E87C4D5030A0D9</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>EF5A79E22B0E2CF8</parent_id>
+      <address>491BC0</address>
+      <userdefinedname>$ F491BC0</userdefinedname>
+      <signatures/>
+      <xrefs/>
+      <attribute key="stack_lvars">0x00000008</attribute>
+      <attribute key="stack_regvars">0x00000000</attribute>
+      <attribute key="stack_args">0x00000000</attribute>
+    </version>
+  </stackframe>
+</sigfile>

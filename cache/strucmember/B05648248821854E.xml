@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>B05648248821854E</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>E344B4AE5DC2F2CD</parent_id>
+      <address>18</address>
+      <userdefinedname>field_18_saved_killed_muds_per_path</userdefinedname>
+      <proto>char[20]</proto>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

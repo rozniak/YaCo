@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>D62A69F3486D2D45</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>2E578BE92EE4FB03</parent_id>
+      <address>4DA480</address>
+      <userdefinedname flags="0x00000054">Factory_GasCountdown_4DA480</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47A73DBA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">A77CBBF70922038F</xref>
+        <xref offset="0x0000000000000032">5BFA0FE729AFE9C9</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

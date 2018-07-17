@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>B233498667D5D18F</id>
+    <version>
+      <size>0x000000000000000A</size>
+      <parent_id>DC75E3B40A479D95</parent_id>
+      <address>421920</address>
+      <userdefinedname flags="0x00000054">GameSpeak::Update_421920</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">573E9767</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000A">77C07E4174092FC3</xref>
+        <xref offset="0x0000000000000037">C490E23F49BA2228</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

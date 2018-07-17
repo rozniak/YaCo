@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>7C0B268818657E7C</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>E344B4AE5DC2F2CD</parent_id>
+      <userdefinedname>field_0_gnFrame</userdefinedname>
+      <flags>0x20000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

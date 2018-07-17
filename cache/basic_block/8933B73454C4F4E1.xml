@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>8933B73454C4F4E1</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <parent_id>E628A14447A33975</parent_id>
+      <address>415780</address>
+      <userdefinedname flags="0x00000054">DDCheat__Update_415780</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">9388F103</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000004" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000004">C611EC1F8E984D7E</xref>
+        <xref offset="0x0000000000000010">8C4EA882DF2CD1C6</xref>
+        <xref offset="0x0000000000000015">B6FBAF1078E4C308</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

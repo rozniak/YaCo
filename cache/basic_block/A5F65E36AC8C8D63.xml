@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>A5F65E36AC8C8D63</id>
+    <version>
+      <size>0x000000000000000B</size>
+      <parent_id>8F235295A372DAC6</parent_id>
+      <address>4D8320</address>
+      <userdefinedname flags="0x00000054">Factory_PullRingRope_4D8320</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">47A73DBA</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000B">B1F7FB3DFC841024</xref>
+        <xref offset="0x0000000000000039">BFE39A4C528D05FA</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>46E83C5E1AEB3076</id>
+    <version>
+      <size>0x0000000000000012</size>
+      <parent_id>1320A32D7D697F7D</parent_id>
+      <address>4F5FB0</address>
+      <userdefinedname flags="0x00000054">PSX_LoadImage_4F5FB0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">B3EB06B9</signature>
+      </signatures>
+      <offsets>
+        <comments offset="0000000000000005" type="nonrepeatable_comment">pRect</comments>
+        <valueview offset="0000000000000001" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000006">2B446A590786B42E</xref>
+        <xref offset="0x0000000000000012">E63ED8F068CB6F5D</xref>
+        <xref offset="0x0000000000000016">DBD940B521D72B26</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

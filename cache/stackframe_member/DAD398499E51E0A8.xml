@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>DAD398499E51E0A8</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>28C56861D609585D</parent_id>
+      <address>A0</address>
+      <userdefinedname>ppSurface</userdefinedname>
+      <proto>IDirectDrawSurface **</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>3032615D2BB68670</id>
+    <version>
+      <size>0x00000000000000B7</size>
+      <parent_id>3195A365591CA35B</parent_id>
+      <address>4F0F60</address>
+      <proto>void __cdecl sub(IDirectDrawSurface *pSurface, RECT *pRect, int screenMode)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">578ECC09</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A3530B591AB6DE6B</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000002B">5604483519DF9C4F</xref>
+        <xref offset="0x000000000000002B" size="0x0000000000000042">3A3066A2418195B0</xref>
+        <xref offset="0x000000000000006D" size="0x0000000000000026">3098135A35E1EDD5</xref>
+        <xref offset="0x0000000000000093" size="0x0000000000000015">BF090AEC23F8B27C</xref>
+        <xref offset="0x00000000000000A8" size="0x0000000000000007">22F50C0652F8A389</xref>
+        <xref offset="0x00000000000000AF" size="0x0000000000000008">CAD7CB70E4EFA73F</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

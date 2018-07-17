@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7BB6263DA0B8824A</id>
+    <version>
+      <size>0x0000000000000026</size>
+      <parent_id>98B75F7C20747B31</parent_id>
+      <address>460F70</address>
+      <userdefinedname flags="0x00000054">Path_Get_FMV_Record_460F70</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">29EAFCF0</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000F" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001B" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000001B">2EEA31085C04DEF9</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
