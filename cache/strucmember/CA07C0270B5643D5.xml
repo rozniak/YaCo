@@ -6,10 +6,13 @@
       <size>0x0000000000000004</size>
       <parent_id>26C8DE252A0556CB</parent_id>
       <address>4</address>
-      <userdefinedname>field_4</userdefinedname>
-      <flags>0x20000400</flags>
+      <userdefinedname>command</userdefinedname>
+      <proto>InputCommands</proto>
+      <flags>0x28800400</flags>
       <signatures/>
-      <xrefs/>
+      <xrefs>
+        <xref offset="0x0000000000000000">776AE8636D909532</xref>
+      </xrefs>
     </version>
   </strucmember>
 </sigfile>

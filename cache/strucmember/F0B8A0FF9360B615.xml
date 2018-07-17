@@ -5,7 +5,7 @@
     <version>
       <size>0x0000000000000004</size>
       <parent_id>26C8DE252A0556CB</parent_id>
-      <userdefinedname>field_0</userdefinedname>
+      <userdefinedname>key</userdefinedname>
       <proto>MACRO_VK</proto>
       <flags>0x28800400</flags>
       <signatures/>
