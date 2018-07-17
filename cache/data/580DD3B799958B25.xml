@@ -7,7 +7,7 @@
       <parent_id>B71F16F18B3A7A9B</parent_id>
       <address>55EAD8</address>
       <userdefinedname flags="0x00000054">sDefaultKeyBindings_55EAD8</userdefinedname>
-      <proto>InputBinding</proto>
+      <proto>InputBinding[36]</proto>
       <flags>0x60005400</flags>
       <signatures/>
       <xrefs>
