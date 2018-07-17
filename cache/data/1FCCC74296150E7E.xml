@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>1FCCC74296150E7E</id>
+    <version>
+      <size>0x0000000000000028</size>
+      <parent_id>17670BE13C02D998</parent_id>
+      <address>5C9908</address>
+      <userdefinedname flags="0x00000054">sJoyButtonNames_5C9908</userdefinedname>
+      <proto>const char *[]</proto>
+      <flags>0x20005400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>

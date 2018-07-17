@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>748010C9630FFA24</id>
+    <version>
+      <size>0x0000000000000003</size>
+      <parent_id>B71F16F18B3A7A9B</parent_id>
+      <address>55ECE8</address>
+      <userdefinedname flags="0x00000034">aB1</userdefinedname>
+      <proto>const char[3]</proto>
+      <flags>0x5000D400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">4A02870E</signature>
+      </signatures>
+      <xrefs/>
+    </version>
+  </data>
+</sigfile>
