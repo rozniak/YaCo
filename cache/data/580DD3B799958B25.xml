@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>580DD3B799958B25</id>
+    <version>
+      <size>0x0000000000000120</size>
+      <parent_id>B71F16F18B3A7A9B</parent_id>
+      <address>55EAD8</address>
+      <userdefinedname flags="0x00000054">sInputBindings_55EAD8</userdefinedname>
+      <proto>InputBinding</proto>
+      <flags>0x60005400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">26C8DE252A0556CB</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>

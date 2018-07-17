@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>7BBB0CA3F78F4432</id>
+    <version>
+      <size>0x00000000000000AF</size>
+      <parent_id>370C60D95B38341E</parent_id>
+      <address>491870</address>
+      <userdefinedname flags="0x00000054">Input_491870</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C280827B</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="000000000000000E" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001D" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000028" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000034" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000044" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000056" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000067" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000079" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000008C" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000009E" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000000E">76400FE45FF4B88D</xref>
+        <xref offset="0x000000000000001D">B6C6E2FF97C1F010</xref>
+        <xref offset="0x0000000000000028">04338FA9CF7D3204</xref>
+        <xref offset="0x0000000000000034">76400FE45FF4B88D</xref>
+        <xref offset="0x0000000000000044">5BE576FD105E0023</xref>
+        <xref offset="0x0000000000000056">9247B66DB925DFFA</xref>
+        <xref offset="0x0000000000000067">1012EE88EDC8B72D</xref>
+        <xref offset="0x0000000000000079">26EDD4351ECC87CB</xref>
+        <xref offset="0x000000000000008C">4B89E4F8653DDB76</xref>
+        <xref offset="0x000000000000009E">152169B9135583DB</xref>
+        <xref offset="0x00000000000000AF">D2B823D0AF06950C</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

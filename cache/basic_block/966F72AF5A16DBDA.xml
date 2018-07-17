@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>966F72AF5A16DBDA</id>
+    <version>
+      <size>0x000000000000001A</size>
+      <parent_id>14A34690C1FA172A</parent_id>
+      <address>460080</address>
+      <userdefinedname flags="0x00000054">Input_InitJoyStick_460080</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">F19CF809</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000008" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000000E" operand="00000000">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000008">6E15108092304B78</xref>
+        <xref offset="0x000000000000000E">2EFC6A506C32AFA5</xref>
+        <xref offset="0x000000000000001A">BFC077E036CAA82F</xref>
+        <xref offset="0x0000000000000048">A5D02F7CB4596A55</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

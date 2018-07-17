@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>26C8DE252A0556CB</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <address>119</address>
+      <userdefinedname>InputBinding</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">F0B8A0FF9360B615</xref>
+        <xref offset="0x0000000000000004">CA07C0270B5643D5</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

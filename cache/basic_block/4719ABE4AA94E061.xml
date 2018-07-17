@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>4719ABE4AA94E061</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>A6734DCCB9E9F13A</parent_id>
+      <address>492150</address>
+      <userdefinedname flags="0x00000054">Input_492150</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">2479471A</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x0000000000000003">ECD2365A371A76A5</xref>
+        <xref offset="0x000000000000000C">B36760EFE80EE1A8</xref>
+        <xref offset="0x0000000000000012">E537166F8BD229FA</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>609971BBE9366097</id>
+    <version>
+      <size>0x000000000000002B</size>
+      <parent_id>D57CDDBA20C6A3E6</parent_id>
+      <address>492D40</address>
+      <userdefinedname flags="0x00000054">Input_LoadSettingsIni_492D40</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">C3FBE80A</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000007" operand="00000000">offset-off32</valueview>
+        <valueview offset="000000000000000C" operand="00000000">offset-off32</valueview>
+        <valueview offset="0000000000000011" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000025" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000007">7B8040D859569BAD</xref>
+        <xref offset="0x000000000000000C">25A7DDBB240BE728</xref>
+        <xref offset="0x0000000000000019">BD265BD37EE8744B</xref>
+        <xref offset="0x000000000000002B">11DDDD5036007553</xref>
+        <xref offset="0x0000000000000033">84FF55048ACBC945</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
